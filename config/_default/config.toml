@@ -35,8 +35,9 @@ priority = 0.5
 home = ["HTML", "RSS", "JSON"]
 
 [related]
-threshold = 0
-toLower = false
+threshold = 50
+toLower = true
+includeNewer = true
 
 [[related.indices]]
 name = "tags"
@@ -50,9 +51,9 @@ weight = 100
 name = "series"
 weight = 50
 
-[[related.indices]]
-name = "authors"
-weight = 20
+# [[related.indices]]
+# name = "authors"
+# weight = 20
 
 [[related.indices]]
 name = "date"
