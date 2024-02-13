@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-showAuthor: False
+showAuthor: false
 
 showComments: false
 showDate: false
@@ -19,8 +19,8 @@ showRelatedContent: false
 
 ---
 
-{{< typeit >}}
-<b>Welcome to my personal website!</b> 👋
+{{< typeit speed=50 lifeLike=true tag="h3">}}
+Welcome to my personal website! 👋
 {{< /typeit >}}
 
 ## Introduction
@@ -78,9 +78,13 @@ I am currently learning Rust and have experience with Swift for iOS, macOS, and 
 **Bayesian data analysis**
 {{< /alert >}}
 
-More text about BDA.
+In graduate school, I discovered a passion for Bayesian statistics.
+Below is a project page I put together collating as many of my Bayesian analyses as I could. 
+Currently, my job does not directly utilize this specific skill set, but Bayesian statistics still influences my reasoning process.
 
-{{< article link="/projects/bayesian-data-analysis/" >}}
+{{< article link="/jhrcook-website/projects/bayesian-data-analysis/" >}}
+
+<br>
 
 {{< alert icon="wand-magic-sparkles" >}}
 **Machine learning**
@@ -101,7 +105,8 @@ Outside of work and programming, I try to get outdoors as much as possible, name
 {{< carousel images="{hobbies-gallery/IMG_3429.jpeg,hobbies-gallery/IMG_6418.jpeg,hobbies-gallery/IMG_6887.jpeg,hobbies-gallery/IMG_7381.jpeg,hobbies-gallery/IMG_4920.jpeg,hobbies-gallery/IMG_6504.jpeg,hobbies-gallery/IMG_7346.jpeg,hobbies-gallery/IMG_7459.jpeg}" aspectRatio="21-9">}}
 
 When the weather turns here in Boston, I spend my time indoors by exercising, reading, baking bread, and tending to my plants.
+Below is a post on my top books from 2023.
 
-{{< article link="/posts/2023-book-review/" >}}
+{{< article link="/jhrcook-website/posts/2023-book-review/" >}}
 
 You can learn more about my hobbies [here]({{< ref "/hobbies" >}}).
