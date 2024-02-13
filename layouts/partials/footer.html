@@ -1,4 +1,4 @@
-<!-- <footer id="site-footer" class="py-10 print:hidden">
+<footer id="site-footer" class="py-10 print:hidden">
     {{/* Footer menu */}}
     {{ if .Site.Params.footer.showMenu | default true }}
     {{ if .Site.Menus.footer }}
@@ -56,15 +56,7 @@
         {{ end }}
 
     </div>
-    <script>
-        { { if not.Site.Params.disableImageZoom | default true } }
-        mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
-            margin: 24,
-            background: 'rgba(0,0,0,0.5)',
-            scrollOffset: 0,
-        })
-        { { end } }
-    </script>
+
     {{ $jsProcess := resources.Get "js/process.js" }}
     {{ $jsProcess = $jsProcess | resources.Minify | resources.Fingerprint "sha512" }}
     <script type="text/javascript" src="{{ $jsProcess.RelPermalink }}"
@@ -73,4 +65,4 @@
     {{ if templates.Exists "partials/extend-footer.html" }}
     {{ partialCached "extend-footer.html" . }}
     {{ end }}
-</footer> -->
+</footer>
