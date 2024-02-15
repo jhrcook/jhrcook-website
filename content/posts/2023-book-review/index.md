@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Favorite books of 2023"
 subtitle: "My top picks from the book I read this year."
 summary: "A review of my favorite books of the year and why I particularly enjoyed them."

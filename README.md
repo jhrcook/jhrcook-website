@@ -4,11 +4,19 @@ Built with [Hugo](https://gohugo.io) using the [Blowfish](https://blowfish.page)
 
 To-Do:
 
-- [ ] Copy over blog posts and reformat everything 😬
+- [ ] Copy over blog posts
+  - [x] Copy over posts and get Hugo running
+  - [ ] Check styling of all posts
+  - [ ] Align on tags and categories
+  - [ ] Make "Series" of some of the posts:
+    - [ ] Riddlers
+    - [ ] PyMC Splines
 - [ ] Move over Projects
 - [ ] Add to Hobbies
 - [ ] Add CV somewhere
 - [ ] Add text to "About" page
+
+
 
 ---
 

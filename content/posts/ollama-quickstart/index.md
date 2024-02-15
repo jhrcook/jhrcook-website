@@ -1,16 +1,13 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Quickstart for playing with LLMs locally"
 subtitle: "A simple tutorial for getting up and running with LLMs running on your local computer."
 summary: "A simple tutorial for getting up and running with LLMs running on your local computer."
-tags: ["tutorial", "ML/AI"]
-categories: [dev]
+tags: ["tutorial", "ML/AI", "python"]
+categories: ["dev"]
 date: 2024-01-31T07:30:13-05:00
 lastmod: 2024-01-31T07:30:13-05:00
 featured: false
 draft: false
-
 showHero: false
 ---
 
