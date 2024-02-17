@@ -55,7 +55,7 @@ The latter, in particular, is great at guessing what word I'm trying to type[^3]
 <i class="fa-solid fa-hand-holding-dollar" title="Free (with an optional Premium tier)" style="color:#305C7D"></i>
 <i class="fa-solid fa-beer-mug-empty" title="Installed with Homebrew" style="color:#305C7D"></i>
 
-<img src="./images/affine.png" title="Example image of AFFiNE." alt="AFFiNE"></img>
+<img src="./images/affine.webp" title="Example image of AFFiNE." alt="AFFiNE"></img>
 
 AFFiNE is similar to the very popular [Notion](https://www.notion.so) app, except you can self-host it for free.
 It does not have all of the features that Notion has and takes more effort to host in the cloud.
@@ -81,7 +81,7 @@ Since it's free, it's hard to find a reason to use any of the other options avai
 <i class="fa-solid fa-hand-holding-heart" title="Free" style="color:#305C7D"></i>
 <i class="fa-solid fa-beer-mug-empty" title="Installed with Homebrew" style="color:#305C7D"></i>
 
-<img src="./images/brave.png" title="Example image of Brave." alt="Brave"></img>
+<img src="./images/brave.webp" title="Example image of Brave." alt="Brave"></img>
 
 Brave is a replacement internet browser for Chrome.
 It does a whole bunch of things I don't care about, namely some random cryptocurrency stuff, but it also blocks a lot of creepy trackers that makes the web nicer to use and safer.
@@ -130,7 +130,7 @@ But once I understood how it worked, I found it makes complete sense for some of
 <i class="fa-solid fa-dollar-sign" title="Paid" style="color:#305C7D"></i>
 <i class="fa-brands fa-apple" title="Installed from the Mac App Store" style="color:#305C7D"></i>
 
-<img src="./images/pixelmatorpro.png" title="Example image of Pixelmater Pro." alt="Pixelmater Pro"></img>
+<img src="./images/pixelmatorpro.webp" title="Example image of Pixelmater Pro." alt="Pixelmater Pro"></img>
 
 This is the only app on this list I paid for and it was completely worth it.
 Editing photos is fast and smooth, particularly with the M2 Pro running my MacBook Pro.

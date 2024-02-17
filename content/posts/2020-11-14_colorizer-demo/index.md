@@ -27,11 +27,11 @@ Each step is explained in more detail below and a full working Python script is 
 
 For inspiration, here are some examples of the Image Colorization DNN at work.
 
-| Original | Colorized |
-|----------|-----------|
+| Original                                              | Colorized                                                   |
+|-------------------------------------------------------|-------------------------------------------------------------|
 | <img src="assets/grandpa-and-grandma2.jpg" width=300> | <img src="assets/grandpa-and-grandma2_color.jpg" width=300> |
-| <img src="assets/wedding-photo.jpg" width=300> | <img src="assets/wedding-photo_color.jpg" width=300> |
-| <img src="assets/dad-in-pan.jpg" width=300> | <img src="assets/dad-in-pan_color.jpg" width=300> |
+| <img src="assets/wedding-photo.jpg" width=300>        | <img src="assets/wedding-photo_color.jpg" width=300>        |
+| <img src="assets/dad-in-pan.jpg" width=300>           | <img src="assets/dad-in-pan_color.jpg" width=300>           |
 
 ## Using the Image Colorization API with Python
 
@@ -49,8 +49,8 @@ My `secrets.py` file looks like the following:
 ```python
 DEEPAI_API_KEY="put your key here"
 ```
-This file will be imported into Python as a module, makign the `DEEPAI_API_KEY` available as a variable.
 
+This file will be imported into Python as a module, makign the `DEEPAI_API_KEY` available as a variable.
 
 ### 2. Prepare Python
 
@@ -62,14 +62,13 @@ source colorizer-env/bin/activate
 pip install requests
 ```
 
-or 
+or
 
 ```bash
 conda create -n colorizer-env python=3.8
 conda activate colorizer-env
 conda install requests
 ```
-
 
 ### 3. Post an image to be colorized
 

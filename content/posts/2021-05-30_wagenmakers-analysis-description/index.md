@@ -121,7 +121,7 @@ mcmc_trace(
 )
 ```
 
-![](assets/mcmc-chains-plot.png)
+![](assets/mcmc-chains-plot.webp)
 
 ```r
 mcmc_areas(

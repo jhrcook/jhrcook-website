@@ -526,7 +526,7 @@ theta_tau_post_df_ncp = get_dispersion_and_individual_posteriors_tidy(
 plot_funnels(eta_tau_post_df_ncp, x="eta", min_y=-8)
 ```
 
-![png](assets/999_032_mixed-centered-parameterization-pymc3-model_30_0.png)
+![png](assets/999_032_mixed-centered-parameterization-pymc3-model_30_0.webp)
 
 ```python
 def plot_overlapping_funnels(
@@ -1089,7 +1089,7 @@ eta_tau_post_df_ncp = get_dispersion_and_individual_posteriors_tidy(
 plot_funnels(eta_tau_post_df_ncp, x="eta", min_y=-2)
 ```
 
-![png](assets/999_032_mixed-centered-parameterization-pymc3-model_88_0.png)
+![png](assets/999_032_mixed-centered-parameterization-pymc3-model_88_0.webp)
 
 ```python
 ncp_population_post = pd.DataFrame(
@@ -1280,7 +1280,7 @@ eta_tau_post_df_mixp = get_dispersion_and_individual_posteriors_tidy(
 plot_funnels(eta_tau_post_df_mixp, "eta_ncp", min_y=-2)
 ```
 
-![png](assets/999_032_mixed-centered-parameterization-pymc3-model_106_0.png)
+![png](assets/999_032_mixed-centered-parameterization-pymc3-model_106_0.webp)
 
 ```python
 def make_population_post_df(t: az.InferenceData) -> pd.DataFrame:

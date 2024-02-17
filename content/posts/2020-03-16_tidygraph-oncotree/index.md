@@ -21,7 +21,7 @@ further divided into seven cancers, including head and neck squamous
 cell carcinoma (HNSC). HNSC itself has six subtypes, too. This hierarchy
 can be represented in a directed acyclic graph (DAG), as shown below.
 
-![](assets/oncotree_online_example.png)
+![](assets/oncotree_online_example.webp)
 
 The [OncoTree](http://oncotree.mskcc.org/#/home) is a DAG of cancer
 subtypes maintained by one of the leading cancer research institutes,
