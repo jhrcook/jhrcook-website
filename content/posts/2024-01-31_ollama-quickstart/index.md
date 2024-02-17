@@ -8,7 +8,7 @@ date: 2024-01-31T07:30:13-05:00
 lastmod: 2024-01-31T07:30:13-05:00
 featured: false
 draft: false
-showHero: false
+showHero: true
 ---
 
 With so much hype around LLMs (e.g. Chat-GPT), I've been playing around with various models in the hope that when I come up with a use case, I will have the skill-set to actually build the tool.
