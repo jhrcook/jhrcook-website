@@ -16,7 +16,7 @@ buildDrafts = false
 buildFuture = false
 
 
-timeout = "120s"
+timeout = "600s"
 # googleAnalytics = "G-XXXXXXXXX"
 
 [imaging]

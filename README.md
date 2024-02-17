@@ -11,12 +11,11 @@ To-Do:
   - [ ] Make "Series" of some of the posts:
     - [ ] Riddlers
     - [ ] PyMC Splines
+  - [ ] Reduce image/asset sizes
 - [ ] Move over Projects
 - [ ] Add to Hobbies
 - [ ] Add CV somewhere
 - [ ] Add text to "About" page
-
-
 
 ---
 
