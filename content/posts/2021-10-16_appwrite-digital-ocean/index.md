@@ -4,7 +4,7 @@
 title: "Setting up Appwrite on DigitalOcean"
 subtitle: "A step-by-step tutorial on how to get a powerful backend system up and running on Digital Ocean."
 summary: "A step-by-step tutorial on how to get a powerful backend system up and running on Digital Ocean."
-tags: [ "Hacktoberfest", "tutorial"]
+tags: [ "Hacktoberfest", "tutorial", "app"]
 categories: ["dev"]
 date: 2021-10-16T06:58:22-04:00
 lastmod: 2021-10-16T06:58:22-04:00
@@ -47,7 +47,7 @@ Here are the steps for those who don't need much help and just want to get start
 
 ### Walkthrough
 
-#### 1. Create a DigitalOcean Droplet with Appwrite pre-installed.
+#### 1. Create a DigitalOcean Droplet with Appwrite pre-installed
 
 The first step of this process is to create a [Droplet](https://www.digitalocean.com/products/droplets/) on DigitalOcean.
 The Droplet is a virtual machine in the cloud and can be as simple as a single shared CPU with 1 GB RAM and 25 GB storage for \$5 a month.
@@ -84,7 +84,7 @@ For this tutorial, I set the hostname as "appwrite.my-app.com".
 To access the server through a domain you already own (e.g. "my-app.com" in this case), you will need to add this Droplet as a record of the domain.
 This will vary depending on which DNS registrar you use and who manages the DNS records, but DigitalOcean has a helpful guide on handling this: [How To Point to DigitalOcean Nameservers From Common Domain Registrars](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars).
 
-#### 2. Update Appwrite security settings on the Droplet.
+#### 2. Update Appwrite security settings on the Droplet
 
 After a few minutes, DigitalOcean will have your virtual machine running.
 While you can go right to the Appwrite console (as in step 3, below), I think it is worth first checking the security settings of the production server.
@@ -126,7 +126,7 @@ If you make any changes, make sure the run the following command to have the cha
 docker-compose up -d
 ```
 
-#### 3. Sign in to the Appwrite console.
+#### 3. Sign in to the Appwrite console
 
 Finally, we can go to the IP address or URL for our new server and login to the Appwrite console.
 Once signed in, you can instantly begin using your new backend.

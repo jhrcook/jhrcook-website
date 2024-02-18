@@ -1,8 +1,8 @@
 ---
 title: "GitHub Actions for Compiling and Converting LaTeX"
-subtitle: ""
-summary: "Use GitHub actions to design a workflow to test LaTeX compilation and to convert the LaTeX document using pandoc."
-tags: [programming, GitHub, latex, manuscript, science, biology, research]
+subtitle: "Use GitHub actions to design a workflow to test LaTeX compilation and to convert the LaTeX document using Pandoc."
+summary: "Use GitHub actions to design a workflow to test LaTeX compilation and to convert the LaTeX document using Pandoc."
+tags: [GitHub, latex, science]
 categories: ["dev"]
 date: 2020-03-07T10:50:41-05:00
 lastmod: 2020-03-07T10:50:41-05:00

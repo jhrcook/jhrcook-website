@@ -2,7 +2,7 @@
 title: "Mixing centered and non-centered parameterizations in a hierarchical model with PyMC3"
 subtitle: "How to build a hierarchical model in PyMC3 with a mixture of centered and non-centered parameterizations to avoid the dreaded funnel degeneracies."
 summary: "How to build a hierarchical model in PyMC3 with a mixture of centered and non-centered parameterizations to avoid the dreaded funnel degeneracies."
-tags: [python, bayesian, "data science", "hierarchical model", modeling, statistics]
+tags: [python, Bayesian, PyMC, "data analysis", modeling, statistics]
 categories: ["data science"]
 date: 2021-07-16T16:16:11-04:00
 lastmod: 2021-07-16T16:16:11-04:00

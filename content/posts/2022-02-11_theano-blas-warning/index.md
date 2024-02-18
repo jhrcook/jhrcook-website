@@ -2,7 +2,7 @@
 title: "PyMC3 MCMC performance with and without Theano's NumPy BLAS warning (updated with PyMC v4 comparison!)"
 subtitle: "Does the warning 'Using NumPy C-API based implementation for BLAS functions' from Theano when using PyMC3 affect the performance of MCMC?"
 summary: "Does the warning 'Using NumPy C-API based implementation for BLAS functions' from Theano when using PyMC3 affect the performance of MCMC?"
-tags: ["programming", "data science", "Bayesian"]
+tags: [ "data analysis", "Bayesian", "PyMC", "python", "modeling"]
 categories: [dev]
 date: 2022-02-11T11:09:46-05:00
 lastmod: 2022-02-11T11:09:46-05:00

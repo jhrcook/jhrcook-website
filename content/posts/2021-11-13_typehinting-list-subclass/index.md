@@ -4,7 +4,7 @@
 title: "Type hinting a list subclass in Python with function overloading"
 subtitle: "How to support type hints of the dunder methods on your subclass of the built-in Python list using *function overloading*."
 summary: "How to support type hints of the dunder methods on your subclass of the built-in Python list using *function overloading*."
-tags: [python, programming]
+tags: [python, "type hinting", "tutorial"]
 categories: [dev]
 date: 2021-11-13T07:21:48-05:00
 lastmod: 2021-11-13T07:21:48-05:00
@@ -94,7 +94,7 @@ Here is the full class with a description of what is going on below.
 (The class is called `Intcode` because it is meant to be the Intcode program[^1] for the machine built in the challenge.)
 
 [^1]: "An `Intcode` program is a list of integers separated by commas (like `1,0,0,3,99`).
-To run one, start by looking at the first integer (called position 0). 
+To run one, start by looking at the first integer (called position 0).
 Here, you will find an opcode - either `1`, `2`, or `99`. The `opcode` indicates what to do..."
 More information can be found on [Day 2](https://adventofcode.com/2019/day/2) of Advent of Code 2019.
 

@@ -4,7 +4,7 @@
 title: "'mustashe'"
 subtitle: ""
 summary: "A simple system for saving and loading objects in R. Long running computations can be stashed after the first run and then reloaded the next time. Dependencies can be added to ensure that a computation is re-run if any of its dependencies or inputs have changed."
-tags: ["programming", "r", "package"]
+tags: [R, package]
 categories: ["dev"]
 date: 2020-03-21T12:41:48-04:00
 lastmod: 2020-03-21T12:41:48-04:00

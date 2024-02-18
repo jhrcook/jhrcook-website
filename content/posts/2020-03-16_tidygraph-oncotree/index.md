@@ -4,7 +4,7 @@
 title: "OncoTree Tidygraph"
 subtitle: ""
 summary: "Transforming the MSK OncoTree into a tidygraph object in R."
-tags: ["programming", "R", "graphs", "cancer"]
+tags: [R, science, data viz]
 categories: [dev]
 date: 2020-03-16T09:01:22-04:00
 lastmod: 2020-03-16T09:01:22-04:00

@@ -4,7 +4,7 @@
 title: "Find the intersection of overlapping histograms in R"
 subtitle: ""
 summary: "How to find the point where two histograms overlap."
-tags: ["r", "programming", "statistics", "tutorial"]
+tags: ["R", "statistics", "tutorial"]
 categories: ["data science"]
 date: 2019-08-14T13:02:21-04:00
 lastmod: 2019-08-14T13:02:21-04:00
@@ -12,7 +12,7 @@ featured: false
 draft: false
 ---
 
-Here, I demonstrate how to find the point where two histograms overlap. While this is an approximation, it seems to have a very high level of precision. 
+Here, I demonstrate how to find the point where two histograms overlap. While this is an approximation, it seems to have a very high level of precision.
 
 ### Prepare simulated data
 
@@ -28,7 +28,7 @@ norm_dist <- rnorm(5e5, mean = 20, sd = 5)
 
 df <- tibble(
   x = c(gamma_dist, norm_dist),
-	original_dataset = c(rep("gamma_dist", 1e5), rep("norm_dist", 5e5))
+ original_dataset = c(rep("gamma_dist", 1e5), rep("norm_dist", 5e5))
 )
 df
 #> # A tibble: 600,000 x 2
@@ -46,6 +46,7 @@ df
 #> 10  1.67 gamma_dist
 #> # … with 599,990 more rows
 ```
+
 I used 'ggplot2' to plot the densities of the two data sets. The gamma distribution is in red and the normal distribution is in blue. I broke the creation of the plot into two steps: the essential step to create the density curves, and the styling step to make the plot look nice. Of course, these could be combined into a single long ggplot statement.
 
 ```r
@@ -78,6 +79,7 @@ to <- 40
 gamma_density <- density(gamma_dist, from = from, to = to)
 norm_density <- density(norm_dist, from = from, to = to)
 ```
+
 The final step was to find where the density of the gamma distribution was less than the normal distribution. Therefore, I applied this logic to create the boolean vector `idx`. I also included two other filters to contain the result between 5 to 20 because, from the plot above, I can see that the intersection falls within this range.
 
 ```r
@@ -88,6 +90,7 @@ poi <- min(gamma_density$x[idx])
 poi
 #> 10.64579
 ```
+
 That's it, the point of intersection has been approximated to a high precision. A vertical line was added to the plot below at `poi`.
 
 ```r

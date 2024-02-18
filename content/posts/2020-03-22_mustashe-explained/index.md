@@ -2,7 +2,7 @@
 title: "'mustashe' Explained"
 subtitle: "An explanation of the caching system employed in 'mustashe'."
 summary: "An explanation of the caching system employed in 'mustashe'."
-tags: ["programming", "r", "package"]
+tags: [R, package]
 categories: ["dev"]
 date: 2020-03-22T11:45:50-04:00
 lastmod: 2020-03-22T11:45:50-04:00

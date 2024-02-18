@@ -1,10 +1,8 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Experimenting with multi-level and hierarchical splines in PyMC"
 subtitle: "I experimented with different structures for multi-level and hierarchical splines in PyMC, including using a multivariate normal prior distribution over the spline parameters."
 summary: "I experimented with different structures for multi-level and hierarchical splines in PyMC, including using a multivariate normal prior distribution over the spline parameters."
-tags: [python, programming, statistics, Bayesian]
+tags: [python,  statistics, Bayesian, modeling]
 categories: ["data science"]
 date: 2022-02-27T08:24:36-05:00
 lastmod: 2022-02-27T08:24:36-05:00

@@ -2,7 +2,7 @@
 title: "Riddler: Can You Roll The Perfect Bowl?"
 subtitle: "My solution to this Riddler using R"
 summary: "I used simulation with to approximate the solution an older Riddler. I used an gradient descent-like method to gradually narrow in on a precise estimate."
-tags: ["r", "programming", "Riddler", "puzzle", "R-posts"]
+tags: ["R", "puzzle"]
 categories: [dev]
 date: 2020-05-31T09:41:40-04:00
 lastmod: 2020-05-31T09:41:40-04:00

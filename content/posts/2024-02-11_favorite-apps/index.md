@@ -4,7 +4,7 @@
 title: "Favorite apps on my Mac"
 subtitle: "A list of my favorite productivity, software development, and personal applications on my MacBook."
 summary: "A list of my favorite productivity, software development, and personal applications on my MacBook."
-tags: [apps, productivity, developer]
+tags: [app, productivity]
 categories: [tools]
 date: 2024-02-11T07:30:13-05:00
 lastmod: 2024-02-11T07:30:13-05:00

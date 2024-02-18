@@ -4,7 +4,7 @@
 title: "Build and push a Rust project to Deta on GitHub Actions"
 subtitle: "Using GitHub actions to cross-compile and push a Rust project to Deta."
 summary: "Pushing Rust projects to Deta can require cross-compiling or timeout during the build process. Compiling on a Linux runner on GitHub Actions and pushing the artifact can solve both of these issues."
-tags: ["GitHub Actions", "rust", "Deta"]
+tags: ["GitHub", "Rust", "app"]
 categories: [dev]
 date: 2023-09-23T13:49:58-04:00
 lastmod: 2023-09-23T13:49:58-04:00

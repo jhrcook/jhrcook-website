@@ -3,7 +3,7 @@ title: "R Markdown animated GitHub corner"
 subtitle: ""
 summary: "How to add an animated GitHub corner to an R Markdown page."
 authors: ["admin"]
-tags: ["programming", "rmarkdown", "r", "tutorial"]
+tags: [ "R", "tutorial"]
 categories: ["dev"]
 date: 2019-08-16T11:48:40-04:00
 lastmod: 2019-08-16T11:48:40-04:00

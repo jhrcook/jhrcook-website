@@ -125,7 +125,6 @@ $$
 \text{E}[y | x, \beta] = g(x, \beta) = \beta_1 + \frac{\beta_2}{1 + (x/\beta_3)^{-\beta_4}} \\
 $$
 
-
 The model is a scaled and shifted logistic curve.
 This structure results in the following interpretations for $\beta$, all of which are restricted to positive values:
 
@@ -480,4 +479,3 @@ sessionInfo()
     #> [79] cellranger_1.1.0     gtable_0.3.0         datawizard_0.2.1    
     #> [82] assertthat_0.2.1     xfun_0.25            broom_0.7.9         
     #> [85] coda_0.19-4          ellipsis_0.3.2       here_1.0.1
-

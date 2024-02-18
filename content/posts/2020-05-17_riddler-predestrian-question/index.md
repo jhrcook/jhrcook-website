@@ -4,7 +4,7 @@
 title: "Riddler: Can You Solve This Rather Pedestrian Puzzle?"
 subtitle: "My solution to this Riddler using R"
 summary: "I used graphs to solve this weeks Riddler to find the difference in shortest paths resulting from a change to the sidewalk layout of Riddler City."
-tags: ["r", "programming", "Riddler", "puzzle", "R-posts"]
+tags: ["R", "puzzle"]
 categories: [dev]
 date: 2020-05-17T08:47:56-04:00
 lastmod: 2020-05-17T08:47:56-04:00

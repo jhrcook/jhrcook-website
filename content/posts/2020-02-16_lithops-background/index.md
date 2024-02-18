@@ -1,10 +1,8 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Lithops"
 subtitle: ""
 summary: ""
-tags: ["plants", "lithops"]
+tags: [plants]
 categories: ["hobbies"]
 date: 2020-02-16T18:55:40-05:00
 lastmod: 2020-02-16T18:55:40-05:00

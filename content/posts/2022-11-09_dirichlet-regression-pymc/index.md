@@ -4,7 +4,7 @@
 title: "Dirichlet Regression with PyMC"
 subtitle: "How to perform a Dirichlet regression with PyMC."
 summary: "I provide a simple example of a Dirichlet regression in PyMC. This form of generalized linear model is appropriate when modeling proportions of multiple groups, that is, when modeling a collection of positive values that must sum to a constant. Some common examples include ratios and percentages."
-tags: ["bayesian", "PyMC", "ML/AI", "data science", "modeling", "statistics", "python"]
+tags: ["Bayesian", "PyMC",  "data analysis", "modeling", "statistics", "python"]
 categories: ["dev"]
 date: 2022-11-09T18:07:20-08:00
 lastmod: 2022-11-09T18:07:20-08:00
@@ -44,7 +44,6 @@ import pymc as pm
 import seaborn as sns
 ```
 
-
 ```python
 %matplotlib inline
 %config InlineBackend.figure_format = 'retina'
@@ -56,7 +55,6 @@ sns.set_style("whitegrid")
 A fake dataset was produced for the situation described above.
 The vectors `ctrl_tissue_props` and `expt_tissue_props` contain the "true" proportions of protein expression across the ten tissues for the control and experimental conditions.
 These were randomly generated as printed at the end of the code block.
-
 
 ```python
 N_TISSUES = 10
@@ -81,11 +79,9 @@ print(np.vstack([ctrl_tissue_props, expt_tissue_props]).round(3))
     [[0.072 0.148 0.137 0.135 0.074 0.118 0.083 0.015 0.12  0.098]
      [0.066 0.104 0.138 0.149 0.062 0.057 0.098 0.109 0.131 0.086]]
 
-
 Protein expression values were sampled using these proportions, multiplied by 100 to reduce the variability in the sampled values.
 Recall that the Dirichlet is effectively a multi-class Beta distribution, so the input numbers can be thought of as the observed number of instances for each class.
 The more observations, the more confidence that the observed frequencies are representative of the true proportions.
-
 
 ```python
 _ctrl_data = np.random.dirichlet(ctrl_tissue_props * 100, N_REPS)
@@ -98,9 +94,6 @@ expr_data = (
 )
 expr_data.round(3)
 ```
-
-
-
 
 <div>
 <style scoped>
@@ -306,33 +299,20 @@ expr_data.round(3)
 </table>
 </div>
 
-
-
-
 ```python
 sns.heatmap(expr_data, vmin=0, cmap="seismic");
 ```
 
-
-    
 ![png](assets/dirichlet-regression-pymc_8_0.png)
-    
-
 
 The sum of the values for each replicate should be 1.
-
 
 ```python
 expr_data.values.sum(axis=1)
 # > array([1., 1., 1., 1., 1., 1., 1., 1., 1., 1., 1., 1.])
 ```
 
-
-
-
     array([1., 1., 1., 1., 1., 1., 1., 1., 1., 1., 1., 1.])
-
-
 
 ## Model
 
@@ -342,7 +322,6 @@ The model is rather straight forward and immediately recognizable as a generaliz
 The main attributes are the use of the Dirichlet likelihood and exponential link function.
 Note, that for the PyMC library, the first dimension contains each "group" of data, that is, the values should sum to $1$ along that axis.
 In this case, the values of each *replicate* should sum to $1$.
-
 
 ```python
 coords = {"tissue": TISSUES, "replicate": REPS}
@@ -365,9 +344,6 @@ with pm.Model(coords=coords) as dirichlet_reg:
 dirichlet_reg
 ```
 
-
-
-
 $$
   \begin{array}{rcl}
   a &\sim & \mathcal{N}(0,~5) \\\\
@@ -378,12 +354,9 @@ $$
   \end{array}
 $$
 
-
-
 ### Sampling
 
 PyMC does all of the heavy lifting and we just need to press the "Inference Button" with the `pm.sample()` function.
-
 
 ```python
 with dirichlet_reg:
@@ -398,9 +371,6 @@ with dirichlet_reg:
     Multiprocess sampling (2 chains in 2 jobs)
     NUTS: [a, b]
 
-
-
-
 <style>
     /* Turns off some styling */
     progress {
@@ -413,22 +383,13 @@ with dirichlet_reg:
         background: #F44336;
     }
 </style>
-
-
-
-
 
 <div>
   <progress value='4000' class='' max='4000' style='width:300px; height:20px; vertical-align: middle;'></progress>
   100.00% [4000/4000 00:16<00:00 Sampling 2 chains, 0 divergences]
 </div>
 
-
-
     Sampling 2 chains for 1_000 tune and 1_000 draw iterations (2_000 + 2_000 draws total) took 29 seconds.
-
-
-
 
 <style>
     /* Turns off some styling */
@@ -443,23 +404,16 @@ with dirichlet_reg:
     }
 </style>
 
-
-
-
-
 <div>
   <progress value='2000' class='' max='2000' style='width:300px; height:20px; vertical-align: middle;'></progress>
   100.00% [2000/2000 00:00<00:00]
 </div>
-
-
 
 ## Posterior analysis
 
 ### Recovering known parameters
 
 The table below shows the summaries of the marginal posterior distributions for the variables $a$ and $b$ of the model.
-
 
 ```python
 real_a = np.log(ctrl_tissue_props * 100)
@@ -472,9 +426,6 @@ res_summary = (
 )
 res_summary
 ```
-
-
-
 
 <div>
 <style scoped>
@@ -792,7 +743,6 @@ res_summary
 </table>
 </div>
 
-
 The plot below shows the posterior estimates (blue) against the known proportions (orange).
 
 ```python
@@ -827,14 +777,9 @@ ax.legend(loc="upper left", bbox_to_anchor=(1, 1))
 plt.show()
 ```
 
-
-    
 ![png](assets/dirichlet-regression-pymc_19_0.png)
-    
-
 
 ### Posterior predictive distribution
-
 
 ```python
 post_pred = (
@@ -877,23 +822,13 @@ sns.stripplot(
 ax.legend(loc="upper left", bbox_to_anchor=(1, 1), title="condition")
 ```
 
-
-
-
     <matplotlib.legend.Legend at 0x105b11de0>
 
-
-
-
-    
 ![png](assets/dirichlet-regression-pymc_21_1.png)
-    
-
 
 ---
 
 ## Session Info
-
 
 ```python
 %load_ext watermark
@@ -925,5 +860,3 @@ ax.legend(loc="upper left", bbox_to_anchor=(1, 1), title="condition")
     pymc      : 4.1.5
     janitor   : 0.22.0
     seaborn   : 0.11.2
-    
-

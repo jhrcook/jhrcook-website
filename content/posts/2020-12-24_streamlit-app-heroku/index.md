@@ -2,7 +2,7 @@
 title: "Creating a Streamlit web app, building with Docker + GitHub Actions, and hosting on Heroku"
 subtitle: "A step-by-step tutorial on creating a web application with Streamlit, building a Docker image with GitHub Actions, and hosting on Heroku."
 summary: "A step-by-step tutorial on creating a web application with Streamlit, building a Docker image with GitHub Actions, and hosting on Heroku."
-tags: [programming, Python, Docker, Heroku, website, application]
+tags: [Python, Docker, app, tutorial]
 categories: [dev]
 date: 2020-12-24T16:56:35-08:00
 lastmod: 2020-12-24T16:56:35-08:00
@@ -27,7 +27,7 @@ Instead of building applications like many software engineers, we often write sc
 While it is possible to process the output of these scripts into interactive applications that requires a substantial amount of work and maintenance.
 Instead, Streamlit offers a clever API: just "print" the plots, text, etc. and accept user input to variables.
 Streamlit then handles all of the UI design, reacts to the user, and presents interactive widgets.
-If this seems appealing to you, I would recommend looking through their [website](https://www.streamlit.io), [gallery](https://www.streamlit.io/gallery), and [documentation](https://docs.streamlit.io/en/stable/) to see examples and get guidance on implementation. 
+If this seems appealing to you, I would recommend looking through their [website](https://www.streamlit.io), [gallery](https://www.streamlit.io/gallery), and [documentation](https://docs.streamlit.io/en/stable/) to see examples and get guidance on implementation.
 
 ### Example: text-summarizing application
 
@@ -87,7 +87,6 @@ The initial blank application is shown below followed by an example of summarizi
 
 <img src="assets/demo_monty-python.png" width="85%">
 
-
 ## Build a Dockerfile
 
 The next step is to construct a file called "Dockerfile" that provide instructions to produce a Docker image with the running application.
@@ -116,8 +115,8 @@ Finally, `CMD streamlit run app.py` declares that the Docker image should run `s
 With the Dockerfile in place, the Docker image can be built and run.
 
 ```bash
-$ docker build -t app:latest .
-$ docker run -p 8501:8501 app:latest
+docker build -t app:latest .
+docker run -p 8501:8501 app:latest
 ```
 
 Going to the same [http://localhost:8501](http://localhost:8501), you should again see the application.
@@ -133,9 +132,10 @@ Then the command line interface (CLI) for interfacing with Heroku from your comp
 Full instructions can be found [here](https://devcenter.heroku.com/categories/command-line); I use a Mac, so I used the Homebrew option.
 
 ```bash
-$ # Make sure to use the correct installation steps for *your* computer.
-$ brew tap heroku/brew && brew install heroku
+# Make sure to use the correct installation steps for *your* computer.
+brew tap heroku/brew && brew install heroku
 ```
+
 With a Heroku account created and the CLI installed, the next step is to login with the CLI.
 The command `heroku login` will open a login window in your browser.
 
@@ -169,29 +169,30 @@ This is accomplished using the `--server.port` flag for the `streamlit` command,
 # CMD streamlit run app.py
 CMD streamlit run --server.port $PORT app.py
 ```
+
 From there, deploying using the Docker registry in Heroku is routine.
 First, you must log in to the registry using the command below.
 
 ```bash
-$ heroku container:login
+heroku container:login
 ```
 
 Then, the following command builds the Docker image and pushes it to the Heroku registry.
 
 ```bash
-$ heroku container:push web
+heroku container:push web
 ```
 
 The app is then deployed to the web as follows.
 
 ```bash
-$ heroku container:release web
+heroku container:release web
 ```
 
 After allowing a few minutes for Heroku to work its magic, you can open the app on the web from the command line or in your [Heroku Dashboard](https://dashboard.heroku.com/apps).
 
 ```bash
-$ heroku open
+heroku open
 ```
 
 ## Set up deployment with GitHub Actions
@@ -281,7 +282,7 @@ To actually set it to a key to allow access to Heroku, we must use [GitHub secre
 To add the key to secrets, run the following command on your computer to get an authorization key.
 
 ```bash
-$ heroku authorizations:create
+heroku authorizations:create
 ```
 
 Then, put the key in a secret by going to the "Settings" tab of your GitHub repo, navigating to "Secrets" in the bar on the left, and clicking "New repository secret."

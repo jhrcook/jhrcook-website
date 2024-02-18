@@ -1,8 +1,8 @@
 ---
 title: "Setting axes to integer values in 'ggplot2'"
-subtitle: ""
+subtitle: "A seemingly simple task took quite a bit of research and experimentation to figure out."
 summary: "A seemingly simple task took quite a bit of research and experimentation to figure out."
-tags: ["r", "programming", "data viz"]
+tags: ["R", "data viz", tutorial]
 categories: ["dev"]
 date: 2019-11-09T08:09:23-05:00
 lastmod: 2019-11-09T08:09:23-05:00

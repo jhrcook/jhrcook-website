@@ -4,7 +4,7 @@
 title: "Photo Zoom Animator in iOS"
 subtitle: "A in-depth tutorial on how to replicate the interactive zoom transition used in the native iOS Photos app."
 summary: "A in-depth tutorial on how to replicate the interactive zoom transition used in the native iOS Photos app."
-tags: ["programming", "iOS", "swift", "animations", "application"]
+tags: ["iOS", "Swift", "app"]
 categories: ["dev"]
 date: 2019-08-13T19:45:16-04:00
 lastmod: 2019-08-13T19:45:16-04:00
@@ -39,12 +39,12 @@ The `BaseCollectionViewController` is the initial view upon entering the app (em
 
 ```swift
 override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-	if let destinationViewController = segue.destination as? PagingCollectionViewController {
-		destinationViewController.images = images
-		if let indexPath = collectionView.indexPathsForSelectedItems?.first {
-		    destinationViewController.startingIndex = indexPath.item
-		}
-	}
+ if let destinationViewController = segue.destination as? PagingCollectionViewController {
+  destinationViewController.images = images
+  if let indexPath = collectionView.indexPathsForSelectedItems?.first {
+      destinationViewController.startingIndex = indexPath.item
+  }
+ }
 }
 ```
 
@@ -70,10 +70,10 @@ I began by creating a protocol to define a delegate that my view controllers wil
 
 ```swift
 protocol ZoomAnimatorDelegate: class {
-	func transitionWillStartWith(zoomAnimator: ZoomAnimator)
-	func transitionDidEndWith(zoomAnimator: ZoomAnimator)
-	func referenceImageView(for zoomAnimator: ZoomAnimator) -> UIImageView?
-	func referenceImageViewFrameInTransitioningView(for zoomAnimator: ZoomAnimator) -> CGRect?
+ func transitionWillStartWith(zoomAnimator: ZoomAnimator)
+ func transitionDidEndWith(zoomAnimator: ZoomAnimator)
+ func referenceImageView(for zoomAnimator: ZoomAnimator) -> UIImageView?
+ func referenceImageViewFrameInTransitioningView(for zoomAnimator: ZoomAnimator) -> CGRect?
 }
 ```
 
@@ -83,21 +83,21 @@ The `ZoomAnimator` class has four properties:
 
 1. `fromDelegate: ZoomAnimatorDelegate` and `toDelegate: ZoomAnimatorDelegate` are the source and destination objects that conform to the `ZoomAnimatorDelegate` protocol.
 2. `isPresenting: Bool` answers the question: "Is the transition from the base collection view to the paging collection view?"
-3. `transitionImageView	: UIImageView` is the image view that will be animated during the transition. 
+3. `transitionImageView : UIImageView` is the image view that will be animated during the transition.
 
 The first step in creating this animator is to have it conform to `UIViewControllerAnimatedTransitioning`. This requires two methods, `transitionDuration(using:)` and `animateTransition(using:)`. The first returns the length (in seconds) of the animation. The second method returns a `UIViewControllerContextTransitioning` object that handles the animation. There are two animation functions, one for zooming in and the other for zooming out; the first is run if `isPresenting`, otherwise the latter is run.
 
 ```swift
 func transitionDuration(using transitionContext: UIViewControllerContextTransitioning?) -> TimeInterval {
-	return isPresenting ? 0.5 : 0.25
+ return isPresenting ? 0.5 : 0.25
 }
 
 func animateTransition(using transitionContext: UIViewControllerContextTransitioning) {
-	if isPresenting {
-		animateZoomInTransition(using: transitionContext)
-	} else {
-		animateZoomOutTransition(using: transitionContext)
-	}
+ if isPresenting {
+  animateZoomInTransition(using: transitionContext)
+ } else {
+  animateZoomOutTransition(using: transitionContext)
+ }
 }
 ```
 
@@ -115,13 +115,13 @@ let containerView = transitionContext.containerView
 
 // get view controllers and image views
 guard
-	let fromVC = transitionContext.viewController(forKey: .from),
-	let fromReferenceImageView = self.fromDelegate?.referenceImageView(for: self),
-	let fromReferenceImageViewFrame = self.fromDelegate?.referenceImageViewFrameInTransitioningView(for: self),
-	let toVC = transitionContext.viewController(forKey: .to),
-	let toView = transitionContext.view(forKey: .to)
-	else {
-		return
+ let fromVC = transitionContext.viewController(forKey: .from),
+ let fromReferenceImageView = self.fromDelegate?.referenceImageView(for: self),
+ let fromReferenceImageViewFrame = self.fromDelegate?.referenceImageViewFrameInTransitioningView(for: self),
+ let toVC = transitionContext.viewController(forKey: .to),
+ let toView = transitionContext.view(forKey: .to)
+ else {
+  return
 }
 
 // these are optional functions in the delegates that get called before the animation runs
@@ -145,13 +145,13 @@ A reference image is obtained from the source image view and made the image for 
 ```swift
 let referenceImage = fromReferenceImageView.image!
 if self.transitionImageView == nil {
-	let transitionImageView = UIImageView(image: referenceImage)
-	transitionImageView.contentMode = .scaleAspectFill
-	transitionImageView.clipsToBounds = true
-	transitionImageView.frame = fromReferenceImageViewFrame
-	
-	self.transitionImageView = transitionImageView
-	containerView.addSubview(transitionImageView)
+ let transitionImageView = UIImageView(image: referenceImage)
+ transitionImageView.contentMode = .scaleAspectFill
+ transitionImageView.clipsToBounds = true
+ transitionImageView.frame = fromReferenceImageViewFrame
+ 
+ self.transitionImageView = transitionImageView
+ containerView.addSubview(transitionImageView)
 }
 ```
 
@@ -181,29 +181,29 @@ Once all of the transition stuff has been dealt with, the `transitionDidEndWith(
 
 ```swift
 UIView.animate(
-	withDuration: transitionDuration(using: transitionContext),
-	delay: 0,
-	usingSpringWithDamping: 0.8,
-	initialSpringVelocity: 0,
-	options: [.transitionCrossDissolve, .curveEaseOut],
-	animations: {
-		toVC.view.alpha = 1.0
-		self.transitionImageView?.frame = finalTransitionSize  // animate size of image view
-		fromVC.tabBarController?.tabBar.alpha = 0              // animate transparency of tab bar out
+ withDuration: transitionDuration(using: transitionContext),
+ delay: 0,
+ usingSpringWithDamping: 0.8,
+ initialSpringVelocity: 0,
+ options: [.transitionCrossDissolve, .curveEaseOut],
+ animations: {
+  toVC.view.alpha = 1.0
+  self.transitionImageView?.frame = finalTransitionSize  // animate size of image view
+  fromVC.tabBarController?.tabBar.alpha = 0              // animate transparency of tab bar out
 },
-	completion: { _ in
-		// remove transition image view and show both view controllers, again
-		self.transitionImageView?.removeFromSuperview()
-		self.transitionImageView = nil
-		
-		fromReferenceImageView.isHidden = false
-		
-		// end the transition (unless was cancelled)
-		transitionContext.completeTransition(!transitionContext.transitionWasCancelled)
-		
-		// these are optional functions in the delegates that get called after the animation runs
-		self.toDelegate?.transitionDidEndWith(zoomAnimator: self)
-		self.fromDelegate?.transitionDidEndWith(zoomAnimator: self)
+ completion: { _ in
+  // remove transition image view and show both view controllers, again
+  self.transitionImageView?.removeFromSuperview()
+  self.transitionImageView = nil
+  
+  fromReferenceImageView.isHidden = false
+  
+  // end the transition (unless was cancelled)
+  transitionContext.completeTransition(!transitionContext.transitionWasCancelled)
+  
+  // these are optional functions in the delegates that get called after the animation runs
+  self.toDelegate?.transitionDidEndWith(zoomAnimator: self)
+  self.fromDelegate?.transitionDidEndWith(zoomAnimator: self)
 })
 ```
 
@@ -213,22 +213,22 @@ Below is the function. It first calculates the width:height ratio of the `view` 
 
 ```swift
 private func calculateZoomInImageFrame(image: UIImage, forView view: UIView) -> CGRect {
-	
-	let viewRatio = view.frame.size.width / view.frame.size.height
-	let imageRatio = image.size.width / image.size.height
-	let touchesSides = (imageRatio > viewRatio)
-	
-	if touchesSides {
-		let height = view.frame.width / imageRatio
-		let yPoint = view.frame.minY + (view.frame.height - height) / 2
-		return CGRect(x: 0, y: yPoint, width: view.frame.width, height: height)
-	} else {
-		let width = view.frame.height * imageRatio
-		let xPoint = view.frame.minX + (view.frame.width - width) / 2
-		return CGRect(x: xPoint, y: 0, width: width, height: view.frame.height)
-	}
+ 
+ let viewRatio = view.frame.size.width / view.frame.size.height
+ let imageRatio = image.size.width / image.size.height
+ let touchesSides = (imageRatio > viewRatio)
+ 
+ if touchesSides {
+  let height = view.frame.width / imageRatio
+  let yPoint = view.frame.minY + (view.frame.height - height) / 2
+  return CGRect(x: 0, y: yPoint, width: view.frame.width, height: height)
+ } else {
+  let width = view.frame.height * imageRatio
+  let xPoint = view.frame.minX + (view.frame.width - width) / 2
+  return CGRect(x: xPoint, y: 0, width: width, height: view.frame.height)
+ }
 }
-``` 
+```
 
 ### ZoomTransitionController
 
@@ -242,22 +242,22 @@ The first extension to `ZoomAnimatorController` is the `UIViewControllerTransiti
 
 ```swift
 func animationController(forPresented presented: UIViewController, presenting: UIViewController, source: UIViewController) -> UIViewControllerAnimatedTransitioning? {
-	self.animator.isPresenting = true
-	self.animator.fromDelegate = fromDelegate
-	self.animator.toDelegate = toDelegate
-	return self.animator
+ self.animator.isPresenting = true
+ self.animator.fromDelegate = fromDelegate
+ self.animator.toDelegate = toDelegate
+ return self.animator
 }
 
 func animationController(forDismissed dismissed: UIViewController) -> UIViewControllerAnimatedTransitioning? {
-	self.animator.isPresenting = false
-	let tmp = self.fromDelegate
-	self.animator.fromDelegate = self.toDelegate
-	self.animator.toDelegate = tmp
-	return self.animator
+ self.animator.isPresenting = false
+ let tmp = self.fromDelegate
+ self.animator.fromDelegate = self.toDelegate
+ self.animator.toDelegate = tmp
+ return self.animator
 }
 ```
 
-The `isPresenting` property of the `ZoomAnimator` is set logically for each method. For the presentation, the `ZoomTransitionController` and `ZoomAnimator` have the same source and destination `ZoomAnimatorDelegate`s, but the dismissal swaps them. This is necessary for how to `ZoomAnimtor.animateZoomOutTransition()` method treats the source and destination view controllers: the source delegate is the zoomed in image (`PagingCollectionViewController`, in this case) and the destination is the zoomed out image (`PagingCollectionViewController `, in this case).
+The `isPresenting` property of the `ZoomAnimator` is set logically for each method. For the presentation, the `ZoomTransitionController` and `ZoomAnimator` have the same source and destination `ZoomAnimatorDelegate`s, but the dismissal swaps them. This is necessary for how to `ZoomAnimtor.animateZoomOutTransition()` method treats the source and destination view controllers: the source delegate is the zoomed in image (`PagingCollectionViewController`, in this case) and the destination is the zoomed out image (`PagingCollectionViewController`, in this case).
 
 ### UINavigationControllerDelegate
 
@@ -265,19 +265,19 @@ The second extension on `ZoomAnimatorController` is `UINavigationControllerDeleg
 
 ```swift
 func navigationController(_ navigationController: UINavigationController, animationControllerFor operation: UINavigationController.Operation, from fromVC: UIViewController, to toVC: UIViewController) -> UIViewControllerAnimatedTransitioning? {
-	if operation == .push {
-		self.animator.isPresenting = true
-		self.animator.fromDelegate = fromDelegate
-		self.animator.toDelegate = toDelegate
-	} else {
-		// is called with `operation == .pop`
-		self.animator.isPresenting = false
-		let tmp = self.fromDelegate
-		self.animator.fromDelegate = self.toDelegate
-		self.animator.toDelegate = tmp
-	}
-	
-	return self.animator
+ if operation == .push {
+  self.animator.isPresenting = true
+  self.animator.fromDelegate = fromDelegate
+  self.animator.toDelegate = toDelegate
+ } else {
+  // is called with `operation == .pop`
+  self.animator.isPresenting = false
+  let tmp = self.fromDelegate
+  self.animator.fromDelegate = self.toDelegate
+  self.animator.toDelegate = tmp
+ }
+ 
+ return self.animator
 }
 ```
 
@@ -285,13 +285,13 @@ func navigationController(_ navigationController: UINavigationController, animat
 
 ### Adding a transition controller
 
-A transition controller is added as a stored property to **`PagingCollectionViewController`**, the *destination* view controller. This location is chosen (over `BaseCollectionViewController`) because this is where the dismissing gesture will eventually be added. 
+A transition controller is added as a stored property to **`PagingCollectionViewController`**, the *destination* view controller. This location is chosen (over `BaseCollectionViewController`) because this is where the dismissing gesture will eventually be added.
 
 ```swift
 class PagingCollectionViewController: UICollectionViewController {
-	...
-	var transitionController = ZoomTransitionController()
-	...
+ ...
+ var transitionController = ZoomTransitionController()
+ ...
 ```
 
 ### Setting delegates during segue
@@ -320,7 +320,7 @@ var containerDelegate: PagingCollectionViewControllerDelegate?
 ...
 // change the base view controller's index, too
 override func scrollViewDidEndDecelerating(_ scrollView: UIScrollView) {
-	containerDelegate?.containerViewController(self, indexDidChangeTo: currentIndex)
+ containerDelegate?.containerViewController(self, indexDidChangeTo: currentIndex)
 }
 ```
 
@@ -334,20 +334,20 @@ To conform to this protocol, a stored property was added, the `collectionView(_:
 
 ```swift
 class BaseCollectionViewController: UICollectionViewController {
-	...
-	var currentIndex = 0
-	...
-	override func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-		currentIndex = indexPath.item
-	}
+ ...
+ var currentIndex = 0
+ ...
+ override func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+  currentIndex = indexPath.item
+ }
 ```
 
 ```swift
 extension BaseCollectionViewController: PagingCollectionViewControllerDelegate {
-	func containerViewController(_ containerViewController: PagingCollectionViewController, indexDidChangeTo currentIndex: Int) {
-		self.currentIndex = currentIndex
-		collectionView.scrollToItem(at: IndexPath(item: currentIndex, section: 0), at: .centeredVertically, animated: false)
-	}
+ func containerViewController(_ containerViewController: PagingCollectionViewController, indexDidChangeTo currentIndex: Int) {
+  self.currentIndex = currentIndex
+  collectionView.scrollToItem(at: IndexPath(item: currentIndex, section: 0), at: .centeredVertically, animated: false)
+ }
 }
 ```
 
@@ -363,21 +363,22 @@ Both the `referenceImageView(for:) -> UIImageView?` and `referenceImageViewFrame
 
 ```swift
 func getCell(for zoomAnimator: ZoomAnimator) -> BaseCollectionViewCell? {
-	let indexPath = zoomAnimator.isPresenting ? collectionView.indexPathsForSelectedItems?.first : IndexPath(item: currentIndex, section: 0)
+ let indexPath = zoomAnimator.isPresenting ? collectionView.indexPathsForSelectedItems?.first : IndexPath(item: currentIndex, section: 0)
         
-	if let cell = collectionView.cellForItem(at: indexPath!) as? BaseCollectionViewCell {
-		return cell
-	} else {
-		return nil
-	}
+ if let cell = collectionView.cellForItem(at: indexPath!) as? BaseCollectionViewCell {
+  return cell
+ } else {
+  return nil
+ }
 }
 ```
 
 The `referenceImageView(for:)` method returns an image view with the image of the selected cell image view. Therefore, it uses `getCell(for:)` and returns the cell's `imageView` property.
+
 ```swift
 func referenceImageView(for zoomAnimator: ZoomAnimator) -> UIImageView? {
-	if let cell = getCell(for: zoomAnimator) { return cell.imageView }
-	return nil
+ if let cell = getCell(for: zoomAnimator) { return cell.imageView }
+ return nil
 }
 ```
 
@@ -385,33 +386,33 @@ The `referenceImageViewFrameInTransitioningView(for:)` method needs to return th
 
 ```swift
 func referenceImageViewFrameInTransitioningView(for zoomAnimator: ZoomAnimator) -> CGRect? {
-	if let cell = getCell(for: zoomAnimator) {
-		return cell.contentView.convert(cell.imageView.frame, to: view)
-	}
-	return nil
+ if let cell = getCell(for: zoomAnimator) {
+  return cell.contentView.convert(cell.imageView.frame, to: view)
+ }
+ return nil
 }
     
 ```
 
 #### `PagingCollectionViewController`
 
-The `PagingCollectionViewController` was a bit more complicated. The major hurdle was to get around the fact that the cell being transitioned to is created *after* the animation begin, but *before* the animation ends. Therefore, the image view of the destination cell could not be accessed by `ZoomAnimator`, but would appear during the transition. To see what I mean, I point out a change you can experiment with to make the problem (but not the solution) very obvious. 
+The `PagingCollectionViewController` was a bit more complicated. The major hurdle was to get around the fact that the cell being transitioned to is created *after* the animation begin, but *before* the animation ends. Therefore, the image view of the destination cell could not be accessed by `ZoomAnimator`, but would appear during the transition. To see what I mean, I point out a change you can experiment with to make the problem (but not the solution) very obvious.
 
 Let's begin with the `referenceImageView(for:)->UIImageView?` and `referenceImageViewFrameInTransitioningView(for:)->CGRect?` methods as they are very straight forward. Both retrieve the cell at `currentIndex` (which is set to `startingIndex` beforehand in`viewDidLoad()`) and either return the image view or converted image view frame, respectively.
 
 ```swift
 func referenceImageView(for zoomAnimator: ZoomAnimator) -> UIImageView? {
-	if let cell = collectionView.cellForItem(at: IndexPath(item: currentIndex, section: 0)) as? PagingCollectionViewCell {
-		return cell.imageView
-	}
-	return nil
+ if let cell = collectionView.cellForItem(at: IndexPath(item: currentIndex, section: 0)) as? PagingCollectionViewCell {
+  return cell.imageView
+ }
+ return nil
 }
     
 func referenceImageViewFrameInTransitioningView(for zoomAnimator: ZoomAnimator) -> CGRect? {
-	if let cell = collectionView.cellForItem(at: IndexPath(item: currentIndex, section: 0)) as? PagingCollectionViewCell {
-		return cell.scrollView.convert(cell.imageView.frame, to: view)
-	}
-	return nil
+ if let cell = collectionView.cellForItem(at: IndexPath(item: currentIndex, section: 0)) as? PagingCollectionViewCell {
+  return cell.scrollView.convert(cell.imageView.frame, to: view)
+ }
+ return nil
 }
 ```
 
@@ -421,16 +422,16 @@ As mentioned briefly above, you can change `zoomAnimator.isPresenting` to `false
 
 ```swift
 func transitionWillStartWith(zoomAnimator: ZoomAnimator) {
-	// add code here to be run just before the transition animation
-	hideCellImageViews = zoomAnimator.isPresenting
+ // add code here to be run just before the transition animation
+ hideCellImageViews = zoomAnimator.isPresenting
 }
     
 func transitionDidEndWith(zoomAnimator: ZoomAnimator) {
-	// add code here to be run just after the transition animation
-	hideCellImageViews = false
-	if let cell = collectionView.cellForItem(at: IndexPath(item: currentIndex, section: 0)) as? PagingCollectionViewCell {
-		cell.imageView.isHidden = hideCellImageViews
-	}
+ // add code here to be run just after the transition animation
+ hideCellImageViews = false
+ if let cell = collectionView.cellForItem(at: IndexPath(item: currentIndex, section: 0)) as? PagingCollectionViewCell {
+  cell.imageView.isHidden = hideCellImageViews
+ }
 }
 ```
 
@@ -438,13 +439,13 @@ The final line in `transitionDidEndWith(zoomAnimator:)` just makes the image vie
 
 ```swift
 override func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-	let cell = collectionView.dequeueReusableCell(withReuseIdentifier: reuseIdentifier, for: indexPath) as! PagingCollectionViewCell
+ let cell = collectionView.dequeueReusableCell(withReuseIdentifier: reuseIdentifier, for: indexPath) as! PagingCollectionViewCell
     
-	cell.image = images[indexPath.item]
+ cell.image = images[indexPath.item]
         
-	cell.imageView.isHidden = hideCellImageViews  // hide the image during presentation
+ cell.imageView.isHidden = hideCellImageViews  // hide the image during presentation
         
-	return cell
+ return cell
 }
 ```
 
@@ -453,7 +454,6 @@ override func collectionView(_ collectionView: UICollectionView, cellForItemAt i
 Below is a screen recording of the non-interactive zoom transition!
 
 <img src="zoom_animation_noninteractive_HD.gif" />
-
 
 Everything up to this point is available in the branch [`zoom-animation`](https://github.com/jhrcook/PhotoZoomAnimator/tree/zoom-animation).
 
@@ -496,9 +496,9 @@ This step adjusts the change in vertical displacement according to the orientati
 ```swift
 var verticalDelta: CGFloat = 0.0
 if UIDevice.current.orientation.isLandscape {
-	verticalDelta = max(translatedPoint.x, 0.0)
+ verticalDelta = max(translatedPoint.x, 0.0)
 } else {
-	verticalDelta = max(translatedPoint.y, 0.0)
+ verticalDelta = max(translatedPoint.y, 0.0)
 }
 ```
 
@@ -524,7 +524,6 @@ let newCenter = CGPoint(x: newCenterX, y: newCenterY)
 transitionImageView.center = newCenter
 ```
 
-
 **Step 5: Update the transition.**
 
 Using the method `transitionContext.updateInteractiveTransition(1 - scale)`, the transition is incremented depending on where the pan gesture is. The scale will get smaller as the gesture progresses, therefore, this method call will move the transition forward as the user pans.
@@ -539,7 +538,7 @@ If the pan gesture finishes (the user releases the image), then the animation mu
 
 ```swift
 if gestureRecognizer.state == .ended {
-	...
+ ...
 ```
 
 **Step 7: Register and assess the velocity of the pan.**
@@ -552,9 +551,9 @@ let velocity = gestureRecognizer.velocity(in: fromVC.view)
 var velocityCheck = false
 
 if UIDevice.current.orientation.isLandscape {
-	velocityCheck = velocity.x < 0 || newCenter.x < anchorPoint.x
+ velocityCheck = velocity.x < 0 || newCenter.x < anchorPoint.x
 } else {
-	velocityCheck = velocity.y < 0 || newCenter.y < anchorPoint.y
+ velocityCheck = velocity.y < 0 || newCenter.y < anchorPoint.y
 }
 ```
 
@@ -564,28 +563,28 @@ If there is an upward velocity or the transition image view is above the source 
 
 ```swift
 if velocityCheck {
-	print("cancelling interactive transition")
-	// cancel transition
-	UIView.animate(withDuration: 0.5, delay: 0, usingSpringWithDamping: 0.9, initialSpringVelocity: 0, options: [], animations: {
-		transitionImageView.frame = fromReferenceImageViewFrame
-		fromVC.view.alpha = 1.0
-		toVC.tabBarController?.tabBar.alpha = 0.0
-	}, completion: { _ in
-		transitionImageView.removeFromSuperview()
+ print("cancelling interactive transition")
+ // cancel transition
+ UIView.animate(withDuration: 0.5, delay: 0, usingSpringWithDamping: 0.9, initialSpringVelocity: 0, options: [], animations: {
+  transitionImageView.frame = fromReferenceImageViewFrame
+  fromVC.view.alpha = 1.0
+  toVC.tabBarController?.tabBar.alpha = 0.0
+ }, completion: { _ in
+  transitionImageView.removeFromSuperview()
                     
-		toReferenceImageView.isHidden = false
-		fromReferenceImageView.isHidden = false
+  toReferenceImageView.isHidden = false
+  fromReferenceImageView.isHidden = false
 
-		transitionContext.cancelInteractiveTransition()
-		transitionContext.completeTransition(!transitionContext.transitionWasCancelled)
+  transitionContext.cancelInteractiveTransition()
+  transitionContext.completeTransition(!transitionContext.transitionWasCancelled)
                     
-		animator.toDelegate?.transitionDidEndWith(zoomAnimator: animator)
-		animator.fromDelegate?.transitionDidEndWith(zoomAnimator: animator)
-		
-		animator.transitionImageView = nil
-		self.transitionContext = nil
-	})
-	return
+  animator.toDelegate?.transitionDidEndWith(zoomAnimator: animator)
+  animator.fromDelegate?.transitionDidEndWith(zoomAnimator: animator)
+  
+  animator.transitionImageView = nil
+  self.transitionContext = nil
+ })
+ return
 }
 ```
 
@@ -596,22 +595,22 @@ If the above conditions were not met, then the animation for the transition is c
 ```swift
 print("finishing interactive transition")
 UIView.animateKeyframes(withDuration: 0.25, delay: 0, options: [], animations: {
-	fromVC.view.alpha = 0.0
-	transitionImageView.frame = toReferenceImageViewFrame
-	toVC.tabBarController?.tabBar.alpha = 1.0
+ fromVC.view.alpha = 0.0
+ transitionImageView.frame = toReferenceImageViewFrame
+ toVC.tabBarController?.tabBar.alpha = 1.0
 }, completion: { _ in
-	transitionImageView.removeFromSuperview()
+ transitionImageView.removeFromSuperview()
                 
-	toReferenceImageView.isHidden = false
-	fromReferenceImageView.isHidden = false
+ toReferenceImageView.isHidden = false
+ fromReferenceImageView.isHidden = false
                 
-	self.transitionContext?.finishInteractiveTransition()
-	transitionContext.completeTransition(!transitionContext.transitionWasCancelled)
+ self.transitionContext?.finishInteractiveTransition()
+ transitionContext.completeTransition(!transitionContext.transitionWasCancelled)
                 
-	animator.toDelegate?.transitionDidEndWith(zoomAnimator: animator)
-	animator.fromDelegate?.transitionDidEndWith(zoomAnimator: animator)
+ animator.toDelegate?.transitionDidEndWith(zoomAnimator: animator)
+ animator.fromDelegate?.transitionDidEndWith(zoomAnimator: animator)
 
-	self.transitionContext = nil
+ self.transitionContext = nil
 })
 ```
 
@@ -624,39 +623,39 @@ The `ZoomDismissalInteractionController` must conform to `UIViewControllerIntera
 ```swift
 func startInteractiveTransition(_ transitionContext: UIViewControllerContextTransitioning) {
         
-	self.transitionContext = transitionContext
-	 
-	let containerView = transitionContext.containerView
-	 
-	guard
-		let animator = self.animator as? ZoomAnimator,
-		let fromVC = transitionContext.viewController(forKey: .from),
-		let fromReferenceImageView = animator.fromDelegate?.referenceImageView(for: animator),
-		let fromReferenceImageViewFrame = animator.fromDelegate?.referenceImageViewFrameInTransitioningView(for: animator),
-		let toVC = transitionContext.viewController(forKey: .to),
-		let toReferenceImageViewFrame = animator.toDelegate?.referenceImageViewFrameInTransitioningView(for: animator) else {
-			return
-	}
+ self.transitionContext = transitionContext
+  
+ let containerView = transitionContext.containerView
+  
+ guard
+  let animator = self.animator as? ZoomAnimator,
+  let fromVC = transitionContext.viewController(forKey: .from),
+  let fromReferenceImageView = animator.fromDelegate?.referenceImageView(for: animator),
+  let fromReferenceImageViewFrame = animator.fromDelegate?.referenceImageViewFrameInTransitioningView(for: animator),
+  let toVC = transitionContext.viewController(forKey: .to),
+  let toReferenceImageViewFrame = animator.toDelegate?.referenceImageViewFrameInTransitioningView(for: animator) else {
+   return
+ }
         
-	animator.fromDelegate?.transitionWillStartWith(zoomAnimator: animator)
-	animator.toDelegate?.transitionWillStartWith(zoomAnimator: animator)
-	
-	self.fromReferenceImageViewFrame = fromReferenceImageViewFrame
-	self.toReferenceImageViewFrame = toReferenceImageViewFrame
-	
-	let referenceImage = fromReferenceImageView.image!
-	
-	containerView.addSubview(toVC.view)
-	containerView.addSubview(fromVC.view)
-	
-	if animator.transitionImageView == nil {
-		let transitionImageView = UIImageView(image: referenceImage)
-		transitionImageView.contentMode = .scaleAspectFill
-		transitionImageView.clipsToBounds = true
-		transitionImageView.frame = fromReferenceImageViewFrame
-		animator.transitionImageView = transitionImageView
-		containerView.addSubview(transitionImageView)
-	}
+ animator.fromDelegate?.transitionWillStartWith(zoomAnimator: animator)
+ animator.toDelegate?.transitionWillStartWith(zoomAnimator: animator)
+ 
+ self.fromReferenceImageViewFrame = fromReferenceImageViewFrame
+ self.toReferenceImageViewFrame = toReferenceImageViewFrame
+ 
+ let referenceImage = fromReferenceImageView.image!
+ 
+ containerView.addSubview(toVC.view)
+ containerView.addSubview(fromVC.view)
+ 
+ if animator.transitionImageView == nil {
+  let transitionImageView = UIImageView(image: referenceImage)
+  transitionImageView.contentMode = .scaleAspectFill
+  transitionImageView.clipsToBounds = true
+  transitionImageView.frame = fromReferenceImageViewFrame
+  animator.transitionImageView = transitionImageView
+  containerView.addSubview(transitionImageView)
+ }
 }
 ```
 
@@ -674,20 +673,21 @@ To make responding the gestures a bit easier (and better adhere to MVC), a wrapp
 
 ```swift
 func didPanWith(gestureRecognizer: UIPanGestureRecognizer) {
-	interactionController.didPanWith(gestureRecognizer: gestureRecognizer)
+ interactionController.didPanWith(gestureRecognizer: gestureRecognizer)
 }
 ```
+
 The next two methods added to the transition and navigation delegate extensions of `ZoomTransitionController` indicate whether the interactive transition should be used or not.
 
 To make the transition interactive, one method must be included for the `UIViewControllerTransitioningDelegate`.
 
 ```swift
 func interactionControllerForDismissal(using animator: UIViewControllerAnimatedTransitioning) -> UIViewControllerInteractiveTransitioning? {
-	if !self.isInteractive {
-		return nil
-	}
-	self.interactionController.animator = animator
-	return self.interactionController
+ if !self.isInteractive {
+  return nil
+ }
+ self.interactionController.animator = animator
+ return self.interactionController
 }
 ```
 
@@ -695,11 +695,11 @@ Also, a method must be added for `UINavigationControllerDelegate`.
 
 ```swift
 func navigationController(_ navigationController: UINavigationController, interactionControllerFor animationController: UIViewControllerAnimatedTransitioning) -> UIViewControllerInteractiveTransitioning? {
-	if !self.isInteractive {
-		return nil
-	}
-	self.interactionController.animator = animator
-	return self.interactionController
+ if !self.isInteractive {
+  return nil
+ }
+ self.interactionController.animator = animator
+ return self.interactionController
 }
 ```
 
@@ -711,27 +711,28 @@ A pan gesture recognizer was added to `PagingCollectionViewController` in `viewD
 let panGesture = UIPanGestureRecognizer(target: self, action: #selector(userDidPanWith(gestureRecognizer:)))
 view.addGestureRecognizer(panGesture)
 ```
+
 The `userDidPanWith(gestureRecognizer:)` method was fairly simple, just responding to the start and end of the gesure by switching on or off the interactive transition. Otherwise (in `default`), the pan gesture was just passed to the transition controller.
 
 ```swift
 @objc func userDidPanWith(gestureRecognizer: UIPanGestureRecognizer) {
-	switch gestureRecognizer.state {
-	case .began:
-		transitionController.isInteractive = true
-		let _ = navigationController?.popViewController(animated: true)
-	case .ended:
-		if transitionController.isInteractive {
-			transitionController.isInteractive = false
-			transitionController.didPanWith(gestureRecognizer: gestureRecognizer)
-		}
-	default:
-		if transitionController.isInteractive {
-			transitionController.didPanWith(gestureRecognizer: gestureRecognizer)
-		}
-	}
+ switch gestureRecognizer.state {
+ case .began:
+  transitionController.isInteractive = true
+  let _ = navigationController?.popViewController(animated: true)
+ case .ended:
+  if transitionController.isInteractive {
+   transitionController.isInteractive = false
+   transitionController.didPanWith(gestureRecognizer: gestureRecognizer)
+  }
+ default:
+  if transitionController.isInteractive {
+   transitionController.didPanWith(gestureRecognizer: gestureRecognizer)
+  }
+ }
 }
 ```
 
-### Finished!
+### Finished
 
 <img src="zoom_animation_interactive_HD.gif" />

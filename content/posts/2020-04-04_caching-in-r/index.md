@@ -1,8 +1,8 @@
 ---
 title: "Caching in R"
-subtitle: ""
+subtitle: "A brief look at the systems for caching in R."
 summary: "A brief look at the systems for caching in R."
-tags: [r, package]
+tags: [R, package]
 categories: [dev]
 date: 2020-04-04T07:00:00-00:00
 lastmod: 2020-04-03T08:29:19-04:00

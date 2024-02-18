@@ -2,7 +2,7 @@
 title: "Xcode Logger Notes"
 subtitle: "A few useful notes for using the logging system in Swift apps on Apple platforms."
 summary: "A few useful notes for using the logging system in Swift apps on Apple platforms."
-tags: [swift, programming, notes, guide]
+tags: [Swift, notes, tutorial]
 categories: [dev]
 date: 2021-02-16T09:44:31-05:00
 lastmod: 2021-02-16T09:44:31-05:00
@@ -81,7 +81,6 @@ class User {
 | **Notice** (defualt) | essential for troubleshooting | persistent up to storage limit |
 | **Error**  | for errors during execution | persistent up to storage limit |
 | **Fault**  | for bugs in the program (unexpected errors) | persistent up to storage limit |
-
 
 ## Obtaining logs
 

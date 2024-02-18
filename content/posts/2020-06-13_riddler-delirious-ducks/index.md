@@ -4,7 +4,7 @@
 title: "Riddler: Can You Track The Delirious Ducks?"
 subtitle: "My solution to this Riddler using R"
 summary: "I used simulations in R to solve this Riddler about how long it takes for confuded ducks to find each other in a pond."
-tags: ["r", "programming", "Riddler", "puzzle"]
+tags: ["R", "puzzle"]
 categories: [dev]
 date: 2020-06-13T19:43:41-04:00
 lastmod: 2020-06-13T19:43:41-04:00

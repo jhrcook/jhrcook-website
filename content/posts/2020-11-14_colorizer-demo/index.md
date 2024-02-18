@@ -1,10 +1,8 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Colorize black-and-white photos"
 subtitle: "How to use DeepAI's Image Colorization API to colorize black-and-white photos using Python."
 summary: "How to use DeepAI’s Image Colorization API to colorize black-and-white photos using Python."
-tags: ["python", 'ML/AI']
+tags: [Python, 'ML/AI', tutorial]
 categories: [dev]
 date: 2020-11-14T07:50:01-05:00
 lastmod: 2020-11-14T07:50:01-05:00

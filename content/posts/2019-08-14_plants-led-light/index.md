@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cutstom Plant LED Lights"
-subtitle: ""
+subtitle: "A LED lighting set-up for my indoors plants."
 summary: "A LED lighting set-up for my indoors plants."
-tags: ["hobby", "plants", "cacti", "succulents", "electronics", "arduino"]
+tags: [ "plants",  "electronics"]
 categories: ["hobbies"]
 date: 2019-08-14T10:42:06-04:00
 lastmod: 2019-08-14T10:42:06-04:00

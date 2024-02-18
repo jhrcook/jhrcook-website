@@ -4,7 +4,7 @@
 title: "SwiftBar plugin for storing text snippets"
 subtitle: "My simple application to put oft copied text in easy reach in my Mac's menu bar."
 summary: "My simple application to put oft copied text in easy reach in my Mac's menu bar."
-tags: [programming, python, app, productivity, "open source"]
+tags: [ python, app, productivity]
 categories: ["dev"]
 date: 2022-01-16T09:20:17-05:00
 lastmod: 2022-01-16T09:20:17-05:00

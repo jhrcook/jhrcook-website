@@ -2,7 +2,7 @@
 title: "Conducting a Bayesian analysis with 'rstanarm' and publishing with 'distill'"
 subtitle: "A brief description of the tools and process behind my recent analysis of data from a study of the 'Facial Feedback Hypothesis'."
 summary: "A brief description of the tools and process behind my recent analysis of data from a study of the 'Facial Feedback Hypothesis'."
-tags: [r, Bayesian, data analysis, rmarkdown]
+tags: [R, Bayesian, "data analysis"]
 categories: [dev]
 date: 2021-05-30T15:20:16-04:00
 lastmod: 2021-05-30T15:20:16-04:00
