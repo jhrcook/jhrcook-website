@@ -8,6 +8,8 @@ date: 2020-03-22T11:45:50-04:00
 lastmod: 2020-03-22T11:45:50-04:00
 featured: false
 draft: false
+series: ["Caching in R"]
+series_order: 2
 ---
 
 The purpose of the ‘mustashe’ R package is to save objects that result

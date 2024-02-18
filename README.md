@@ -11,7 +11,7 @@ To-Do:
   - [x] Check styling of all posts
   - [ ] Align on tags and categories
   - [ ] Make "Series" of some of the posts:
-    - [ ] Riddlers
+    - [x] Riddlers
     - [ ] PyMC Splines
   - [x] Reduce image/asset sizes (2019-08-14_plants-led-light)
 - [ ] Move over Projects

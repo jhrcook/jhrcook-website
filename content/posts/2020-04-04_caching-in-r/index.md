@@ -8,6 +8,8 @@ date: 2020-04-04T07:00:00-00:00
 lastmod: 2020-04-03T08:29:19-04:00
 featured: false
 draft: false
+series: ["Caching in R"]
+series_order: 3
 ---
 
 ## Introduction
@@ -272,7 +274,6 @@ evalWithMemoization({
 
     #> [1] 1
 
-
 For these reasons, I created the ‘mustashe’ package, demonstrated next.
 
 ### ‘mustashe’
@@ -340,7 +341,6 @@ print(    "Calculating 'y'"   )
 
     #> Loading stashed object.
 
-
 Overall, ‘mustashe’ and ‘R.cache’ are very similar, and the main
 differences are stylistic.
 
@@ -386,13 +386,13 @@ cache("foo", depends = c("a", "b"), {
 Here are my recommendations for what caching system to use, in order of
 precedence:
 
-1.  If you just want memoisation for its intended purpose (i.e. avoid
+1. If you just want memoisation for its intended purpose (i.e. avoid
     repetitive calculations), use the ‘memosie’ package.
-2.  If using the ‘ProjectTemplate’ framework, then use its built in
+2. If using the ‘ProjectTemplate’ framework, then use its built in
     caching system.
-3.  If you are using an R Markdown file, then use the chunk caching
+3. If you are using an R Markdown file, then use the chunk caching
     feature.
-4.  For all other caching needs, choose between ‘mustashe’ and ‘R.cache’
+4. For all other caching needs, choose between ‘mustashe’ and ‘R.cache’
     (I prefer using ‘mustashe’, but I am biased).
 
 </div>
