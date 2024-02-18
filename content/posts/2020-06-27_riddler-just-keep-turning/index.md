@@ -8,6 +8,8 @@ date: 2020-06-27T13:48:22-04:00
 lastmod: 2020-06-27T13:48:22-04:00
 featured: false
 draft: false
+series: ["Riddler"]
+series_order: 8
 ---
 
 ## FiveThirtyEight’s Riddler Express
@@ -22,10 +24,10 @@ help!</span>*
 > north-south and east-west. You’re driving north when you decide to
 > play a little game. Every time you reach an intersection, you randomly
 > turn left or right, each with a 50 percent chance.
-> 
+>
 > **After driving through 10 intersections, what is the probability that
 > you are still driving north?**
-> 
+>
 > Extra credit: Now suppose that at every intersection, there’s a
 > one-third chance you turn left, a one-third chance you turn right and
 > a one-third chance you drive straight. After driving through 10
@@ -110,12 +112,12 @@ to begin with).
 
 In each step of the for-loop
 
-1.  a turn is randomly chosen according to their predetermined
+1. a turn is randomly chosen according to their predetermined
     likelihoods,
-2.  the direction is changed according to the result of the random
+2. the direction is changed according to the result of the random
     selection using the `adjust_direction()` function (more in a
     second),
-3.  the tracker is updated with the current step.
+3. the tracker is updated with the current step.
 
 The tracker is returned as the result of the simulation.
 

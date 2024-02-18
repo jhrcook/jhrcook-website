@@ -10,6 +10,8 @@ date: 2020-06-13T19:43:41-04:00
 lastmod: 2020-06-13T19:43:41-04:00
 featured: false
 draft: false
+series: ["Riddler"]
+series_order: 6
 ---
 
 ## FiveThirtyEight’s Riddler Classic
@@ -19,7 +21,7 @@ draft: false
 > After a long night of frivolous quackery, two delirious ducks are
 > having a difficult time finding each other in their pond. The pond
 > happens to contain a 3×3 grid of rocks.
-> 
+>
 > Every minute, each duck randomly swims, independently of the other
 > duck, from one rock to a neighboring rock in the 3×3 grid — up, down,
 > left or right, but not diagonally. So if a duck is at the middle rock,
@@ -28,14 +30,14 @@ draft: false
 > or back to the middle rock, each with probability 1/3. And from a
 > corner rock, it will swim to one of the two adjacent side rocks with
 > probability 1/2.
-> 
+>
 > **If the ducks both start at the middle rock, then on average, how
 > long will it take until they’re at the same rock again?** (Of course,
 > there’s a 1/4 chance that they’ll swim in the same direction after the
 > first minute, in which case it would only take one minute for them to
 > be at the same rock again. But it could take much longer, if they
 > happen to keep missing each other.)
-> 
+>
 > **Extra credit: What if there are three or more ducks?** **If they all
 > start in the middle rock, on average, how long will it take until they
 > are all at the same rock again?**
@@ -420,6 +422,6 @@ many_ducks_sims %>%
 There are some additional analyses that would be interesting to do (if I
 had more time) with the simulation results:
 
-1.  Model the Markov process of the simulation to derive an analytical
+1. Model the Markov process of the simulation to derive an analytical
     solution.
-2.  Identify trends for where the ducks tend to reunite on the pond.
+2. Identify trends for where the ducks tend to reunite on the pond.

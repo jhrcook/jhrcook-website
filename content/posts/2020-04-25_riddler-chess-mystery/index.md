@@ -10,6 +10,8 @@ date: 2020-04-25T13:41:49-04:00
 lastmod: 2020-04-25T13:41:49-04:00
 featured: false
 draft: false
+series: ["Riddler"]
+series_order: 1
 ---
 
 ## Summary
@@ -28,16 +30,16 @@ riddle be solved.
 <https://fivethirtyeight.com/features/can-you-solve-the-chess-mystery/>
 
 > From Yan Zhang comes a royal murder mystery:
-> 
+>
 > Black Bishop: “Sir, forensic testing indicates the Queen’s assassin,
 > the White Knight between us, has moved exactly eight times since the
 > beginning of the game, which has been played by the legal rules.”
-> 
+>
 > Black King: “So?”
-> 
+>
 > Black Bishop: “Well, to convict this assassin, we need to construct a
 > legal game history. But we just can’t figure out how he got there\!”
-> 
+>
 > Can you figure it out?
 
 ![chessboard](./assets/yan_chess.png)
@@ -385,13 +387,13 @@ is 8 steps long.
 The graph building process is a bit complicated, but it follows the
 basic algorithm outlined below:
 
-1.  Start from a seed location (`(2, 8)` at the beginning).
-2.  Find all possible next locations for the knight.
-3.  Of these locations, add the new ones to a record of visted locations
+1. Start from a seed location (`(2, 8)` at the beginning).
+2. Find all possible next locations for the knight.
+3. Of these locations, add the new ones to a record of visted locations
     (`position_table`).
-4.  Add to the edge list (`edge_list`) a link between the parent `(x,y)`
+4. Add to the edge list (`edge_list`) a link between the parent `(x,y)`
     to these next positions.
-5.  For the nodes that have not yet been visited, repeat this algorithm
+5. For the nodes that have not yet been visited, repeat this algorithm
     for each.
 
 <!-- end list -->

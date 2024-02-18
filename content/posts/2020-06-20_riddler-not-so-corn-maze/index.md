@@ -8,6 +8,8 @@ date: 2020-06-20T13:59:41-04:00
 lastmod: 2020-06-20T13:59:41-04:00
 featured: false
 draft: false
+series: ["Riddler"]
+series_order: 7
 ---
 
 ## FiveThirtyEight’s Riddler Express
@@ -16,9 +18,9 @@ draft: false
 
 > From Tom Hanrahan, a maze you can solve without getting lost in a
 > field of corn:
-> 
+>
 > <img src="assets/not-so-corn-maze.png" width="500pt"></img>
-> 
+>
 > The number in each box tells you how many spaces up, down, left or
 > right you must move. (No diagonal moves, people.) Starting at the
 > yellow six in the bottom left corner, can you make your way to the
@@ -28,9 +30,9 @@ draft: false
 
 I can think of two ways to solve this puzzle:
 
-1.  Work backwards from the asterisk and find all possible paths that
+1. Work backwards from the asterisk and find all possible paths that
     could get there, selecting the one that reaches the highlighted 6.
-2.  Make a graph from the highlighted 6 that connects each square (node)
+2. Make a graph from the highlighted 6 that connects each square (node)
     to all of the ones that it could reach, then use a graph search to
     find the shortest path between the highlighted 6 to the asterisk.
 
@@ -369,4 +371,3 @@ long_maze_df %>%
 ```
 
 ![](assets/unnamed-chunk-8-1.png)<!-- -->
-

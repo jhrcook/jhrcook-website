@@ -10,6 +10,8 @@ date: 2020-05-02T12:05:03-04:00
 lastmod: 2020-05-02T12:05:03-04:00
 featured: false
 draft: false
+series: ["Riddler"]
+series_order: 2
 ---
 
 ## FiveThirtyEight’s Riddler Express
@@ -309,7 +311,6 @@ plot_ly(data = tidy_img, x = ~x, y = ~y, z = ~z, size = 1,
 ```
 
 ![](assets/final-shape-outline.gif)
-
 
 ``` r
 plot_ly(data = tidy_img, x = ~x, y = ~y, z = ~z, type = "mesh3d")

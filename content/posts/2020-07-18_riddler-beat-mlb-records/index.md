@@ -10,6 +10,8 @@ date: 2020-07-18T18:24:03-04:00
 lastmod: 2020-07-18T18:24:03-04:00
 featured: false
 draft: false
+series: ["Riddler"]
+series_order: 9
 ---
 
 ## FiveThirtyEight’s Riddler Express
@@ -17,12 +19,12 @@ draft: false
 [link](https://fivethirtyeight.com/features/can-the-hare-beat-the-tortoise/)
 
 > From Taylor Firman comes an opportunity to make baseball history:
-> 
+>
 > This year, Major League Baseball announced it will play a shortened
 > 60-game season, as opposed to the typical 162-game season. Baseball is
 > a sport of numbers and statistics, and so Taylor wondered about the
 > impact of the season’s length on some famous baseball records.
-> 
+>
 > Some statistics are more achievable than others in a shortened season.
 > **Suppose your true batting average is .350, meaning you have a 35
 > percent chance of getting a hit with every at-bat. If you have four

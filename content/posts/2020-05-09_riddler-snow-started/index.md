@@ -10,6 +10,8 @@ date: 2020-05-09T12:05:02-04:00
 lastmod: 2020-05-09T12:05:02-04:00
 featured: false
 draft: false
+series: ["Riddler"]
+series_order: 3
 ---
 
 ## FiveThirtyEight’s Riddler Express
