@@ -20,7 +20,9 @@ Below is a review of my favorite books from this year in order of how fondly I l
 
 author: [Stephen Brusatte](https://www.goodreads.com/author/show/1212001.Stephen_Brusatte)
 
-**Ranks number one because reading it filled me with the joy of a child at the museum looking up in awe at the reconstructed dinosaur skeletons.**
+{{< alert icon=null >}}
+Ranks number one because reading it filled me with the joy of a child at the museum looking up in awe at the reconstructed dinosaur skeletons.
+{{< /alert >}}
 
 This book gives a thorough review of our present knowledge and understanding of the dinosaurs.
 It felt comprehensive without getting lost in all of the details; easy to read for the general population.
@@ -29,7 +31,9 @@ It felt comprehensive without getting lost in all of the details; easy to read f
 
 author: [Ernest Hemingway](https://www.goodreads.com/author/show/1455.Ernest_Hemingway)
 
-**Ranks number two because of its thought-provoking, realistic, and critical discussion of manhood.**
+{{< alert icon=null >}}
+Ranks number two because of its thought-provoking, realistic, and critical discussion of manhood.
+{{< /alert >}}
 
 The novel follows an American volunteer for the revolutionaries fighting in the Spanish Civil War.
 It is such a dynamic story going from thrilling to loving, fear to courage.
@@ -38,7 +42,9 @@ It is such a dynamic story going from thrilling to loving, fear to courage.
 
 author: [Matthew Walker](https://www.goodreads.com/author/show/17598726.Matthew_Walker)
 
-**Ranks number three because of its impact on my sleep habits and the value I place on sleep.**
+{{< alert icon=null >}}
+Ranks number three because of its impact on my sleep habits and the value I place on sleep.
+{{< /alert >}}
 
 Prof. Walker discusses all things sleep including how it works, why we do it, and why its important.
 Perfectly balances approachability with comprehensiveness for any reader.
@@ -47,7 +53,9 @@ Perfectly balances approachability with comprehensiveness for any reader.
 
 author: [David Quammen](https://www.goodreads.com/author/show/32307.David_Quammen)
 
-**Ranks number four because it hits both my love of natural history and trivia.**
+{{< alert icon=null >}}
+Ranks number four because it hits both my love of natural history and trivia.
+{{< /alert >}}
 
 This book weaves the author's personal journey studying island biology with the natural history and scientific research of the subject.
 An interesting, addictive read that describes how islands evolve through specific stories and creatures.
@@ -56,7 +64,9 @@ An interesting, addictive read that describes how islands evolve through specifi
 
 author: [Patrick Radden Keefe](https://www.goodreads.com/author/show/197852.Patrick_Radden_Keefe)
 
-**Ranks number five because it explains a significant ailment of modern America.**
+{{< alert icon=null >}}
+Ranks number five because it explains a significant ailment of modern America.
+{{< /alert >}}
 
 Written by the journalist who first broke the story in *The New Yorker*, this book is a compendium of the entire Sackler family history and how it led to the opium crisis destroying regions of this country.
 The story is organized perfectly to provide a complete picture, filling in the information about a family and company that I was (an image most Americans were, too) completely unaware of before this epidemic.
