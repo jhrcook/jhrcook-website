@@ -14,7 +14,13 @@ To-Do:
     - [x] Riddlers
     - [x] PyMC Splines
   - [x] Reduce image/asset sizes (2019-08-14_plants-led-light)
-- [ ] Move over Projects
 - [ ] Add to Hobbies
+  - [ ] backpacking
+  - [ ] bread
+  - [ ] fishing
+  - [ ] plants
+  - [x] reading
+  - [x] running
+- [ ] Move over Projects
 - [ ] Add CV somewhere
 - [ ] Add text to "About" page
