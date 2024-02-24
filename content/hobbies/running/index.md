@@ -190,6 +190,13 @@ The toe box is a good width for me – I usually order the wide version of the G
 As with the Brooks, the current MSRP is a not cheap at $140, but I can find them on sale or previous versions for closer to $100.
 For instance, I picked up another pair of version 16 for $70 in a closeout sale on Brooks' website.
 
+### Watch: [Apple Watch Series 8](https://www.apple.com/watch/)
+
+I started with the Series 3 and when that had battery issues and its CPU was out-matched by watchOS, I upgraded to the Series 8.
+Overall, both have been great with the Series 8 bringing many enhancements and an improved user experience.
+There are many great features of the Apple Watch that I won't enumerate here because they are covered well elsewhere.
+I will say that I'm not wed to this device; it has short comings that, when the time comes, will cause me to conduct a survey of the smart watch and fitness tracker market.
+
 ### Pack: [Solomon ADV Skin 5](https://www.salomon.com/en-us/shop/product/adv-skin-5-lc11659.html)
 
 My first running pack/vest was a relatively cheap Nathan model that was on sale.
