@@ -23,7 +23,9 @@ And when visiting my parents house in Arizona, I take advantage of the nearby [M
 > It would be fun to export the data from my phone and put together more tailored visualization rigorous analyses, but I just don't have the time at the moment.
 
 Below I have some charts on my running statistics over the years.
-Since I live in Boston, my running is seasonal – I really do not enjoy running in freezing weather, so most of my running in the winter is when I'm visiting my parents in California or Arizona.
+Since I live in Boston, my running is seasonal – I really detest running in freezing weather, so most of my running in the winter is when I'm visiting my parents in California or Arizona.
+
+![Distances run.](./distances.jpeg)
 
 {{< chart >}}
 type: 'bar',
@@ -89,11 +91,11 @@ options: {
 {{< /chart >}}
 
 I strained my Achilles tendon on my right ankle in my last run in March of 2023, so I took off most of April with a single run of 2 very slow and careful miles, then eased back into running in May and June.
-Consulting with my podiatrist/sister, the injury was probably caused by insufficient strength in my calves and tight Achilles tendon.
+Consulting with my podiatrist sister, the injury was probably caused by insufficient strength in my calves and tight Achilles tendon.
 My running style – I run on the balls of my feet instead of run heel-toe to reduce the impact on my knees – puts a lot of strain on these components, so I now specifically stretch and strengthen my lower leg.
 
 The following chart shows my pace per month.
-It's difficult to see trends here because there are several influencing factors, namely distance (I can run 5 miles faster than 10) and location (I'm much faster running the flat Esplanade along the Charles river than the hills of southern CA).
+It's difficult to see trends here because there are several influencing factors, namely distance (I can maintain a faster pace over 5 miles than 10) and location (I'm much faster running the flat Esplanade along the Charles river than the hills of back home in California).
 
 {{< chart >}}
 type: 'line',
