@@ -12,8 +12,9 @@ featured: false
 draft: false
 ---
 
-Will do a separate post on command line setup and tools.
-VSCode is in the list and I'll do a separate post on the extensions I have installed.
+This is just a simple list of my favorite Mac apps that I've been using in 2024.
+I am planning to do a separate post on my terminal/command line setup and tools.
+Also, Visual Studio Code is my IDE of choice so I think I'll do a separate post on the extensions I have installed.
 
 For each application, I have indicated the price with one of the following icons[^2] – <i class="fa-solid fa-hand-holding-heart" title="Free"></i>, <i class="fa-solid fa-hand-holding-dollar" title="Free (with an optional Premium tier)"></i>, <i class="fa-solid fa-dollar-sign" title="Paid"></i> – indicating "free," "free (with a premium tier)," and "paid," respectively.
 Additionally, I have noted if the application was installed[^1] from the developer's website, with [homebrew](https://brew.sh), or from the Mac App Store with one of the following icons: <i class="fa-solid fa-globe" title="Installed from developer's website"></i>, <i class="fa-solid fa-beer-mug-empty" title="Installed with Homebrew"></i>, <i class="fa-brands fa-apple" title="Installed from the Mac App Store"></i>.
