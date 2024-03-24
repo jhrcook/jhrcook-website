@@ -9,4 +9,4 @@ cascade:
     showSummary: true
 ---
 
-{{< lead >}} How I enjoy spending my free time and weekends. {{< /lead >}}
+{{< lead >}} How I enjoy spending my free time and weekends. These pages are still a work-in-progress and more will be added soon! {{< /lead >}}
