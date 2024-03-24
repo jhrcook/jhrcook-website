@@ -7,7 +7,7 @@ categories: [hobbies]
 date: 2022-12-31T00:00:00-00:00
 lastmod: 2022-12-04T13:50:08-04:00
 featured: false
-draft: true
+draft: false
 ---
 
 I think I was successful, definitely improving over the previous year, and I finished [24 books this year](https://www.goodreads.com/user_challenges/32619604).
