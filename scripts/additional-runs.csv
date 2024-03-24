@@ -1,0 +1,3 @@
+sep=,
+type,sourceName,sourceVersion,productType,device,startDate,endDate,activityType,duration,durationUnit,totalEnergyBurned,totalDistance,totalSwimmingStrokeCount,totalFlightsClimbed,HKIndoorWorkout,HKTimeZone,HKAverageMETs,HKWeatherTemperature,HKWeatherHumidity,HKElevationAscended
+HKWorkoutTypeIdentifier,Joshua’s Apple Watch,10.2,"Watch6,15","<<HKDevice: 0x283023610>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch6,15, software:10.2>",2023-12-26 15:01:13 +0000,2023-12-26 21:45:40 +0000,Hiking,23113.836814045906,sec,4225.87 kcal,48299.8 m,,,0,America/Phoenix,9.28309 kcal/hr·kg,39.236 degF,5300 %,92576 cm

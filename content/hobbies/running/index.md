@@ -19,11 +19,8 @@ And when visiting my parents house in Arizona, I take advantage of the nearby [M
 
 ## Stats
 
-> The following stats just look over the last five years of data.
-> It would be fun to export the data from my phone and put together more tailored visualization rigorous analyses, but I just don't have the time at the moment.
-
-Below I have some charts on my running statistics over the years.
-Since I live in Boston, my running is seasonal – I really detest running in freezing weather, so most of my running in the winter is when I'm visiting my parents in California or Arizona.
+Below I have some charts on my running statistics over the last few years.
+Since I live in Boston, my running is seasonal – I greatly detest running in freezing weather, so most of my running in the winter is when I'm visiting my parents in California or Arizona.
 
 ![Distances run.](./distances.jpeg)
 

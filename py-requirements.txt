@@ -1,1 +1,9 @@
 rich
+typer[all]
+pillow
+ruff
+polars
+python-dateutil
+ matplotlib
+ seaborn
+ pyarrow
