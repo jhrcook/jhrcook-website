@@ -22,5 +22,8 @@
     "markdownlint.config": {
         "MD033": false,
         "MD034": false
-    }
+    },
+    "cSpell.words": [
+        "mypy"
+    ]
 }
