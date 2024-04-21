@@ -1,6 +1,8 @@
 # Personal Website
 
 [![Deploy Hugo site to Pages](https://github.com/jhrcook/jhrcook-website/actions/workflows/gh-pages.yaml/badge.svg)](https://github.com/jhrcook/jhrcook-website/actions/workflows/gh-pages.yaml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/476d73fd-0900-4ce7-9f2c-f06ba76fceb6/deploy-status)](https://app.netlify.com/sites/joshuacook/deploys)
+![](https://img.shields.io/badge/Hugo-Academic-FF4088?logo=hugo)
 
 Built with [Hugo](https://gohugo.io) using the [Blowfish](https://blowfish.page) theme.
 
@@ -23,7 +25,7 @@ To-Do:
   - [x] running
 - [ ] Move over Projects
 - [ ] Add CV somewhere
-- [ ] Add text to "About" page
+- [ ] Finish to "About" page
 
 ---
 
