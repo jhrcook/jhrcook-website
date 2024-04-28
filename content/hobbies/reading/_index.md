@@ -8,9 +8,13 @@ lastmod: 2024-01-01
 {{<lead>}}I start every day with coffee and a book.{{</lead>}}
 
 I read as a way to continually learn.
-As a student, this allowed me to diversify my areas of study, and after finishing my many years of formal education, I read to resist from stagnation.
+As a student, this allowed me to diversify my areas of study, and after finishing my (many) years of formal education, I read to resist stagnation.
 Importantly, to learn does not require only reading non-fiction.
 I believe there is plenty to be learned by great fiction.
+
+Below I have links to my book reviews, organized by the year in which I read the book:
+
+- [2024]({{< relref "reviews/2024.md" >}})
 
 You can see what I have read on either Goodreads or The StoryGraph by following the links below.
 
@@ -44,7 +48,7 @@ I would recommend this book to anyone, but particularly for young boys as it rea
 His unique expertise and background provides tremendous insight into humanity through this particularly tragic experience.
 This book provides a sobering analysis of the brutal realities of the most fundamental features of human nature and is a must read for anyone seeking to better understand themselves and others.
 
-#### [*The Old MAn and the Sea*](https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea) by Ernest Hemingway
+#### [*The Old Man and the Sea*](https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea) by Ernest Hemingway
 
 <img src="./assets/old-man-sea.jpg" alt="The Old Man and the Sea cover image." style="height:300px"/>
 
