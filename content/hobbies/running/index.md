@@ -163,9 +163,9 @@ options: {
 
 ## Favorite Gear
 
-> Note that the links may break as new models are released and old models are retired.
+> Note that the links may break as new models are released and old models are retired. The links to Amazon products are affiliate links and I earn a small commission on items you purchase.
 
-### Road shoes: [Brooks Ghost](https://www.brooksrunning.com/en_us/mens/shoes/road-running-shoes/ghost-15/110393.html)
+### Road shoes: [Brooks Ghost](https://amzn.to/3VneN9D)
 
 The Ghost is a tried-and-true model.
 I have been running in Ghost models since 2018[^1] and have had no issues.
@@ -177,7 +177,7 @@ Recently, I picked up a basically new pair of Ghost 14 on their used gear site, 
 
 [^1]: The current model in February of 2024 is version 15 and I've used versions 10 (2018), 11 (2020), 13 (2021), and 14 (2023).
 
-### Trail shoes: [Brooks Cascadia](https://www.brooksrunning.com/en_us/mens/shoes/trail-shoes/cascadia-17/110403.html)
+### Trail shoes: [Brooks Cascadia](https://amzn.to/3KJeBg1)
 
 I'm fairly new to trail runners.
 When shopping for my first pair, I started with Cascadia because of my success with the Ghosts and the similarity between these models of shoe.
@@ -189,14 +189,14 @@ The toe box is a good width for me – I usually order the wide version of the G
 As with the Brooks, the current MSRP is a not cheap at $140, but I can find them on sale or previous versions for closer to $100.
 For instance, I picked up another pair of version 16 for $70 in a closeout sale on Brooks' website.
 
-### Watch: [Apple Watch Series 8](https://www.apple.com/watch/)
+### Watch: [Apple Watch Series 8](https://amzn.to/4ehyOax)
 
 I started with the Series 3 and when that had battery issues and its CPU was out-matched by watchOS, I upgraded to the Series 8.
 Overall, both have been great with the Series 8 bringing many enhancements and an improved user experience.
 There are many great features of the Apple Watch that I won't enumerate here because they are covered well elsewhere.
 I will say that I'm not wed to this device; it has short comings that, when the time comes, will cause me to conduct a survey of the smart watch and fitness tracker market.
 
-### Pack: [Solomon ADV Skin 5](https://www.salomon.com/en-us/shop/product/adv-skin-5-lc11659.html)
+### Pack: [Solomon ADV Skin 5](https://amzn.to/4c07Oux)
 
 My first running pack/vest was a relatively cheap Nathan model that was on sale.
 It was a good starter to see if I was interested in using it for longer runs, but it used a water bladder in the back that eventually leaked (two bladders I tried eventually leaked, and the one the pack actually came with is very difficult to actually drink from).
@@ -208,22 +208,22 @@ All of the others had compromises on fit and function.
 I found it fits to my body the best out of the models I tried and, in addition, it was the only one with an accessible zippered pocket that could hold a cell phone securely.
 This pack is also sold with two flasks which usually retail for around $20 each, so that should be accounted for when shopping around.
 
-Were I looking to upgrade, I would consider getting a larger capacity (perhaps the 12 L version) because they cinch down well when not full, but can carry more food and water for longer runs.
+Were I looking to upgrade, I would consider getting a larger capacity (perhaps the [12 L version](https://amzn.to/3VsoQu6)) because they cinch down well when not full, but can carry more food and water for longer runs.
 
 (I also have the 25 L [Loris](https://www.gossamergear.com/products/loris) from Gossamer Gear that I want to try running with for my commute, but I am waiting for them to restock the belt.)
 
-### Shorts: [Brooks Sherpa 2-in-1 Running Shorts](https://www.brooksrunning.com/en_us/mens/apparel/bottoms/sherpa-7%22-2-in-1-short/211333429.030.html)
+### Shorts: [Brooks Sherpa 2-in-1 Running Shorts](https://amzn.to/3VntZ6U)
 
 These are very comfortable and have good storage options for holding keys, snacks, and other small items for those intermediate distance runs.
 The zippered leg pocket is build into the compression shorts, so it holds against the leg, making it comfortable to carry a phone.
 
-### Glasses: [Goodr](https://goodr.com)
+### Glasses: [Goodr](https://amzn.to/3RtJA3x)
 
 These glasses are great because they are relatively cheap, light, polarized, and stylish.
 The main selling feature over other cheap glasses is that they don't bounce when I run.
-My go-to style is the OG style in [Ginger's Soul](https://goodr.com/collections/the-ogs/products/a-gingers-soul) black.
+My go-to style is the OG style in [Ginger's Soul](https://amzn.to/3RtJA3x) black.
 
-### Energy gels: [Huma Gels Plus](https://humagel.com/collections/huma-products/products/plus-flavors)
+### Energy gels: [Huma Gels Plus](https://amzn.to/3RvhqFj)
 
 I have experimented with a few different options, but don't have enough experience to provide strong recommendations on energy gels.
 I will say, though, that having these energy gels makes a massive difference on longer runs (anything over an hour).

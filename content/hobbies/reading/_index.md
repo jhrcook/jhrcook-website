@@ -15,6 +15,7 @@ I believe there is plenty to be learned by great fiction.
 Below I have links to my book reviews, organized by the year in which I read the book:
 
 - [2024]({{< relref "reviews/2024.md" >}})
+- [2023]({{< relref "reviews/2023.md" >}})
 
 You can see what I have read on either Goodreads or The StoryGraph by following the links below.
 
@@ -30,7 +31,7 @@ You can see what I have read on either Goodreads or The StoryGraph by following 
 
 ### All time
 
-#### [*Rascal*](https://www.goodreads.com/book/show/967511.Rascal) by Sterling North
+#### [*Rascal*](https://amzn.to/4epaCml) by Sterling North
 
 <img src="./assets/rascal.jpg" alt="Rascal cover image." style="height:300px"/>
 
@@ -40,7 +41,7 @@ I would recommend this book to anyone, but particularly for young boys as it rea
 
 (As an aside, this book served as the muse for a [popular cartoon](https://en.wikipedia.org/wiki/Rascal_the_Raccoon) in Japan, eventually leading to a boom in the pet racoon market, many of which escaped and caused [an ongoing ecological disaster](https://www.smithsonianmag.com/smart-news/childrens-book-behind-japans-raccoon-problem-180954577/).)
 
-#### [*Man's Search for Meaning*](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) by Viktor Frankel
+#### [*Man's Search for Meaning*](https://amzn.to/3XvVFZE) by Viktor Frankel
 
 <img src="./assets/search-for-meaning.jpg" alt="Man's Search for Meaning cover image." style="height:300px"/>
 
@@ -48,7 +49,7 @@ I would recommend this book to anyone, but particularly for young boys as it rea
 His unique expertise and background provides tremendous insight into humanity through this particularly tragic experience.
 This book provides a sobering analysis of the brutal realities of the most fundamental features of human nature and is a must read for anyone seeking to better understand themselves and others.
 
-#### [*The Old Man and the Sea*](https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea) by Ernest Hemingway
+#### [*The Old Man and the Sea*](https://amzn.to/3XqXYxq) by Ernest Hemingway
 
 <img src="./assets/old-man-sea.jpg" alt="The Old Man and the Sea cover image." style="height:300px"/>
 
@@ -61,3 +62,8 @@ I don't claim to have undergone this experience, but I appreciated this novel an
 {{< article  link="/jhrcook-website/posts/2023-12-31_2023-book-review/"  >}}
 <br>
 {{< article  link="/jhrcook-website/posts/2022-12-31_2022-book-review/"  >}}
+
+---
+
+Please note that the Amazon links on this page are Affiliate links.
+Using these links does not change your experience or prices on Amazon, I just get a commission if you purchase the item.
