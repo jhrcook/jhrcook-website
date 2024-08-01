@@ -13,7 +13,7 @@ showHero: true
 
 ## Introduction
 
-Over the 7 years as a computational biologist in academia and industry, the structure and organization of my data analysis projects evolved.
+Over the 7 years as a computational biologist in academia and industry, the structure and organization of my data analysis projects has evolved.
 I need to perform interactive analyses in notebooks, execute command line tools, submit jobs to a high-performance computing (HPC) cluster, and anything else required to get answers to questions my team needs to advance a work stream.
 Importantly, the must be documented, trustworthy, and reproducible.
 Thus, my system has adapted to these constraints and challenges over the years, and below, I describe my Python package-centric method developed to meet these needs.
@@ -21,25 +21,25 @@ Thus, my system has adapted to these constraints and challenges over the years, 
 ## My system
 
 The system I employ is centered around creating and developing a Python package *within* the analysis – that is, each analysis gets its own Python package that is developed and used during the research process.
-The how's and why's of this are explained below.
+The *how's* and *why's* of this are explained below.
 
 ### Virtual environment
 
 Creating a virtual environment for a project is generally good practice and essential for the system described here.
-Working on my company's HPC cluster, I don't have full control over software installation including the versions of Python, so I use ['conda']() (well actually ['mamba'](), but really ['micromamba']() because I don't need all of the features) to create the virtual environment and install my desired version of Python.[^1]
-Conda allows for the installation of not just Python libraries, but other software packages that I may need (e.g. sequence alignment tools that are often developed in C).
+Working on my company's HPC cluster, I don't have full control over software installation including the versions of Python, so I use ['conda'](https://docs.conda.io/en/latest/) (well actually ['mamba'](https://mamba.readthedocs.io/en/latest/index.html), but really ['micromamba'](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html) because I don't need all of the features) to create the virtual environment and install my desired version of Python.[^1]
+'Conda' allows for the installation of not just Python libraries, but other software packages that I may need (e.g. sequence alignment tools that are often written in C).
 
-[^1]: Of course, Docker could be used here, but it is not installed on my company's HPC cluster (nor on Harvard Medical School's when I was doing my Ph.D.) so I've never had the opportunity to try. Anyway, since it is a walled-garden, I'm not sure how well it would behave with external dependencies such as other data directories, ['module' systems](), or task schedulers (e.g. [Slurm]() or [SGE]()).
+[^1]: Of course, Docker could be used here, but it is not installed on my company's HPC cluster (nor on Harvard Medical School's when I was doing my Ph.D.) so I've never had the opportunity to try. Anyway, since it is a walled-garden, I'm not sure how well it would behave with external dependencies such as other data directories, ['module' systems](https://hpc-wiki.info/hpc/Modules), or task schedulers (e.g. [Slurm](https://slurm.schedmd.com/overview.html) or [SGE](https://docs.oracle.com/cd/E19279-01/820-3257-12/n1ge.html)).
 
 By default 'conda' keeps virtual environments in a single location and users reference them by name.
-Instead, I prefer to have the virtual environment physically within the project, so I use a command like the following to create a virtual environment:
+I instead prefer to have the virtual environment physically within the project, so I use a command like the following to create a virtual environment:
 
 ```bash
 micromamba env create -p "./.venv" -c conda-forge "python=3.11"
 micromamba activate -p "./.venv"
 ```
 
-Within the 'conda' environment, I then use ['uv']() to install Python libraries.
+Within the 'conda' environment, I then use ['uv'](https://astral.sh/blog/uv) to install Python libraries.
 Briefly, 'uv' is a drop-in replacement (more or less) for 'pip,' but is *insanely* fast.
 It also comes with `compile` and `sync` tools that help with environment management over the project's lifetime.
 
@@ -49,7 +49,7 @@ uv pip install ... # whatever libraries you like
 ```
 
 {{< alert "circle-info" >}}
-**Tip:** Install [ruff]() in the virtual environment and use it to format your code.
+**Tip:** Install ['ruff'](https://docs.astral.sh/ruff/) in the virtual environment and use it to format your code.
 It is so fast and efficient, I set it as the tool to be used during "format-on-save" in my IDE without any noticeable slowdown.
 {{< /alert >}}
 
@@ -67,8 +67,8 @@ mkdir hares_ear
 touch hares_ear/__init__.py
 ```
 
-A comprehensive description of Python packaging is beyond the scope of this post, but using a tool like ['flit']() can help with getting started.
-Since I don't publish these packages to a packaging index (e.g. [PyPI]()), I don't use tools like 'flit' anymore, instead I usually just copy a "pyproject.toml" file (more on this below) from a previous analysis and updating it for the current one.
+A comprehensive description of Python packaging is beyond the scope of this post, but using a tool like ['flit'](https://flit.pypa.io/en/stable/) can help with getting started.
+Since I don't publish these packages to a packaging index (e.g. [PyPI](https://pypi.org)), I don't use tools like 'flit' anymore, instead I usually just copy a "pyproject.toml" file (more on this below) from a previous analysis and updating it for the current one.
 
 After making the package's directory, I'll create the "pyproject.toml", the file that declares the metadata for the package.
 Again, I won't go into all of the details, but below is an example of some basic metadata:
@@ -116,20 +116,21 @@ python
 **Now is a good time to switch from the "how" to the "why" – I think the above provides sufficient detail of the structure of the system to now describe *why* I create and install a Python package this way.**
 
 The main reason for creating and installing a specific Python package for each analysis is that it will contain the "business logic" of the project in a single, reusable location.
-The business logic in this case refers to standard procedures or data (e.g. constants, specific data file paths) that will be used throughout the project and need to be consistent in every use.
-Keeping the business logic ["DRY"]() is not just convenient, but *critical* to maintaining consistent practices throughout a data analysis.
+The business logic in this case refers to standard procedures or data (e.g. constants or key file paths) that will be used throughout the project and need to be consistent in every use.
+Keeping the business logic ["DRY"](https://en.wikipedia.org/wiki/Don't_repeat_yourself) is not just convenient, but *critical* to maintaining consistent practices throughout a data analysis.
+(I discuss this more [below](#dont-repeat-yourself-dry).)
 
 As an almost-trivial example, I often create a specific plot style for a project to maintain the consistency of figures.
 I can place this code into a `set_style()` function in a `plots` module in my package to be called at the top of my analyses.
 
 Alternatively, there could be a set of filtering and processing operations that you apply to certain data types that you want to use throughout a project.
-Instead of copying a code block from one notebook to another (which I see many of my colleagues do), this logic can be refactored into a function and placed in a module of the package to be called from anywhere.
+Instead of copying a code block from one notebook to another (which I have seen many colleagues do), this logic can be refactored into a function and placed in a module of the package to be called from anywhere.
 Further, this function can be parameterized with good default values to make it more general while keeping the logic in a single, known location.
 Providing the function a descriptive name and a docstring are added benefits of this system that increase trust in the system and enhance reusability.
 
 ### Modules
 
-A module in a package is either a ".py" file or a directory with a "\_\_init\_\_.py" within the package.
+A module in a package is a ".py" file within the package (these can be further organized into directories within the package, too).
 You can add any module you think is useful for your project.
 They are convenient for organization, but also assist in enforcing separation of concerns.
 Below are some modules I include in most data analysis projects.
@@ -139,7 +140,7 @@ Below are some modules I include in most data analysis projects.
 A command line interface (CLI) is now one of the first modules I create in an analysis' package.
 This CLI is meant to act as an entrypoint to using the code contained in the package from the command line, usually in scripts (more on that below).
 
-In it's simplest form, I'll create a module called `cli` (i.e. a file called "cli.py") and create a ['typer']() app within it.
+In it's simplest form, I'll create a module called `cli` (i.e. a file called "cli.py") and create a ['typer'](https://typer.tiangolo.com/tutorial/typer-command/) app within it.
 This has the following general structure:
 
 ```python
@@ -156,7 +157,7 @@ def hello_world() -> None:
 ```
 
 In this case, I create the singleton `app` object and give it an example command function `hello_world()`.
-Again, a complete description of ['typer']() is beyond the scope of this article, and is simply unnecessary with the high-quality documentation already provided.
+Again, a complete description of ['typer'](https://typer.tiangolo.com/tutorial/typer-command/) is beyond the scope of this article, and is simply unnecessary with the high-quality documentation already provided.
 It's a great tool, especially if you use type hints, so I highly recommend checking it out.
 
 The command line entrypoint can now be added to the "pyproject.toml":
@@ -195,7 +196,7 @@ Below are just some comments on good coding practices, specifically on those tha
 
 #### Don't Repeat Yourself (DRY)
 
-The principle ["Don't Repeat Yourself"](https://en.wikipedia.org/wiki/Don't_repeat_yourself) (DRY), famously introduced in [*The Pragmatic Programmer*](), is meant to retain a single source of truth for all knowledge.
+The principle ["Don't Repeat Yourself"](https://en.wikipedia.org/wiki/Don't_repeat_yourself) (DRY), famously introduced in [*The Pragmatic Programmer*](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), is meant to retain a single source of truth for all knowledge.
 Importantly, the term "knowledge" is meant very much in the Information Theoretic sense of anything that provides order.
 This therefore applies to data, logic, documentation, etc.
 The key purpose of using a package-centric system is for the package to contain the sources of truth referenced throughout your analysis.
@@ -211,7 +212,7 @@ Following this idealogy takes advantage of the package-centric system and result
 
 #### Type hints
 
-It's no secret that I [love]() type hints in Python.
+It's no secret that I [love]({{< relref "/tags/type-hinting/" >}}) type hints in Python.
 I won't try to convert anyone here, but I will plug that using type hints can make reusing code far easier by enhancing a function's or class's API.
 Further, the capabilities of modern developer tools in IDEs make great use of type hints when used in packages.
 
@@ -250,7 +251,7 @@ In general, I want the script to focus on the "what" (purpose of the script) and
 
 #### Notebooks
 
-[Jupyter notebooks]() are a staple of the modern data analysis toolkit.
+[Jupyter notebooks](https://jupyter.org) are a staple of the modern data analysis toolkit.
 I usually keep these all in a "notebooks/" directory, opting for longer, descriptive file names than a nested directory structure to later traverse through.
 
 {{< alert "circle-info" >}}
