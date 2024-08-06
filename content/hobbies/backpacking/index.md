@@ -3,7 +3,7 @@ title: "Backpacking"
 summary: "Adventure is out there!"
 date: 2024-01-01
 lastmod: 2024-08-06
-draft: true
+draft: false
 ---
 
 ## Background
