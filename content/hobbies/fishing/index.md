@@ -1,9 +1,9 @@
 ---
 title: "Fishing"
-summary: "An excuse to be outside and interact with nature."
+summary: "Such a great excuse to be outside and interact with nature."
 date: 2024-01-01
-lastmod: 2024-01-01
-draft: true
+lastmod: 2024-08-03
+draft: false
 ---
 
 My friend from graduate school, Dr. Viktor Ljungström, left me his fishing pole and some tackle when he moved back to Sweden 🇸🇪.
