@@ -44,7 +44,7 @@ I have a few different ways you can send me a few bucks, so choose whichever med
 This site also uses **Amazon Affiliate Program links**.
 The prices on the items are unaffected and I don't receive any information about you, using these links just tells Amazon that you heard about the product through me and I earn a small commission if you purchase the item.
 You can support me by doing your Amazon shopping through the link below.
-Again, it doesn't change your experience (or prices) shopping on Amazon, I just a bit of commission.
+Again, it doesn't change your experience (or prices) shopping on Amazon, I just get a small commission.
 
 {{< button href="https://amzn.to/3KIrze0" target="self" >}}
     {{< icon amazon >}} Amazon
