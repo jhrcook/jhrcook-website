@@ -27,9 +27,21 @@ pageRef = "hobbies"
 weight = 40
 
 [[main]]
-name = "About"
+name = "Overview"
+parent = "About"
 pageRef = "about"
 weight = 50
+
+[[main]]
+name = "Resume"
+parent = "About"
+pageRef = "resume"
+weight = 60
+
+# [[main]]
+# name = "About"
+# pageRef = "about"
+# weight = 50
 
 # [[main]]
 # pre = "github"
@@ -46,18 +58,6 @@ weight = 50
 # title = "Buy Me a Coffee"
 # url = "https://www.buymeacoffee.com/joshuacook"
 # weight = 110
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"
