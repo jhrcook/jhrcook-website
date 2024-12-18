@@ -6,27 +6,6 @@
 
 Built with [Hugo](https://gohugo.io) using the [Blowfish](https://blowfish.page) theme.
 
-To-Do:
-
-- [x] Copy over blog posts
-  - [x] Copy over posts and get Hugo running
-  - [x] Check styling of all posts
-  - [x] Align on tags and categories
-  - [x] Make "Series" of some of the posts:
-    - [x] Riddlers
-    - [x] PyMC Splines
-  - [x] Reduce image/asset sizes (2019-08-14_plants-led-light)
-- [x] Add to Hobbies
-  - [x] backpacking
-  - [x] bread
-  - [x] fishing
-  - [x] plants
-  - [x] reading
-  - [x] running
-- [ ] Move over Projects
-- [ ] Add CV somewhere
-- [ ] Finish to "About" page
-
 ---
 
 ## Notes
