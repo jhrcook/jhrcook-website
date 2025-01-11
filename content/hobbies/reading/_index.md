@@ -2,7 +2,7 @@
 title: "Reading"
 summary: "Primarily non-fiction, but a splash of the classics, too."
 date: 2024-01-01
-lastmod: 2024-01-01
+lastmod: 2025-01-11
 ---
 
 {{<lead>}}I start every day with coffee and a book.{{</lead>}}
@@ -14,6 +14,7 @@ I believe there is plenty to be learned by great fiction.
 
 Below I have links to my book reviews, organized by the year in which I read the book:
 
+- [2025]({{< relref "reviews/2025.md" >}})
 - [2024]({{< relref "reviews/2024.md" >}})
 - [2023]({{< relref "reviews/2023.md" >}})
 
