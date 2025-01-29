@@ -1,9 +1,8 @@
 ---
 title: "Bread baking"
 summary: "Everyone loves bread."
-date: 2024-01-01
-lastmod: 2024-06-15
 draft: false
+date: 2024-06-01
 ---
 
 Like everyone else, I started making bread during the COVID-19 pandemic in 2020, but unlike everyone else, I didn't start because of Instagram "influencers."

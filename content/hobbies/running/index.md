@@ -1,8 +1,7 @@
 ---
 title: "Running"
 summary: "A great way to clear my mind and challenge myself."
-date: 2024-01-01
-lastmod: 2024-01-01
+date: 2024-11-01
 ---
 
 {{< lead >}}

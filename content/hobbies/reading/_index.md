@@ -1,8 +1,8 @@
 ---
 title: "Reading"
 summary: "Primarily non-fiction, but a splash of the classics, too."
-date: 2024-01-01
-lastmod: 2025-01-11
+date: 2024-12-01
+draft: false
 ---
 
 {{<lead>}}I start every day with coffee and a book.{{</lead>}}

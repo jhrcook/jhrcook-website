@@ -1,8 +1,7 @@
 ---
 title: "Watches"
 summary: "My admiration of brilliant engineering and eye-catching design."
-date: 2024-01-01
-lastmod: 2025-01-25
+date: 2024-02-01
 draft: false
 ---
 

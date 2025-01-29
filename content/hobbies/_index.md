@@ -3,6 +3,7 @@ title: "Hobbies"
 description: "How I enjoy spending my free time and weekends."
 
 cardView: true
+groupByYear: false
 
 cascade:
     showDate: false

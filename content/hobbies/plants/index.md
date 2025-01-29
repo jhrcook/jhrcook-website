@@ -1,9 +1,8 @@
 ---
 title: "Cacti & succulents"
 summary: "I love the variety of cacti and succulents, there is always more to learn and see."
-date: 2024-01-01
-lastmod: 2024-01-01
 draft: false
+date: 2024-08-01
 ---
 
 In undergrad, I fostered a love of succulents and cacti.
