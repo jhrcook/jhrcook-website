@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "OncoTree Tidygraph"
 subtitle: ""
 summary: "Transforming the MSK OncoTree into a tidygraph object in R."
