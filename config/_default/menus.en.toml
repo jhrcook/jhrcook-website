@@ -26,6 +26,7 @@ name = "Hobbies"
 pageRef = "hobbies"
 weight = 40
 
+
 [[main]]
 name = "Overview"
 parent = "About"
@@ -36,7 +37,20 @@ weight = 50
 name = "Resume"
 parent = "About"
 pageRef = "resume"
-weight = 60
+weight = 55
+
+
+[[main]]
+name = "Resources"
+parent = "Other"
+pageRef = "resources"
+weight = 70
+
+[[main]]
+name = "Reviews"
+parent = "Other"
+pageRef = "reviews"
+weight = 75
 
 # [[main]]
 # name = "About"
