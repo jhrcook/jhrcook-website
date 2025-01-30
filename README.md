@@ -41,9 +41,14 @@ Can find the maximum Hugo version in the file [./themes/blowfish/config.toml](./
 
 Can then install this version of Hugo with the following steps:
 
-1. Download the release from here: <https://github.com/gohugoio/hugo/releases>
+1. Download the release from here: <https://github.com/gohugoio/hugo/releases> – make sure to download the "hugo-extended" asset
 2. Extract
 3. Move the `hugo` executable to `~/.local/bin/`
-4. May need to all use of the downloaded binary in System Settings/Security
+4. May need to allow use of the downloaded binary in System Settings/Security
 
 Finally, set the desired version of Hugo in the [netlify.toml](./netlify.toml) and GitHub Actions [workflow](.github/workflows/gh-pages.yaml)
+
+Last performed:
+
+- January 30, 2024
+- Hugo version: 1.142.0
