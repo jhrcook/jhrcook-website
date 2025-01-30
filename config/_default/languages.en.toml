@@ -13,7 +13,7 @@ logo = "logo.png"
 description = "Joshua Cook's portfolio website"
 copyright = "© { year } Joshua Cook"
 
-[author]
+[params.author]
 name = "Joshua Cook, Ph. D."
 image = "author.jpg"
 headline = "Computational Genomics Research Scientist"
