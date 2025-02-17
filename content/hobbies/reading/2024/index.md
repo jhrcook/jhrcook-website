@@ -1,8 +1,8 @@
 ---
 title: "2024 Book Reviews"
 summary: "Reviews of the books I read in 2024."
-# date: 2024-01-01
-# lastmod: 2024-12-31
+date: 2024-01-01
+lastmod: 2024-12-31
 ---
 
 My favorite books of the year (links to the respective review below):
@@ -205,8 +205,8 @@ In this concise yet compelling narrative, Brunelleschi's legacy shines brightly,
 For those intrigued by the interplay of history and innovation, this book promises an enriching journey into the heart of artistic evolution.
 
 {{< gallery >}}
-  <img src="../../reviews/assets/2024/dome-model.jpeg" class="grid-w50"/>
-  <img src="../../reviews/assets/2024/duomo.jpeg" class="grid-w50" />
+  <img src="assets/dome-model.jpeg" class="grid-w50"/>
+  <img src="assets/duomo.jpeg" class="grid-w50" />
 {{< /gallery >}}
 <figcaption>(Left) Brunelleschi's wood model of his dome design. (Right) A photo of the dome on my climb up Giotto's Tower.</figcaption>
 
@@ -417,7 +417,7 @@ I read it to prepare for my autumn trip to Florence, Italy, and gained a rich un
 King masterfully weaves multiple narratives into a single, flowing story: the tale of the world's most influential manuscript seller on the eve of Gutenberg's innovations in print; the social, familial, and territorial conflicts in Florence and the Italy peninsula; and the birth of the Renaissance and Western Civilization.
 Through the unique lens of Vespasiano, King illuminates Florence and the Renaissance, highlighting this under-appreciated figure who played a crucial role in maintaining and distributing the manuscripts that spread revolutionary ideas.
 
-![Plaque on a wall.](../../reviews/assets/2024/vespasiano-plaque.jpeg "Plaque in Basilica di Santa Croce marking Vespasiano's burial site that I found on my trip to Florence.")
+![Plaque on a wall.](assets/vespasiano-plaque.jpeg "Plaque in Basilica di Santa Croce marking Vespasiano's burial site that I found on my trip to Florence.")
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337692442l/13588369._SX98_.jpg"/></a>
 
@@ -431,7 +431,7 @@ The book begins at the founding of the city in the lagoon and finishes with a su
 While touring Venice, I was able to place the artifacts, art, buildings, and stories into their rough historical context.
 Overall, I highly recommend this as a first book on the history of this fascinating city.
 
-![Venice vista.](../../reviews/assets/2024/venice.jpeg "A photo of the beautiful city of Venice from my trip after reading *Venice: A New History*.")
+![Venice vista.](assets/venice.jpeg "A photo of the beautiful city of Venice from my trip after reading *Venice: A New History*.")
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388406783l/12786._SX98_.jpg"/></a>
 

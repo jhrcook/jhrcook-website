@@ -1,8 +1,8 @@
 ---
 title: "2023 Book Reviews"
 summary: "Reviews of the books I read in 2023."
-# date: 2023-01-01
-# lastmod: 2023-12-31
+date: 2023-01-01
+lastmod: 2023-12-31
 ---
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502223499l/35696171._SX98_.jpg"/></a>
