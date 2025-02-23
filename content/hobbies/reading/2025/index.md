@@ -90,6 +90,23 @@ In fact, it may be in part while I feel like this book under-delivered – almos
 
 Overall, I would recommend reading this if you are interested in the meeting of these three WWII leaders and some of their interplay, but if you come in expecting a tale of espionage of the likes of Ben McIntyre, you will be disappointed.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925996l/45546._SX98_.jpg"/></a>
+
+## *Undaunted Courage*
+
+**Stephen Ambrose** <br>
+Rating: 4.5 / 5
+
+This vivid and engrossing account of one of history’s greatest adventures was exactly what I needed to escape the bitterness of a New England winter.
+Ambrose’s meticulous research and masterful storytelling strike a fine balance between detail and momentum, sustaining a spirit of exploration and adventure across nearly 500 pages – without a dull or unnecessary paragraph.
+The author’s insights into the thoughts and motivations of the captains, crew, and Indians add depth to the narrative.
+When the historical record is silent, he offers well-reasoned conjecture, always distinguishing it as such.
+These moments feel like the informed musings of a seasoned professor, filling gaps where primary sources fall short.
+Ambrose’s criticism is measured and fair.
+He acknowledges the moral failings of figures like Lewis, Clark, and Jefferson without resorting to the reductionist labels so common of modern authors.
+His portrayal of interactions with Indians is equally nuanced, presenting acts of generosity and cruelty on both sides.
+For anyone interested in U.S. history, exploration, or adventure, *Undaunted Courage* is an exceptional read.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
 
 ## *Title*
@@ -104,5 +121,5 @@ TK
 
 **Currently reading:**
 
-1. *Undaunted Courage* by Stephen E. Ambrose
+1. *The Founding Fish* by John McPhee
 2. *Eight Little Piggies* by Stephen J. Gould

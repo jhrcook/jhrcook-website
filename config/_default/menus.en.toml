@@ -47,7 +47,7 @@ pageRef = "resources"
 weight = 70
 
 [[main]]
-name = "Reviews"
+name = "Product reviews"
 parent = "Other"
 pageRef = "product-reviews"
 weight = 75
