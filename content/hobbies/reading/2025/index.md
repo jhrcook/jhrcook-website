@@ -107,6 +107,21 @@ He acknowledges the moral failings of figures like Lewis, Clark, and Jefferson w
 His portrayal of interactions with Indians is equally nuanced, presenting acts of generosity and cruelty on both sides.
 For anyone interested in U.S. history, exploration, or adventure, *Undaunted Courage* is an exceptional read.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671460307l/290588._SX98_.jpg"/></a>
+
+## *The Founding Fish*
+
+**John McPhee** <br>
+Rating: 4.25 / 5
+
+McPhee's gift for transforming a single subject into a fascinating book never fails to impress.
+This time, a fish.
+Not a brilliantly colored fish, nor an anatomically bizarre one. Not poisonous, not venomous. Just a fish — a shad.
+A species most people will never think about, let alone know in great detail.
+Yet McPhee crafts a compelling narrative around the American shad, blending natural history with his own experiences fishing for and studying the species.
+With characteristic precision, he explores its anatomy, behavior, and life cycle, while also tracing its notable role in American history.
+I'm confident in predicting that if you like McPhee or fishing, you'll like this book.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
 
 ## *Title*
@@ -121,5 +136,5 @@ TK
 
 **Currently reading:**
 
-1. *The Founding Fish* by John McPhee
+1. *Live and Let Die* by Ian Fleming
 2. *Eight Little Piggies* by Stephen J. Gould
