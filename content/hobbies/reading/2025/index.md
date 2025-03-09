@@ -122,6 +122,18 @@ Yet McPhee crafts a compelling narrative around the American shad, blending natu
 With characteristic precision, he explores its anatomy, behavior, and life cycle, while also tracing its notable role in American history.
 I'm confident in predicting that if you like McPhee or fishing, you'll like this book.
 
+https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books//.jpg
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327953982l/3763._SX98_.jpg"/></a>
+
+## *Live and Let Die*
+
+**Ian Fleming** <br>
+Rating: 4.0 / 5
+
+Another quick read of a classic Bond novel.
+I'm not a greater reviewer of fiction and, given the popularity of this series, I don't feel I would add much value in attempting to do so.
+I will say that I enjoyed the faster pace after two longer biographical tales.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
 
 ## *Title*
@@ -136,5 +148,4 @@ TK
 
 **Currently reading:**
 
-1. *Live and Let Die* by Ian Fleming
-2. *Eight Little Piggies* by Stephen J. Gould
+1. *Eight Little Piggies* by Stephen J. Gould
