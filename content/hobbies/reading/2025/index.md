@@ -134,6 +134,20 @@ Another quick read of a classic Bond novel.
 I'm not a greater reviewer of fiction and, given the popularity of this series, I don't feel I would add much value in attempting to do so.
 I will say that I enjoyed the faster pace after two longer biographical tales.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391440316l/18668059._SX98_.jpg"/></a>
+
+## *The Obstacle is the Way*
+
+**Ryan Holiday** <br>
+Rating: 3.0 / 5
+
+This is the first book in Holiday’s trilogy on practicing Stoic philosophy.
+While it aims to be quick and practical — distilling key Stoic tenets into actionable advice — the writing is too simplistic.
+It reads like a high-school essay on ethics and hard work: repetitive, lacking nuance, and overly straightforward.
+The book offers some useful insights, but most come from quotes or anecdotes about historical figures.
+Holiday adds little original value, instead padding key ideas with analogies, famous stories (sometimes tenuously linked), and restatements with added overly-intense emphasis.
+It’s a short read — I finished it in a few days while splitting time with another book — but it could have been distilled further, perhaps into a handful of quotes or a one-hour podcast.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
 
 ## *Title*
