@@ -16,8 +16,8 @@ copyright = "© { year } Joshua Cook"
 [params.author]
 name = "Joshua Cook, Ph. D."
 image = "author.jpg"
-headline = "Computational Genomics Research Scientist"
-bio = "Computational Genomics Research Scientist"
+headline = "Senior Research Scientist of Computational Genomics"
+bio = "Senior Research Scientist of Computational Genomics"
 links = [
   { email = "mailto:josh.hr.cook@gmail.com" },
   #     { link = "https://link-to-some-website.com/" },
