@@ -36,7 +36,7 @@ weight = 50
 [[main]]
 name = "Resume"
 parent = "About"
-pageRef = "resume"
+url = "/resume.pdf"
 weight = 55
 
 
