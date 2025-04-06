@@ -5,7 +5,7 @@ title: "Text Summarization App"
 summary: "A web application that summarizing text down to an adjustable percentage of the the most important sentences."
 authors: []
 tags: ["Python", "programming", "Streamlit", "web application", "data science", "data analysis"]
-categories: ["programming"]
+categories: ["Dev"]
 date: 2020-12-31T08:37:42-08:00
 
 # Optional external URL for project (replaces project detail page).
