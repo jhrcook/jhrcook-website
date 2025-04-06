@@ -171,6 +171,17 @@ In contrast, the more compelling elements—Hudson’s thoughts, the sailors’ 
 The writing is thorough and of high quality, but the book seems more suited to readers interested in the early era of the Dutch East India Company than to amateurs seeking an exciting tale of exploration.
 Thus, my 3.5-star rating reflects unmet expectations rather than a flaw in the book’s execution.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388215989l/3750._SX98_.jpg"/></a>
+
+## *Moonraker*
+
+**Ian Fleming** <br>
+Rating: 4.25 / 5
+
+Moonraker is the first Bond novel I can (with some hesitation for fear of sounding elitist) say I genuinely enjoyed — not just as part of the iconic franchise, but as a solid story on its own.
+The writing feels more polished and engaging, the plot more compelling and less cartoonish, and Bond himself more interesting.
+The usual flair and exaggerated twists remain, preserving the classic Bond thriller style, but here they feel more restrained and, thus, effective.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
 
 ## *Title*
@@ -185,4 +196,4 @@ TK
 
 **Currently reading:**
 
-1. *Eight Little Piggies* by Stephen J. Gould
+1. *The Looming Tower* by Lawrence Wright
