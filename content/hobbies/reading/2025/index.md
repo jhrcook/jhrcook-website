@@ -148,6 +148,15 @@ The book offers some useful insights, but most come from quotes or anecdotes abo
 Holiday adds little original value, instead padding key ideas with analogies, famous stories (sometimes tenuously linked), and restatements with added overly-intense emphasis.
 It’s a short read — I finished it in a few days while splitting time with another book — but it could have been distilled further, perhaps into a handful of quotes or a one-hour podcast.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587627766l/33929._SX98_.jpg"/></a>
+
+## *Eight Little Piggies*
+
+**Stephen J. Gould** <br>
+Rating: 4.5 / 5
+
+Another solid collection of essays on natural history by a great writer and thinker of the modern era.
+
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312053568l/6516340._SX98_.jpg"/></a>
 
 ## *Half Moon*
