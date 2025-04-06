@@ -148,6 +148,20 @@ The book offers some useful insights, but most come from quotes or anecdotes abo
 Holiday adds little original value, instead padding key ideas with analogies, famous stories (sometimes tenuously linked), and restatements with added overly-intense emphasis.
 It’s a short read — I finished it in a few days while splitting time with another book — but it could have been distilled further, perhaps into a handful of quotes or a one-hour podcast.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312053568l/6516340._SX98_.jpg"/></a>
+
+## *Half Moon*
+
+**Douglas Hunter** <br>
+Rating: 3.5 / 5
+
+Douglas Hunter offers a detailed and accurate account of Henry Hudson’s voyage aboard the *Half Moon* as he searched the east coast of North America for a route to the Northwest Passage.
+Unfortunately, few records of the journey—particularly the exploration itself—survive.
+As a result, much of the book focuses on aspects I found less engaging, such as financial backing and Anglo-Dutch politics.
+In contrast, the more compelling elements—Hudson’s thoughts, the sailors’ conflicts, and encounters with native peoples—are sparse and largely speculative, pieced together from scattered accounts often written years later.
+The writing is thorough and of high quality, but the book seems more suited to readers interested in the early era of the Dutch East India Company than to amateurs seeking an exciting tale of exploration.
+Thus, my 3.5-star rating reflects unmet expectations rather than a flaw in the book’s execution.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
 
 ## *Title*
