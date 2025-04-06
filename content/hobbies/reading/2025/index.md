@@ -162,7 +162,7 @@ Another solid collection of essays on natural history by a great writer and thin
 ## *Half Moon*
 
 **Douglas Hunter** <br>
-Rating: 3.5 / 5
+Rating: 3.25 / 5
 
 Douglas Hunter offers a detailed and accurate account of Henry Hudson’s voyage aboard the *Half Moon* as he searched the east coast of North America for a route to the Northwest Passage.
 Unfortunately, few records of the journey—particularly the exploration itself—survive.
