@@ -198,15 +198,27 @@ Over the years, I've heard miscellaneous statements about oil, "they hate our fr
 The author did well to provide a narrative over the decades, across nations, turmoil in the Middle East, and various extremist factions and leaders.
 This book seems like a great place to start for an introduction to the battle between the West and modern extremist Islamism, providing a good foundation for further reading and education.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459114043l/27036528._SX98_.jpg"/></a>
 
-## *Title*
+## *Ego Is the Enemy*
 
-**Author** <br>
-Rating: XX / 5
+**Ryan Holiday** <br>
+Rating: 2.0 / 5
 
-TK 
--->
+Another mediocre addition to the trilogy of Holiday's work on Stoic philosophy (I was given the whole trilogy and so I'll finish it, still).
+It wasn't horrible, I think the teachings are generally good, but it could have been summed up in a pamphlet – so the low rating is more about it just wasn't worth the time to read the whole thing.
+In essence: "Ego is the enemy. For everything you do, ask is this for my ego or for my purpose?"
+My two major gripes don't change much from before.
+First, the writing is surprisingly poor.
+As with the first book, *The Obstacle Is the Way*, it comes off as a high schooler's attempt to write inspirational prose.
+It is incredibly repetitive and excessively emotive.
+My second issue with this series is that Holiday uses a lot of examples as evidence, but I don't get the sense that he performs thorough research to support his claim.
+Generally, Holiday will describe a famous person's accomplishment and claim it was because he or she avoided succumbing to his or her ego (or the inverse where the antagonist falls to ego), but he doesn't link the two, he just declares the cause was related to ego.
+Of course, this style of argumentation is biased towards survivors, too, but even in cases where it goes against his narrative, Holiday just claims that was the exception.
+So not only is it very simplistic use of "evidence," he cherry picks the stories.
+In addition, he uses these examples as evidence or data when they are just selected anecdotes.
+Again, I don't disagree with the author's recommendations, it's just that the argumentation is weak, silly, and often distracting.
+My last comment will be that, I understand writing a book on the importance of humility makes one an easy target for criticism, but Holiday does himself no favors by putting his face on his podcast artwork and most Youtube thumbnails and putting up videos of him reading and running – just feels like there are some simple ways to reduce his ego.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
 
