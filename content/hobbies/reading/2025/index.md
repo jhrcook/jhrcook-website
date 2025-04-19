@@ -182,6 +182,32 @@ Moonraker is the first Bond novel I can (with some hesitation for fear of soundi
 The writing feels more polished and engaging, the plot more compelling and less cartoonish, and Bond himself more interesting.
 The usual flair and exaggerated twists remain, preserving the classic Bond thriller style, but here they feel more restrained and, thus, effective.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320471617l/110890._SX98_.jpg"/></a>
+
+## *The Looming Tower*
+
+**Lawrence Wright** <br>
+Rating: 4.5 / 5
+
+I was in first grade on 9/11, making me one of the younger Americans to remember the attack.
+I recall understanding the broad strokes of what happened, but of course was unaware of the details of the complicated geopolitics.
+From there, I grew up with the various wars in the Middle East against a variety of Islamist groups, but never had a clear picture of what really happened.
+Further, the background on bin Laden, Al Qaeda, and the Taliban was always blurry, as was the controversy over how such an attack eluded the U.S. intelligence agencies.
+Over the years, I've heard miscellaneous statements about oil, "they hate our freedom," jihad, etc., from political pundits and commentators but had a very poor understanding of this ongoing, nebulous conflict.
+*Looming Towers* is the first comprehensive description of the rise of modern extreme Islamism leading up to 9/11 that I have ever received.
+The author did well to provide a narrative over the decades, across nations, turmoil in the Middle East, and various extremist factions and leaders.
+This book seems like a great place to start for an introduction to the battle between the West and modern extremist Islamism, providing a good foundation for further reading and education.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
+
+## *Title*
+
+**Author** <br>
+Rating: XX / 5
+
+TK 
+-->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
 
 ## *Title*
@@ -196,4 +222,4 @@ TK
 
 **Currently reading:**
 
-1. *The Looming Tower* by Lawrence Wright
+1. *The Art and Science of Fly Fishing* by Lenox Dick
