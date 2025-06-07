@@ -263,20 +263,20 @@ I found this in a used-book store a while back and it was a fun read in preparat
 **Robert Kurson** <br>
 Rating: 4.5 / 5
 
-*Rocket Men* was a thrilling recounting of the Apollo 8 mission to orbit the moon.
-Kurson wonderfully weaves many narratives and histories into a single exciting, page-turning story.
-The writing is very focussed and comes from secondary resources, as well as first-hand interviews with many of the astronauts and key mission control personnel.
-Another interesting facet of the story was the impact that such a risky expedition had on the families back on earth.
-Kurson expertly balances the tone between informative and thrilling.
+*Rocket Men* was a thrilling recounting of the Apollo 8 mission to orbit the moon. Kurson wonderfully weaves many narratives and histories into a single exciting, page-turning story. The writing is very focussed and comes from secondary resources, as well as first-hand interviews with many of the astronauts and key mission control personnel. Another interesting facet of the story was the impact that such a risky expedition had on the families back on earth. Kurson expertly balances the tone between informative and thrilling.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440633220l/3760._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440633220l/3760._SX98_.jpg"/></a>
 
 ## *Diamonds Are Forever*
 
 **Ian Fleming** <br>
 Rating: XX / 5
 
-TK -->
+I took this next novel in the original Bond series with me to the White Mountains for a weekend of backpacking and fishing (or at least waving a stick in the air).
+Over the bus rides and through some afternoon rain, I read this in just a few sittings.
+I'm not a literary expert, but in my opinion, this book demonstrated clear advancements in Fleming's style and prose.
+The description of settings and emotions were more subtle and interpretable.
+I enjoyed the plot and characters and am looking forward to the next.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
