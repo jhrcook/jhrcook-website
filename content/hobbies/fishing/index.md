@@ -11,8 +11,8 @@ I fish whenever I can find time in the mornings and evenings.
 
 [^1]: I would have started sooner if I had realized how inexpensive it was to get started. I haven't explicitly priced it out, but I think you could easily get going with good equipment for under $100.
 
-In 2024, I am taking up fly fishing.
-I'm keeping a journal of my ventures published to a separate site: [Fly Fishing Journal](https://jhrcook.github.io/fly-fishing-journal/)
+In 2024, I decided to take up fly fishing.
+Since then, I have predominately been targeting native brook trout in the White Mountains of New Hampshire, with mixed success.
 
 Given I live in Boston, I spend most of my time fishing the Esplanade along the Charles, sometimes riding my bike down to Jamaica Pond where the MA Department of Fish and Game stock trout a few times a year.
 A shorter trip I like to make every now and then is up to Concord, MA or Wompatuck State Park – I'll take my bike on the commuter rail and make a day out of trying different places that look "fishy."
