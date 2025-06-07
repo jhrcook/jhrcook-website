@@ -220,18 +220,62 @@ In addition, he uses these examples as evidence or data when they are just selec
 Again, I don't disagree with the author's recommendations, it's just that the argumentation is weak, silly, and often distracting.
 My last comment will be that, I understand writing a book on the importance of humility makes one an easy target for criticism, but Holiday does himself no favors by putting his face on his podcast artwork and most Youtube thumbnails and putting up videos of him reading and running – just feels like there are some simple ways to reduce his ego.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347811638l/6542897._SX98_.jpg"/></a>
 
-## *Title*
+## *The Wall Street Journal Guide to Information Graphics*
 
-**Author** <br>
+**Dona M. Wong** <br>
 Rating: XX / 5
 
-TK 
--->
+TK
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474479671l/31934105._SX98_.jpg"/></a>
+
+## *The Social Transformation of American Medicine*
+
+**Paul Starr** <br>
+Rating: XX / 5
+
+TK -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266608757l/4243744._SX98_.jpg"/></a>
+
+## *The Art and Science of Fly Fishing*
+
+**Lenox Dick** <br>
+Rating: XX / 5
+
+TK -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502143372l/35414997._SX98_.jpg"/></a>
+
+## *Rocket Men*
+
+**Robert Kurson** <br>
+Rating: XX / 5
+
+TK -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440633220l/3760._SX98_.jpg"/></a>
+
+## *Diamonds Are Forever*
+
+**Ian Fleming** <br>
+Rating: XX / 5
+
+TK -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+
+## *The Code Breaker*
+
+**Walter Isaacson** <br>
+Rating: XX / 5
+
+TK -->
 
 ---
 
 **Currently reading:**
 
-1. *The Art and Science of Fly Fishing* by Lenox Dick
+1. *Slouching Towards Bethlehem* by Joan Didion
