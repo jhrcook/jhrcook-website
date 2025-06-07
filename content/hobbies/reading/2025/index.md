@@ -270,22 +270,31 @@ Rating: 4.5 / 5
 ## *Diamonds Are Forever*
 
 **Ian Fleming** <br>
-Rating: XX / 5
+Rating: 3.75 / 5
 
-I took this next novel in the original Bond series with me to the White Mountains for a weekend of backpacking and fishing (or at least waving a stick in the air).
-Over the bus rides and through some afternoon rain, I read this in just a few sittings.
-I'm not a literary expert, but in my opinion, this book demonstrated clear advancements in Fleming's style and prose.
-The description of settings and emotions were more subtle and interpretable.
-I enjoyed the plot and characters and am looking forward to the next.
+I took this next novel in the original Bond series with me to the White Mountains for a weekend of backpacking and fishing (or at least waving a stick in the air). Over the bus rides and through some afternoon rain, I read this in just a few sittings. I'm not a literary expert, but in my opinion, this book demonstrated clear advancements in Fleming's style and prose. The description of settings and emotions were more subtle and interpretable. I enjoyed the plot and characters and am looking forward to the next.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
 ## *The Code Breaker*
 
 **Walter Isaacson** <br>
-Rating: XX / 5
+Rating: 3.5 / 5
 
-TK -->
+I had been wanting to read an Isaacson biography for awhile, so, as a biologist at a pharmaceutical company working on gene therapies, I figured the one on CRISPR would be a good place to start.
+This was an oddly organized book: it felt like Isaacson really wanted to tell Doudna's story, but most of the book is on CIRSPR more broadly.
+I think this was for the better.
+While undeniably intelligent and hard-working, it doesn't seem like Doudna is the quirky, eccentric genius that we love to read stories about.
+The feeling I came away with was that she had a pretty normal up-bringing, got into chemistry and biology, worked hard, and executed – a powerful story, but not an especially thrilling one.
+So after a mediocre beginning to the book, the recounting of the discovery and manipulation of CRISPR technology was very interesting.
+Isaacson did a tremendous job of interviewing the key players multiple times, posing difficult questions, and organizing everything into a cohesive storyline.
+While perhaps too much in some cases, I also appreciated when the author would insert his own point-of-view into the text, particularly when there were competing narratives from individuals and a historian's skill-set can help disambiguate between them.
+My main critique on the book would be the rather lack-luster final third or so of the book.
+Some of this section was a series of thought experiments on the potential uses of CRISPR; while perhaps interesting in small doses, there were too many and I was more interested in learning about CRISPR.
+The rest of the final third was about COVID-19.
+I think when this book was published in 2021, the author thought COVID would still be interesting, but in 2025, it isn't really.
+Furthermore, I don't think CRISPR has much of a role in testing, treating, etc. for COVID, so its inclusion felt forced and off-topic.
+Overall, I would recommend this for anyone who wants to learn more about the history of the CRISPR technologies, at any level of familiarity, but not necessarily as a book about Jennifer Doudna.
 
 ---
 
