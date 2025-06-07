@@ -256,14 +256,18 @@ Dick has a fun writing style, very conversational.
 The book reads like a small-group lecture, and parts of the book are written from the point of view of a trip with a friend.
 I found this in a used-book store a while back and it was a fun read in preparation of spring.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502143372l/35414997._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502143372l/35414997._SX98_.jpg"/></a>
 
 ## *Rocket Men*
 
 **Robert Kurson** <br>
-Rating: XX / 5
+Rating: 4.5 / 5
 
-TK -->
+*Rocket Men* was a thrilling recounting of the Apollo 8 mission to orbit the moon.
+Kurson wonderfully weaves many narratives and histories into a single exciting, page-turning story.
+The writing is very focussed and comes from secondary resources, as well as first-hand interviews with many of the astronauts and key mission control personnel.
+Another interesting facet of the story was the impact that such a risky expedition had on the families back on earth.
+Kurson expertly balances the tone between informative and thrilling.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440633220l/3760._SX98_.jpg"/></a>
 
