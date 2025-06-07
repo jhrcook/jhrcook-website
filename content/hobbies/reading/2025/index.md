@@ -243,16 +243,18 @@ It thoroughly documents the the U.S. medical system from the very founding to ju
 Going in, I was expecting more about the *practice* of medicine rather than a discussion on the *system* of medicine.
 It is difficult to give this a relatively low rating as I think my incorrect expectations are partially to blame in not enjoying this book, but it was just so dry at times.
 
-<!-- This book was clearly written for an academic audience. It thoroughly documents the the U.S. medical system from the very founding to just before modern day (the epilogue touches on some of the twenty-teens). Going in, I was expecting more about the *practice* of medicine rather than a discussion on the *system* of medicine. It is difficult to give this a relatively low rating as I think my incorrect expectations are partially to blame in not enjoying this book, but it was just so dry at times. -->
-
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266608757l/4243744._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266608757l/4243744._SX98_.jpg"/></a>
 
 ## *The Art and Science of Fly Fishing*
 
 **Lenox Dick** <br>
-Rating: XX / 5
+Rating: 4 / 5
 
-TK -->
+This was a simple, if outdated, overview of the fundamental techniques of fly fishing.
+While still a fun read, I think many of the techniques popular today were developed after its publication in the 70's.
+Dick has a fun writing style, very conversational.
+The book reads like a small-group lecture, and parts of the book are written from the point of view of a trip with a friend.
+I found this in a used-book store a while back and it was a fun read in preparation of spring.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502143372l/35414997._SX98_.jpg"/></a>
 
