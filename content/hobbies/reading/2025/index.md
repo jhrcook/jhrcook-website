@@ -225,9 +225,11 @@ My last comment will be that, I understand writing a book on the importance of h
 ## *The Wall Street Journal Guide to Information Graphics*
 
 **Dona M. Wong** <br>
-Rating: XX / 5
+Rating: 3.75 / 5
 
-TK
+Simple enough read and will serve as a useful reference.
+The guidelines and recommendations were predominately written for the visualization of financial data, but the underlying principles were broadly applicable.
+I would recommend starting with Tufte's classics, but this was a good addition.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474479671l/31934105._SX98_.jpg"/></a>
 
