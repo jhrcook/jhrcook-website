@@ -1,7 +1,7 @@
 ---
 title: "Watches"
 summary: "My admiration of brilliant engineering and eye-catching design."
-date: 2024-02-01
+date: 2024-08-15
 draft: false
 ---
 
@@ -17,32 +17,32 @@ Also at this time, my girlfriend bought me a [Casio A168W](https://www.casio.com
 Early in graduate school, I switched to an Apple Watch, namely for tracking my runs.
 I'm now on my second, and while they are great devices (I would have considered them magic at the time I was wearing my Expedition) I felt it was time to wear a proper watch.
 
-My first mechanical watch purchase was a [Seiko SRPE93](https://www.seikowatches.com/us-en/products/prospex/srpe93), a.k.a. the "Turtle."
+My first mechanical watch purchase was a [Seiko SRPE93](https://www.seikowatches.com/us-en/products/prospex/srpe93), a.k.a. the modern "Turtle."
 I remember learning about this watch on a podcast in undergrad and still loved this model's style and [history](https://wornandwound.com/deep-dive-the-evolution-of-the-seiko-turtle/) when I went searching for my second "first watch."
 And I'm happy to say that I still adore my Turtle and find it such a character-filled piece.
+Recently, I was able to acquire an original turtle, the Seiko 6309.
+I wear this watch all the time and love the natural patina that a well-used watch gains.
+
+Some other pieces I've acquired include a [Marathon 36 mm SSGPM](https://www.marathonwatch.com/collections/general-purpose-watches/products/officers-watch-gpm-39mm-case-crown-defstan) and a [Seiko Alpinist SPB121](https://seikousa.com/products/spb121).
+Both are great watches that I was able to find at good prices second-hand.
+
+I bought my dad a watch for Christmas, too.
+This was a fun project as I tried to find one that would match his personality.
+I finally decided to go with the [Hamilton Khaki Field King Auto](https://www.hamiltonwatch.com/en-us/h64455533-khaki-field-kingauto.html).
+It's a well made Swiss watch, from a historic American brand.
+The final cherry on top was this was the watch worn by Hugh Laurie in *House M.D.*
+
 I look forward to acquiring more pieces as I progress through life, carefully selecting pieces that uniquely appeal to me and for special events, achievements, and milestones.
 
 ***(Pictures to come!)***
 
 {{< gallery >}}
-<!-- <img src="gallery/GVIH4964.JPG" class="grid-w33" />
-<img src="gallery/IMG_0023.JPG" class="grid-w33" />
-<img src="gallery/IMG_0036.JPG" class="grid-w33" />
-<img src="gallery/IMG_0160.JPG" class="grid-w33" />
-<img src="gallery/IMG_1432.jpeg" class="grid-w33" />
-<img src="gallery/IMG_1560.jpeg" class="grid-w33" />
-<img src="gallery/IMG_3143.jpeg" class="grid-w33" />
-<img src="gallery/IMG_4490.jpeg" class="grid-w33" />
-<img src="gallery/IMG_5431.jpeg" class="grid-w33" />
-<img src="gallery/IMG_5767.jpeg" class="grid-w33" />
-<img src="gallery/IMG_6343.jpeg" class="grid-w33" />
-<img src="gallery/IMG_7153.jpeg" class="grid-w33" />
-<img src="gallery/IMG_8524.jpeg" class="grid-w33" />
-<img src="gallery/IMG_9409.JPG" class="grid-w33" /> -->
+<img src="gallery/IMG_1957.jpeg" class="grid-w30" />
+<img src="gallery/IMG_1992.jpeg" class="grid-w40" />
 {{< /gallery >}}
 
 ---
 
 As a footnote, I want to mention that, as this passion is more consumptive than productive, I am careful to spend too much time and money and, I more precisely think of this as an *interest* rather than a *hobby*.
 
-Header and thumbnail image credit to *Worn & Wound* in their Deep Dive on the Turtle model line (https://wornandwound.com/deep-dive-the-evolution-of-the-seiko-turtle/).
+Header and thumbnail image credit to *Worn & Wound* in their [Deep Dive on the Turtle](https://wornandwound.com/deep-dive-the-evolution-of-the-seiko-turtle/) model line.
