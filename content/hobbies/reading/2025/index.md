@@ -231,14 +231,19 @@ Simple enough read and will serve as a useful reference.
 The guidelines and recommendations were predominately written for the visualization of financial data, but the underlying principles were broadly applicable.
 I would recommend starting with Tufte's classics, but this was a good addition.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474479671l/31934105._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474479671l/31934105._SX98_.jpg"/></a>
 
 ## *The Social Transformation of American Medicine*
 
 **Paul Starr** <br>
-Rating: XX / 5
+Rating: 3.25 / 5
 
-TK -->
+This book was clearly written for an academic audience.
+It thoroughly documents the the U.S. medical system from the very founding to just before modern day (the epilogue touches on some of the twenty-teens).
+Going in, I was expecting more about the *practice* of medicine rather than a discussion on the *system* of medicine.
+It is difficult to give this a relatively low rating as I think my incorrect expectations are partially to blame in not enjoying this book, but it was just so dry at times.
+
+<!-- This book was clearly written for an academic audience. It thoroughly documents the the U.S. medical system from the very founding to just before modern day (the epilogue touches on some of the twenty-teens). Going in, I was expecting more about the *practice* of medicine rather than a discussion on the *system* of medicine. It is difficult to give this a relatively low rating as I think my incorrect expectations are partially to blame in not enjoying this book, but it was just so dry at times. -->
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266608757l/4243744._SX98_.jpg"/></a>
 
