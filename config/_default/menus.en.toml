@@ -40,17 +40,17 @@ url = "/resume.pdf"
 weight = 55
 
 
-[[main]]
-name = "Resources"
-parent = "Other"
-pageRef = "resources"
-weight = 70
+# [[main]]
+# name = "Resources"
+# parent = "Other"
+# pageRef = "resources"
+# weight = 70
 
-[[main]]
-name = "Product reviews"
-parent = "Other"
-pageRef = "product-reviews"
-weight = 75
+# [[main]]
+# name = "Product reviews"
+# parent = "Other"
+# pageRef = "product-reviews"
+# weight = 75
 
 # [[main]]
 # name = "About"
