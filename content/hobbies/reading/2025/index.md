@@ -296,8 +296,31 @@ I think when this book was published in 2021, the author thought COVID would sti
 Furthermore, I don't think CRISPR has much of a role in testing, treating, etc. for COVID, so its inclusion felt forced and off-topic.
 Overall, I would recommend this for anyone who wants to learn more about the history of the CRISPR technologies, at any level of familiarity, but not necessarily as a book about Jennifer Doudna.
 
+https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611927558i/.jpg
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611927558l/424._SX98_.jpg"/></a>
+
+## *Slouching Towards Bethlehem*
+
+**Joan Didion** <br>
+Rating: 3.0 / 5
+
+I had heard praise for Joan Dideon's work from a variety of people whose opinions I respect, so I was excited to find this old copy of *Slouching Towards Bethlehem* in a used bookstore in Redding, CA.
+Pretty early on into this collection of short stories, I realized it wasn't for me.
+The writing is phenomenal, but the topics were uninteresting.
+I completed the book, but was generally underwhelmed by the stories.
+I feel out of line giving such a low rating to a highly regarded author, but I just couldn't get into the essays and short stories.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+
+## *Title*
+
+**Author** <br>
+Rating: XX / 5
+
+TK -->
+
 ---
 
 **Currently reading:**
 
-1. *Slouching Towards Bethlehem* by Joan Didion
+1. *Dinosaur in a Haystack* by Stephen Jay Gould
