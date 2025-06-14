@@ -296,7 +296,6 @@ I think when this book was published in 2021, the author thought COVID would sti
 Furthermore, I don't think CRISPR has much of a role in testing, treating, etc. for COVID, so its inclusion felt forced and off-topic.
 Overall, I would recommend this for anyone who wants to learn more about the history of the CRISPR technologies, at any level of familiarity, but not necessarily as a book about Jennifer Doudna.
 
-https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611927558i/.jpg
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611927558l/424._SX98_.jpg"/></a>
 
 ## *Slouching Towards Bethlehem*
