@@ -32,13 +32,16 @@ I finally decided to go with the [Hamilton Khaki Field King Auto](https://www.ha
 It's a well made Swiss watch, from a historic American brand.
 The final cherry on top was this was the watch worn by Hugh Laurie in *House M.D.*
 
-I look forward to acquiring more pieces as I progress through life, carefully selecting pieces that uniquely appeal to me and for special events, achievements, and milestones.
-
-***(Pictures to come!)***
+Recently, I was promoted to a Senior Scientist at work, so I gave myself a budget for a celebratory watch.
+I was patient and eventually found a great price for a [Tudor Black Bay 58 in blue](https://www.tudorwatch.com/en/watches/black-bay-58/m79030b-0001) (affectionately nicknamed "Bluey").
+It's a beautiful modern take on a classic style of diver – the name "58" refers to styling cues from the diver Tudor was producing in 1958.
+The high quality is immediately evident, and I love its ability to easily dress up and down.
+The watch also came with the Oyster-style bracelet from the current [Ranger](https://www.tudorwatch.com/en/watches/ranger/m79950-0001) model which lacks the faux-rivets and includes tool-less micro-adjust in the clasp, allowing me to easily refine the size of the bracelet as my wrist slightly changes throughout the day.
 
 {{< gallery >}}
-<img src="gallery/IMG_1957.jpeg" class="grid-w30" />
-<img src="gallery/IMG_1992.jpeg" class="grid-w40" />
+<img src="gallery/IMG_1957.jpeg" class="grid-w60" alt="Seiko SRPE93 (modern Turtle) on a fishing trip in the White Mountains." />
+<img src="gallery/IMG_1992.jpeg" class="grid-w40" alt="Seiko 6309 (original Turtle)." />
+<img src="gallery/IMG_2006.jpeg" class="grid-w40" alt="Tudor Black Bay 58 Blue."/>
 {{< /gallery >}}
 
 ---
