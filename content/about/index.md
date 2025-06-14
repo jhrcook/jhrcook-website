@@ -25,8 +25,8 @@ Welcome to my personal website! 👋
 
 ## Introduction
 
-My name is Joshua Cook and I am Computational Genomics Research Scientist at [Vertex Pharmaceuticals](https://www.vrtx.com) in Boston, Massachusetts, USA.
-This page is meant as a brief introduction to my background.
+My name is Joshua Cook and I am Senior Research Scientist of Computational Genomics at [Vertex Pharmaceuticals](https://www.vrtx.com) in Boston, Massachusetts, USA.
+This page is meant as a brief introduction.
 If you have further questions or want to get in touch, please use the links on the homepage to contact me!
 
 ## Education
@@ -55,7 +55,7 @@ I earned my Ph.D. through the research I performed in the labs of <a href="https
 
 {{< timeline >}}
 
-{{< timelineItem icon="email" header="Vertex Pharmaceuticals" subheader="Computational Genomics Research Scientist" >}}
+{{< timelineItem icon="email" header="Vertex Pharmaceuticals" subheader="Computational Genomics Senior Research Scientist" >}}
 
 2023 - Current <br>
 
