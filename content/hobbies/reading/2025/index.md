@@ -309,7 +309,6 @@ The writing is phenomenal, but the topics were uninteresting.
 I completed the book, but was generally underwhelmed by the stories.
 I feel out of line giving such a low rating to a highly regarded author, but I just couldn't get into the essays and short stories.
 
-https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books//.jpg
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442830952l/25776132._SX98_.jpg"/></a>
 
 ## *The Brain*
