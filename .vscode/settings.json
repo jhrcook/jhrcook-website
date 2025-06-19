@@ -27,5 +27,6 @@
         "backcountry",
         "mypy",
         "Tesseract"
-    ]
+    ],
+    "nextflow.telemetry.enabled": false
 }
