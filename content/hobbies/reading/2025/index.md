@@ -309,6 +309,18 @@ The writing is phenomenal, but the topics were uninteresting.
 I completed the book, but was generally underwhelmed by the stories.
 I feel out of line giving such a low rating to a highly regarded author, but I just couldn't get into the essays and short stories.
 
+https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books//.jpg
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442830952l/25776132._SX98_.jpg"/></a>
+
+## *The Brain*
+
+**David Eagleman** <br>
+Rating: 3.75 / 5
+
+Simply, this book was a good introduction into the primary structure and function of the brain.
+The author describes in clear, jargon-free prose the phenomena of the brain, how it interfaces with senses, how it creates a sense of mind, its incredible plasticity and adaptability, etc.
+This book was written to be readily understood by anyone and was a quick, yet enjoyable, weekend read.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
 ## *Title*
@@ -322,4 +334,5 @@ TK -->
 
 **Currently reading:**
 
-1. *Dinosaur in a Haystack* by Stephen Jay Gould
+1. *Michelangelo and the Pope's Ceiling* by Ross King
+2. *Dinosaur in a Haystack* by Stephen Jay Gould
