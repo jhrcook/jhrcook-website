@@ -320,6 +320,18 @@ Simply, this book was a good introduction into the primary structure and functio
 The author describes in clear, jargon-free prose the phenomena of the brain, how it interfaces with senses, how it creates a sense of mind, its incredible plasticity and adaptability, etc.
 This book was written to be readily understood by anyone and was a quick, yet enjoyable, weekend read.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700961214l/737957._SX98_.jpg"/></a>
+
+## *Michelangelo and the Pope's Ceiling*
+
+**Ross King** <br>
+Rating: 4.5 / 5
+
+This was another delightful art history narrative by Ross King, this time about Michelangel's creation of the fresco adorning the ceiling of the Sistine Chapel.
+As in his previous works, King melds a description of the artwork with the contemporary social and political context.
+Descriptions of Michelangelo's background, his fresco technique, and intentions in the design of the Sistine's ceiling, were augmented by the impacts of Pope Julius II's fiascos and conquests, the competition with up-and-comer Rafael, and broader restructuring throughout Italy.
+I would highly recommend this book to anyone soon to visit Rome and the Vatican – I wish I had read this before my trip last year.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
 ## *Title*
@@ -333,5 +345,4 @@ TK -->
 
 **Currently reading:**
 
-1. *Michelangelo and the Pope's Ceiling* by Ross King
-2. *Dinosaur in a Haystack* by Stephen Jay Gould
+1. *Dinosaur in a Haystack* by Stephen Jay Gould
