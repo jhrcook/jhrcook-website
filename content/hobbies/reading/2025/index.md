@@ -152,7 +152,7 @@ It’s a short read — I finished it in a few days while splitting time with an
 
 ## *Eight Little Piggies*
 
-**Stephen J. Gould** <br>
+**Stephen Jay Gould** <br>
 Rating: 4.5 / 5
 
 Another solid collection of essays on natural history by a great writer and thinker of the modern era.
@@ -341,14 +341,18 @@ Rating: 3.5 / 5
 
 Another fun, borderline absurd, Bond novel.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+<br>
+
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390628825l/57336._SX98_.jpg"/></a>
 
 ## *Dinosaur in a Haystack*
 
-**Author** <br>
-Rating: XX / 5
+**Stephen Jay Gould** <br>
+Rating: 4.25 / 5
 
-TK -->
+Solid collection of essays from Gould.
+Not much to say specifically about the contents of the book, but I will note that I finish each essay in a more curious, thoughtful mindset.
+A terrific way to start the day.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
