@@ -332,6 +332,33 @@ As in his previous works, King melds a description of the artwork with the conte
 Descriptions of Michelangelo's background, his fresco technique, and intentions in the design of the Sistine's ceiling, were augmented by the impacts of Pope Julius II's fiascos and conquests, the competition with up-and-comer Rafael, and broader restructuring throughout Italy.
 I would highly recommend this book to anyone soon to visit Rome and the Vatican – I wish I had read this before my trip last year.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428348040l/3757._SX98_.jpg"/></a>
+
+## *Doctor No*
+
+**Ian Fleming** <br>
+Rating: 3.5 / 5
+
+Another fun, borderline absurd, Bond novel.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+
+## *Dinosaur in a Haystack*
+
+**Author** <br>
+Rating: XX / 5
+
+TK -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+
+## *Goldfinger*
+
+**Ian Fleming** <br>
+Rating: XX / 5
+
+TK -->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
 ## *Title*
@@ -345,4 +372,4 @@ TK -->
 
 **Currently reading:**
 
-1. *Dinosaur in a Haystack* by Stephen Jay Gould
+1. *The Sleepwalkers* by Christopher Clark
