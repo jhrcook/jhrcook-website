@@ -354,14 +354,15 @@ Solid collection of essays from Gould.
 Not much to say specifically about the contents of the book, but I will note that I finish each essay in a more curious, thoughtful mindset.
 A terrific way to start the day.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433975399l/3759._SX98_.jpg"/></a>
 
 ## *Goldfinger*
 
 **Ian Fleming** <br>
-Rating: XX / 5
+Rating: 3.0 / 5
 
-TK -->
+As I continue through the Bond series, this was a new height of absurdity.
+Having now read the original, it is surprising how little Austin Powers strayed from the text.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
