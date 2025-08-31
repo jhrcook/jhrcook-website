@@ -7,10 +7,10 @@ lastmod: 2025-02-01
 
 <!-- My favorite books of the year (links to the respective review below):
 
-1. [*The Wide Wide Sea*](#the-wide-wide-sea)
-2. [*Slow Productivity*](#slow-productivity)
-3. [*The Bookseller of Florence*](#the-bookseller-of-florence)
-4. [*Draft No. 4*](#draft-no-4) -->
+1. [*The Looming Tower*](#the-looming-tower)
+2. [*Undaunted Courage*](#undaunted-courage)
+3. [*Rocket Men*](#rocket-men)
+4. [*Michelangelo and the Pope’s Ceiling*](#michelangelo-and-the-popes-ceiling) -->
 
 ---
 
@@ -210,7 +210,7 @@ It wasn't horrible, I think the teachings are generally good, but it could have 
 In essence: "Ego is the enemy. For everything you do, ask is this for my ego or for my purpose?"
 My two major gripes don't change much from before.
 First, the writing is surprisingly poor.
-As with the first book, *The Obstacle Is the Way*, it comes off as a high schooler's attempt to write inspirational prose.
+As with the first book, *The Obstacle Is the Way*, it comes off as a high-schooler's attempt to write inspirational prose.
 It is incredibly repetitive and excessively emotive.
 My second issue with this series is that Holiday uses a lot of examples as evidence, but I don't get the sense that he performs thorough research to support his claim.
 Generally, Holiday will describe a famous person's accomplishment and claim it was because he or she avoided succumbing to his or her ego (or the inverse where the antagonist falls to ego), but he doesn't link the two, he just declares the cause was related to ego.
@@ -263,7 +263,11 @@ I found this in a used-book store a while back and it was a fun read in preparat
 **Robert Kurson** <br>
 Rating: 4.5 / 5
 
-*Rocket Men* was a thrilling recounting of the Apollo 8 mission to orbit the moon. Kurson wonderfully weaves many narratives and histories into a single exciting, page-turning story. The writing is very focussed and comes from secondary resources, as well as first-hand interviews with many of the astronauts and key mission control personnel. Another interesting facet of the story was the impact that such a risky expedition had on the families back on earth. Kurson expertly balances the tone between informative and thrilling.
+*Rocket Men* was a thrilling recounting of the Apollo 8 mission to orbit the moon.
+Kurson wonderfully weaves many narratives and histories into a single exciting, page-turning story.
+The writing is very focussed and comes from secondary resources, as well as first-hand interviews with many of the astronauts and key mission control personnel.
+Another interesting facet of the story was the impact that such a risky expedition had on the families back on earth.
+Kurson expertly balances the tone between informative and thrilling.
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440633220l/3760._SX98_.jpg"/></a>
 
@@ -327,7 +331,7 @@ This book was written to be readily understood by anyone and was a quick, yet en
 **Ross King** <br>
 Rating: 4.5 / 5
 
-This was another delightful art history narrative by Ross King, this time about Michelangel's creation of the fresco adorning the ceiling of the Sistine Chapel.
+This was another delightful art history narrative by Ross King, this time about Michelangelo's creation of the fresco adorning the ceiling of the Sistine Chapel.
 As in his previous works, King melds a description of the artwork with the contemporary social and political context.
 Descriptions of Michelangelo's background, his fresco technique, and intentions in the design of the Sistine's ceiling, were augmented by the impacts of Pope Julius II's fiascos and conquests, the competition with up-and-comer Rafael, and broader restructuring throughout Italy.
 I would highly recommend this book to anyone soon to visit Rome and the Vatican – I wish I had read this before my trip last year.
@@ -359,7 +363,7 @@ A terrific way to start the day.
 ## *Goldfinger*
 
 **Ian Fleming** <br>
-Rating: 3.0 / 5
+Rating: 3.25 / 5
 
 As I continue through the Bond series, this was a new height of absurdity.
 Having now read the original, it is surprising how little Austin Powers strayed from the text.
