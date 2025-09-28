@@ -382,16 +382,19 @@ I was surprised and, at times, overwhelmed by the detail and complexity of Clark
 I failed to grasp many of these details, but I gained a better understanding and appreciation of the cause of WWI by patiently working my way through this book.
 While feeling fairly academic at times, I would easily recommend this book to anyone who finds themselves in a similar situation as myself and wants somewhere to start (though I hope you get to go on your trip).
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435945198l/314263._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435945198l/314263._SX98_.jpg"/></a>
 
 ## *For Your Eyes Only*
 
 **Ian Fleming** <br>
-Rating: XX / 5
+Rating: 3.75 / 5
 
-TK
+A departure from the rest of the novels in the original Bond series, *For Your Eyes Only* is a collection of short stories featuring the famed secret agent.
+I would have preferred to know this before starting because by the third story I was very curious to know how these disparate story lines were to connect and culminate together.
+I needed an easy read amongst all the travel, job changes, moving and this fit the bill.
+A bit more serious than most of the previous novels - especially *Goldfinger* - it felt like Fleming was experimenting with different types of story lines and adventure themes.
 
-<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484187099l/30688756._SX98_.jpg"/></a>
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484187099l/30688756._SX98_.jpg"/></a>
 
 ## *Smarter Faster Better*
 
