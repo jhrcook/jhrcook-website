@@ -421,4 +421,5 @@ TK -->
 
 **Currently reading:**
 
-1. *The Sleepwalkers* by Christopher Clark
+1. *The German Genius* by Peter Watson
+2. *The Mysterious Case of Rudolf Diesel* by Douglas Brunt
