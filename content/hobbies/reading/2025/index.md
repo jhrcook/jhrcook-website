@@ -394,14 +394,19 @@ I would have preferred to know this before starting because by the third story I
 I needed an easy read amongst all the travel, job changes, moving and this fit the bill.
 A bit more serious than most of the previous novels - especially *Goldfinger* - it felt like Fleming was experimenting with different types of story lines and adventure themes.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484187099l/30688756._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484187099l/30688756._SX98_.jpg"/></a>
 
 ## *Smarter Faster Better*
 
 **Charles Duhigg** <br>
-Rating: XX / 5
+Rating: 3.5 / 5
 
-TK -->
+On the tidal wave that was *The Power of Habit*, Duhigg has produced another digestible and anecdote-organized guide to productivity.
+This time, instead of how to build better habits, *Smarter Faster Better* is specifically how to organize and orient oneself and teams to consistently produce above-average results.
+Similar as before, I found the book long-winded at times, yet informative.
+There were nuggets of wisdom mixed in with the pages of narrative.
+And as before, I eventually got tired of the anecdotes as I went through the book and began to skim more freely.
+Definitely worth reading and taking some notes, but perhaps should have been shorter.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
