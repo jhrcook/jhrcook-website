@@ -368,6 +368,38 @@ Rating: 3.25 / 5
 As I continue through the Bond series, this was a new height of absurdity.
 Having now read the original, it is surprising how little Austin Powers strayed from the text.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614968763l/18085401._SX98_.jpg"/></a>
+
+## *The Sleepwalkers*
+
+**Christopher Clark** <br>
+Rating: 4.0 / 5
+
+In *The Sleepwalkers*, Clark provides a detailed account of the lead-up to World War I from the perspective of every major player in the eventual conflict.
+He begins by describing the diplomatic connections between all of the involved countries decades before the conflict, eventually showing how these political relationships between the countries, cultures, and heads of state resulted in a such a fiasco.
+I turned to this book as preparation for a trip to Germany (that I was unable to take) because I realized my understanding of WWI was woeful.
+I was surprised and, at times, overwhelmed by the detail and complexity of Clark's narrative, particularly, the first third or half of the book focussed on the politicians and diplomats of the Baltic states.
+I failed to grasp many of these details, but I gained a better understanding and appreciation of the cause of WWI by patiently working my way through this book.
+While feeling fairly academic at times, I would easily recommend this book to anyone who finds themselves in a similar situation as myself and wants somewhere to start (though I hope you get to go on your trip).
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435945198l/314263._SX98_.jpg"/></a>
+
+## *For Your Eyes Only*
+
+**Ian Fleming** <br>
+Rating: XX / 5
+
+TK
+
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484187099l/30688756._SX98_.jpg"/></a>
+
+## *Smarter Faster Better*
+
+**Charles Duhigg** <br>
+Rating: XX / 5
+
+TK -->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
 ## *Title*
