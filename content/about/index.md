@@ -25,7 +25,7 @@ Welcome to my personal website! 👋
 
 ## Introduction
 
-My name is Joshua Cook and I am Senior Research Scientist of Computational Genomics at [Vertex Pharmaceuticals](https://www.vrtx.com) in Boston, Massachusetts, USA.
+My name is Joshua Cook and I am Senior Bioinformatics Engineer at [Illumina](https://www.illumina.com) in San Diego, California, USA.
 This page is meant as a brief introduction.
 If you have further questions or want to get in touch, please use the links on the homepage to contact me!
 
@@ -57,9 +57,17 @@ I earned my Ph.D. through the research I performed in the labs of <a href="https
 
 {{< timelineItem icon="email" header="Vertex Pharmaceuticals" subheader="Computational Genomics Senior Research Scientist" >}}
 
-2023 - Current <br>
+2022 - 2025 <br>
 
-I provide computational and analytic support to multiple gene editing therapy programs including <a href="https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy">Duchenne muscular dystrophy</a>, <a href="https://en.wikipedia.org/wiki/Sickle_cell_disease">sickle cell disease</a>, and <a href="https://en.wikipedia.org/wiki/Type_1_diabetes">type 1 diabetes</a>. I collaborate with wet-lab scientists to design and execute experiments as well as on-board new technologies such as <a href="https://doi.org/10.1038/s41587-020-0739-1">Slide-seqV2</a> and <a href="https://www.10xgenomics.com/products/visium-hd-spatial-gene-expression">Visium HD</a> spatial transcriptomics.
+I provide computational and analytic support to multiple gene editing therapy programs including <a href="https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy">Duchenne muscular dystrophy</a>, <a href="https://en.wikipedia.org/wiki/Sickle_cell_disease">sickle cell disease</a>, and <a href="https://en.wikipedia.org/wiki/Type_1_diabetes">type 1 diabetes</a>. I collaborate with wet-lab scientists to design and execute experiments as well as on-board new technologies such as <a href="https://doi.org/10.1038/s41587-020-0739-1">Slide-seqV2</a> and <a href="https://www.10xgenomics.com/products/visium-hd-spatial-gene-expression">Visium HD</a> spatial transcriptomics. I also develop pipelines and workflows for data analysis including for the interpretation of small variants discovered in whole genome sequencing.
+
+{{< /timelineItem >}}
+
+{{< timelineItem icon="email" header="Illumina" subheader="Senior Software Engineer" >}}
+
+2025 - Current <br>
+
+I support internal teams and external clients in their use and development of Illumina's data analysis software.
 
 {{< /timelineItem >}}
 
