@@ -3,7 +3,6 @@ title: "Fishing"
 summary: "Such a great excuse to be outside and interact with nature."
 draft: false
 date: 2024-09-01
-featuredImage: /gila-trout.jpeg
 ---
 
 ## Getting started
