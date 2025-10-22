@@ -434,14 +434,19 @@ Brunt did a wonderful job of weaving the tale of discovery, a changing world, an
 His inclusion of the cultural and technological shifts in Europe were essential for understanding the progress of the Diesel engine and the potential explanations for the disappearance of Mr. Diesel.
 This was simultaneously an informative and entertaining book, well researched and written.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347282470l/8155672._SX98_.jpg"/></a>
 
 ## *The German Genius*
 
 **Peter Watson** <br>
-Rating: XX / 5
+Rating: 3.75 / 5
 
-TK -->
+Admittedly, I did not know how thick and academic this book was before I purchased it.
+It ended up being quite the undertaking as a layman.
+This book covers the last couple centuries of notable German artists, authors, musicians, philosophers, scientists, and more.
+Each players is expertly placed in historical context with an explanation of how he or she furthered the cultural changes that are noticeable in hindsight.
+Personally, I was most interested in the scientists and philosophers, but the parts about the other "geniuses" provided insight into the German culture and progress of the time period.
+I originally began this book as preparation for a trip I was planning to Germany in October of 2025 that I ended up not being able to take, still *The German Genius* was a great guide for understanding German history outside of just WWII.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
