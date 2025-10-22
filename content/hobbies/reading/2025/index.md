@@ -423,14 +423,16 @@ Instead, the rigor was more relaxed and focused on the story and human elements 
 I skipped through some of the stories on topics that didn't interest me (primarily non-animal focussed) and thoroughly enjoyed others.
 Overall, I enjoyed reading an essay to start and finish the day.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676326912l/101160707._SX98_.jpg"/></a>
 
 ## *The Mysterious Case of Rudolf Diesel*
 
 **Douglas Brunt** <br>
-Rating: XX / 5
+Rating: 4 / 5
 
-TK -->
+Brunt did a wonderful job of weaving the tale of discovery, a changing world, and mystery into one.
+His inclusion of the cultural and technological shifts in Europe were essential for understanding the progress of the Diesel engine and the potential explanations for the disappearance of Mr. Diesel.
+This was simultaneously an informative and entertaining book, well researched and written.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
