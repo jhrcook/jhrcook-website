@@ -408,6 +408,39 @@ There were nuggets of wisdom mixed in with the pages of narrative.
 And as before, I eventually got tired of the anecdotes as I went through the book and began to skim more freely.
 Definitely worth reading and taking some notes, but perhaps should have been shorter.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348494356l/150469._SX98_.jpg"/></a>
+
+## *The Flight of the Iguana*
+
+**David Quammen** <br>
+Rating: 3.75 / 5
+
+I happily stumbled on this one in the $1 bookshelf outside Commonwealth Books near Boston Commons shortly before leaving Boston.
+Having enjoyed the *Song of the Dodo*, this was a no-brainer.
+Like any other collection of short stories and essays, there were ups and downs.
+I was expecting a style more akin to Stephen Jay Gould, though I realize that is a tremendously high bar.
+Instead, the rigor was more relaxed and focused on the story and human elements than the detailed biology.
+I skipped through some of the stories on topics that didn't interest me (primarily non-animal focussed) and thoroughly enjoyed others.
+Overall, I enjoyed reading an essay to start and finish the day.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+
+## *The Mysterious Case of Rudolf Diesel*
+
+**Douglas Brunt** <br>
+Rating: XX / 5
+
+TK -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+
+## *The German Genius*
+
+**Peter Watson** <br>
+Rating: XX / 5
+
+TK -->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
 ## *Title*
