@@ -455,25 +455,34 @@ I originally began this book as preparation for a trip I was planning to Germany
 **Miguel de Cervantes** (translated by Edith Grossman) <br>
 Rating: 3.75 / 5
 
-Admittedly, I read this because I received it as a gift and feel it right to only retain a book in my library if I read it. By today's standards, *Don Quixote* is long-winded and dry, but as a historic book, it is interesting to see the origins of modern fictional literature. Upon finishing the pair of volumes and reflecting on the main themes, I did find richer insights weaved into the narrative. These 1,000 pages were an endurance test and not the most enjoyable novel to read in the present day, but I have a bit of pride from getting through it and feel that reading these classics is inherently enriching and valuable.
+Admittedly, I read this because I received it as a gift and feel it right to only retain a book in my library if I read it.
+By today's standards, *Don Quixote* is long-winded and dry, but as a historic book, it is interesting to see the origins of modern fictional literature.
+Upon finishing the pair of volumes and reflecting on the main themes, I did find richer insights weaved into the narrative.
+These 1,000 pages were an endurance test and not the most enjoyable novel to read in the present day, but I have a bit of pride from getting through it and feel that reading these classics is inherently enriching and valuable.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166028017l/9530._SX98_.jpg"/></a>
 
-## *Title*
+## *Shadow Divers*
 
-**Author** <br>
-Rating: XX / 5
+**Robert Kurson** <br>
+Rating: 4.75 / 5
 
-TK -->
+This was an absolute thriller!
+While completely true (and incredibly well researched, particularly with first-hand references), *Shadow Divers* reads like a phenomenal fiction novel.
+Along with maintaining suspense and the raw sense of adventure, the book is also informative about a variety of topics from history to deep-sea diving.
+This is a tremendous book that is easy to recommend.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431840214l/177194._SX98_.jpg"/></a>
 
-## *Title*
+## *Thunderball*
 
-**Author** <br>
-Rating: XX / 5
+**Ian Fleming** <br>
+Rating: 4.0 / 5
 
-TK -->
+exactly as expected from a James Bond novel
+prose has improved over the series
+fun new types of fighting
+exciting but not necessarily suspenseful, very quick -->
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
