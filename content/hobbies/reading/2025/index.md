@@ -444,9 +444,36 @@ Rating: 3.75 / 5
 Admittedly, I did not know how thick and academic this book was before I purchased it.
 It ended up being quite the undertaking as a layman.
 This book covers the last couple centuries of notable German artists, authors, musicians, philosophers, scientists, and more.
-Each players is expertly placed in historical context with an explanation of how he or she furthered the cultural changes that are noticeable in hindsight.
+Each player is expertly placed in historical context with an explanation of how he or she furthered the cultural changes that are noticeable in hindsight.
 Personally, I was most interested in the scientists and philosophers, but the parts about the other "geniuses" provided insight into the German culture and progress of the time period.
 I originally began this book as preparation for a trip I was planning to Germany in October of 2025 that I ended up not being able to take, still *The German Genius* was a great guide for understanding German history outside of just WWII.
+
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694837711l/198878500._SX98_.jpg"/></a>
+
+## *Don Quixote*
+
+**Miguel de Cervantes** (translated by Edith Grossman) <br>
+Rating: 3.75 / 5
+
+Admittedly, I read this because I received it as a gift and feel it right to only retain a book in my library if I read it. By today's standards, *Don Quixote* is long-winded and dry, but as a historic book, it is interesting to see the origins of modern fictional literature. Upon finishing the pair of volumes and reflecting on the main themes, I did find richer insights weaved into the narrative. These 1,000 pages were an endurance test and not the most enjoyable novel to read in the present day, but I have a bit of pride from getting through it and feel that reading these classics is inherently enriching and valuable.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+
+## *Title*
+
+**Author** <br>
+Rating: XX / 5
+
+TK -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
+
+## *Title*
+
+**Author** <br>
+Rating: XX / 5
+
+TK -->
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
@@ -461,5 +488,4 @@ TK -->
 
 **Currently reading:**
 
-1. *The German Genius* by Peter Watson
-2. *The Mysterious Case of Rudolf Diesel* by Douglas Brunt
+1. *Full House* by Stephen Jay Gould
