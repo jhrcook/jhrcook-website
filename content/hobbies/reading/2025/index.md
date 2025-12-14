@@ -472,17 +472,17 @@ While completely true (and incredibly well researched, particularly with first-h
 Along with maintaining suspense and the raw sense of adventure, the book is also informative about a variety of topics from history to deep-sea diving.
 This is a tremendous book that is easy to recommend.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431840214l/177194._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431840214l/177194._SX98_.jpg"/></a>
 
 ## *Thunderball*
 
 **Ian Fleming** <br>
 Rating: 4.0 / 5
 
-exactly as expected from a James Bond novel
-prose has improved over the series
-fun new types of fighting
-exciting but not necessarily suspenseful, very quick -->
+Another fun novel in the original *James Bond* series.
+*Thunderball* is precisely as expected and desired – quick, fun, thrilling, adventurous, etc. – but also with some new forms of fighting and the introduction of a new enemy.
+One note though, is that this installment, in my opinion, is generally less suspenseful and quicker than others in the series.
+Simultaneously, it has been interesting to see Fleming's prose and storytelling improving as the series progresses.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
