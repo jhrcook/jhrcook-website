@@ -484,6 +484,21 @@ Another fun novel in the original *James Bond* series.
 One note though, is that this installment, in my opinion, is generally less suspenseful and quicker than others in the series.
 Simultaneously, it has been interesting to see Fleming's prose and storytelling improving as the series progresses.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197689l/33928._SX98_.jpg"/></a>
+
+## *Full House*
+
+**Stephen Jay Gould** <br>
+Rating: 3.75 / 5
+
+Another solid offering from Gould, though perhaps a bit long-winded and off-topic at times.
+*Full House* is full of insight and the primary theme – that we should consider full distributions of events instead of only summary or arbitrary statistics (*e.g.*, mean, frequency above some threshold) – is critical to understanding statistics and probability.
+From my experience, many knowledgeable and intelligent individuals with many years of experience lack this critical skill.
+Thankfully, my work in Bayesian statistics in graduate school made me first aware of this phenomenon and taught me these lessons, but Gould always adds value by clarifying the abstract so well.
+My only critique of this book would be that there is some fat to trim.
+Normally, some additional flavor can be interesting, but in this case, it felt repetitive and, at times, distracting.
+*Full House* is definitely worth reading for any aspiring scientist, but don't be afraid to skim a little here or there.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
 ## *Title*
@@ -497,4 +512,4 @@ TK -->
 
 **Currently reading:**
 
-1. *Full House* by Stephen Jay Gould
+1. *The Spy Who Loved Me* by Ian Fleming
