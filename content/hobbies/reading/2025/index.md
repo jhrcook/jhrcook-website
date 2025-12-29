@@ -499,6 +499,22 @@ My only critique of this book would be that there is some fat to trim.
 Normally, some additional flavor can be interesting, but in this case, it felt repetitive and, at times, distracting.
 *Full House* is definitely worth reading for any aspiring scientist, but don't be afraid to skim a little here or there.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287905911l/18455._SX98_.jpg"/></a>
+
+## *The Spy Who Loved Me*
+
+**Ian Fleming** <br>
+Rating: 3.0 / 5
+
+Not my favorite Bond novel.
+The story is written from the perspective of the female protagonist, Vivienne, and, for starters, there is a lot of backstory on her with Bond only showing up for the last quarter of the book.
+From there the story is more exciting, but otherwise it is a bit dull and perhaps off-topic (as I thought I was reading a novel featuring the spy James Bond).
+A lot of the complaints about this installment in the Bond series are about Fleming's misogyny, though I would claim it is more complicated than that.
+I think one could argue that he was commenting on the various ways women can be decieved or abused by men.
+Some were crummy, others in positions of power, and Bond as a savior.
+While Fleming doesn't explicitly write about how awful all of these men were, I think readers come away feeling sympathetic for Vivienne.
+That aside, my low rating comes from the disappointment in the minimal amount of international spying by the international spy, James Bond, in a novel with his name on it.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
 
 ## *Title*
@@ -512,4 +528,4 @@ TK -->
 
 **Currently reading:**
 
-1. *The Spy Who Loved Me* by Ian Fleming
+1. *Hitler's Pope* by John Cornwell
