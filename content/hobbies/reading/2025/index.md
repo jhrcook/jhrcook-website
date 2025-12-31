@@ -5,12 +5,13 @@ date: 2025-01-01
 lastmod: 2025-02-01
 ---
 
-<!-- My favorite books of the year (links to the respective review below):
+My favorites of the 37 books I read this year (links to the respective review below):
 
-1. [*The Looming Tower*](#the-looming-tower)
-2. [*Undaunted Courage*](#undaunted-courage)
+1. [*Undaunted Courage*](#undaunted-courage)
+2. [*Shadow Divers*](#shadow-divers)
 3. [*Rocket Men*](#rocket-men)
-4. [*Michelangelo and the Pope’s Ceiling*](#michelangelo-and-the-popes-ceiling) -->
+4. [*Operation Mincemeat*](#operation-mincemeat1)
+5. [*Michelangelo and the Pope’s Ceiling*](#michelangelo-and-the-popes-ceiling)
 
 ---
 
