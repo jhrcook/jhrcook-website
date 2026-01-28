@@ -2,7 +2,7 @@
 title: "2025 Book Reviews"
 summary: "Reviews of the books I read in 2025."
 date: 2025-01-01
-lastmod: 2025-02-01
+lastmod: 2025-12-31
 ---
 
 My favorites of the 37 books I read this year (links to the respective review below):
@@ -515,18 +515,3 @@ I think one could argue that he was commenting on the various ways women can be 
 Some were crummy, others in positions of power, and Bond as a savior.
 While Fleming doesn't explicitly write about how awful all of these men were, I think readers come away feeling sympathetic for Vivienne.
 That aside, my low rating comes from the disappointment in the minimal amount of international spying by the international spy, James Bond, in a novel with his name on it.
-
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610894755l/54968118._SX98_.jpg"/></a>
-
-## *Title*
-
-**Author** <br>
-Rating: XX / 5
-
-TK -->
-
----
-
-**Currently reading:**
-
-1. *Hitler's Pope* by John Cornwell
