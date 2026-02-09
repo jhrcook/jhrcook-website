@@ -5,7 +5,7 @@ summary: "My experience taking on the Western Native Trout Challenge to explore 
 tags: ["fishing"]
 categories: ["Hobbies"]
 date: 2025-09-20T07:00:00-00:00
-draft: true
+draft: false
 ---
 
 ## Background
