@@ -1,6 +1,6 @@
 ---
 title: "Watches"
-summary: "My admiration of brilliant engineering and eye-catching design."
+summary: "My admiration of history, brilliant engineering, and eye-catching design."
 date: 2024-08-15
 draft: false
 ---
@@ -91,7 +91,3 @@ If nothing else, it is a delightful piece of American history.
 <img src="gallery/Hamilton Endicott_1.jpeg" class="grid-w50" alt="Tudor Black Bay 58 Blue on the streets of the South End in Boston, MA."/>
 <img src="gallery/Hamilton Endicott_2.jpeg" class="grid-w50" alt="The Black Bay 58 Blue on a hike overlooking Lake Tahoe from a snow-capped mountain."/>
 {{< /gallery >}}
-
----
-
-Header and thumbnail image credit to *Worn & Wound* in their [Deep Dive on the Turtle](https://wornandwound.com/deep-dive-the-evolution-of-the-seiko-turtle/) model line.
