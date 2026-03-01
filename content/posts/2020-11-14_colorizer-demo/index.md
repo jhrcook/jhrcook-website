@@ -45,7 +45,7 @@ I put this key into a file called `secrets.py` and immediately added it to the `
 My `secrets.py` file looks like the following:
 
 ```python
-DEEPAI_API_KEY="put your key here"
+DEEPAI_API_KEY = "put your key here"
 ```
 
 This file will be imported into Python as a module, makign the `DEEPAI_API_KEY` available as a variable.

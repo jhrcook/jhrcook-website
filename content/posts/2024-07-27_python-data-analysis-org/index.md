@@ -150,6 +150,7 @@ from typer import Typer
 
 app = Typer()
 
+
 @app.command()
 def hello_world() -> None:
     """Says hello."""

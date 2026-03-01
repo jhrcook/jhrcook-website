@@ -95,7 +95,6 @@ from langchain_community.llms import Ollama
 from langchain_core.output_parsers import StrOutputParser
 
 
-
 def main() -> None:
     prompt = PromptTemplate.from_template(
         "You are a Python programmer who writes simple and concise code. Complete the"
@@ -106,10 +105,10 @@ def main() -> None:
     output_parser = StrOutputParser()
 
     chain = prompt | llm | output_parser
-    
-    response = chain.invoke(
-        {"input": "Request a wikipedia article and pull out the tables."}
-    )
+
+    response = chain.invoke({
+        "input": "Request a wikipedia article and pull out the tables."
+    })
     print(response)
 
 

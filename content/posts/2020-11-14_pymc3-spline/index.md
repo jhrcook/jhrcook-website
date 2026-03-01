@@ -156,7 +156,7 @@ We can get an idea of what the spline will look like by fitting a LOESS curve (a
 (
     gg.ggplot(d2, gg.aes(x="year", y="doy"))
     + gg.geom_point(color="black", alpha=0.4, size=1.3)
-    + gg.geom_smooth(method = "loess", span=0.3, size=1.5, color="blue", linetype="-")
+    + gg.geom_smooth(method="loess", span=0.3, size=1.5, color="blue", linetype="-")
     + gg.geom_vline(xintercept=knot_list, color="gray", alpha=0.8)
     + gg.theme(figure_size=(10, 5))
     + gg.labs(x="year", y="day of year", title="Cherry blossom data with spline knots")
@@ -228,7 +228,8 @@ The overlapping regions represent the knots showing how the smooth transition fr
 
 ```python
 spline_df = (
-    pd.DataFrame(B)
+    pd
+    .DataFrame(B)
     .assign(year=d2.year.values)
     .melt("year", var_name="spline_i", value_name="value")
 )
@@ -345,7 +346,8 @@ We can visualize the trace (MCMC samples) of the parameters, again showing they 
 
 ```python
 az.plot_trace(trace_m4_7, var_names=["a", "w", "sigma"])
-plt.tight_layout();
+plt.tight_layout()
+plt.show()
 ```
 
 ![a-and-sigma_trace](assets/model-trace.png)
@@ -353,7 +355,8 @@ plt.tight_layout();
 A forest plot shows the distributions of the values for $w$ are larger, though some do fall primarily away from 0 indicating a non-null effect/association.
 
 ```python
-az.plot_forest(trace_m4_7, var_names=["w"], combined=True);
+az.plot_forest(trace_m4_7, var_names=["w"], combined=True)
+plt.show()
 ```
 
 ![w-forest](assets/w-forest.png)
@@ -366,13 +369,15 @@ The dot product of $B$ and $w$ - the actual computation in the linear model - is
 wp = trace_m4_7.posterior["w"].values.mean(axis=(0, 1))
 
 spline_df = (
-    pd.DataFrame(B * wp.T)
+    pd
+    .DataFrame(B * wp.T)
     .assign(year=d2.year.values)
     .melt("year", var_name="spline_i", value_name="value")
 )
 
 spline_df_merged = (
-    pd.DataFrame(np.dot(B, wp.T))
+    pd
+    .DataFrame(np.dot(B, wp.T))
     .assign(year=d2.year.values)
     .melt("year", var_name="spline_i", value_name="value")
 )

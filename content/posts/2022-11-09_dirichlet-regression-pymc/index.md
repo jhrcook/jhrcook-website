@@ -88,7 +88,8 @@ _ctrl_data = np.random.dirichlet(ctrl_tissue_props * 100, N_REPS)
 _expt_data = np.random.dirichlet(expt_tissue_props * 100, N_REPS)
 
 expr_data = (
-    pd.DataFrame(np.vstack([_ctrl_data, _expt_data]), columns=TISSUES)
+    pd
+    .DataFrame(np.vstack([_ctrl_data, _expt_data]), columns=TISSUES)
     .assign(replicate=REPS)
     .set_index("replicate")
 )
@@ -300,7 +301,8 @@ expr_data.round(3)
 </div>
 
 ```python
-sns.heatmap(expr_data, vmin=0, cmap="seismic");
+sns.heatmap(expr_data, vmin=0, cmap="seismic")
+plt.show()
 ```
 
 ![png](assets/dirichlet-regression-pymc_8_0.png)
@@ -420,7 +422,8 @@ real_a = np.log(ctrl_tissue_props * 100)
 real_b = np.log(expt_tissue_props * 100) - real_a
 
 res_summary = (
-    az.summary(trace, var_names=["a", "b"], hdi_prob=0.89)
+    az
+    .summary(trace, var_names=["a", "b"], hdi_prob=0.89)
     .assign(real=np.hstack([real_a, real_b]))
     .reset_index()
 )
@@ -783,7 +786,8 @@ plt.show()
 
 ```python
 post_pred = (
-    trace.posterior_predictive["y"]
+    trace
+    .posterior_predictive["y"]
     .to_dataframe()
     .reset_index()
     .filter_column_isin("replicate", ["C-0", "E-0"])
@@ -791,7 +795,8 @@ post_pred = (
 )
 
 plot_expr_data = (
-    expr_data.copy()
+    expr_data
+    .copy()
     .reset_index()
     .pivot_longer("replicate", names_to="tissue", values_to="expr")
     .assign(condition=lambda d: [x[0] for x in d["replicate"]])

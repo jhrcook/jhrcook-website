@@ -47,6 +47,7 @@ import skimage as ski
 from ..models import Line
 from .utilities import find_lines
 
+
 def find_shelf_lines(img: np.ndarray) -> list[Line]:
     """Find the horizontal lines that separate shelves."""
     prepped_img = ski.color.rgb2gray(img)

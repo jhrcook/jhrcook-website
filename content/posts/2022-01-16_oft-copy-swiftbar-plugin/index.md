@@ -112,7 +112,6 @@ If *no* argument is supplied, then the normal SwiftBar output is produced by cal
 If an argument *is* supplied, then it should be a key in `COPY_TEXT_INFO` and the corresponding value will be added to Pasteboard in the `copy_text()` function.
 
 ```python
-
 @app.command()
 def main(to_copy: Optional[str] = None) -> None:
     """Primary entry point for the SwiftBar application.
@@ -155,7 +154,7 @@ def _refresh() -> None:
 The second helpful feature I've added is an *Edit* button that opens the script up in TextMate.
 I imagine using this to quickly add a new snippet.
 
-```
+```python
 def _edit() -> None:
     out = ":pencil.tip.crop.circle: Edit... | symbolize=true"
     out += f" bash='mate' param0='{str(plugin_path)}'"

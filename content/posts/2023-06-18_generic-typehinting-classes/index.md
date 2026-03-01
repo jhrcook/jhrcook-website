@@ -30,6 +30,7 @@ from typing import TypeVar
 
 T = TypeVar("T")
 
+
 def double_a_list(x: list[T]) -> list[T]:
     return x + x
 ```
@@ -62,8 +63,8 @@ from typing import TypeVar, Generic
 
 T = TypeVar("T")
 
-class Stack(Generic[T]):
 
+class Stack(Generic[T]):
     def __init__(self):
         self.items: list[T] = []
 
@@ -105,8 +106,8 @@ from typing import Generic, TypeVar
 T = TypeVar(T)
 U = TypeVar(U)
 
-class MyClass(Generic[T, U]):
 
+class MyClass(Generic[T, U]):
     def __init__(self, foo: T, bar: U) -> None:
         self.foo = foo
         self.bar = bar
