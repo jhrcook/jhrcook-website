@@ -27,19 +27,19 @@ The primary exception to this was ranking *The Spy Who Loved Me* last because it
 | Title                                 | Year | Rank |
 |:--------------------------------------|:-----|:-----|
 | *Casino Royale*                       | 1953 | 4    |
-| *Live and Let Die*                    | 1954 | 10   |
+| *Live and Let Die*                    | 1954 | 11   |
 | *Moonraker*                           | 1955 | 1    |
-| *Diamonds Are Forever*                | 1956 | 6    |
-| *From Russia, with Love*              | 1957 | --   |
+| *Diamonds Are Forever*                | 1956 | 7    |
+| *From Russia, with Love*              | 1957 | 6    |
 | *Dr. No*                              | 1958 | 2    |
-| *Goldfinger*                          | 1959 | 7    |
-| *For Your Eyes Only*                  | 1960 | 11   |
+| *Goldfinger*                          | 1959 | 8    |
+| *For Your Eyes Only*                  | 1960 | 12   |
 | *Thunderball*                         | 1961 | 3    |
-| *The Spy Who Loved Me*                | 1962 | 13   |
+| *The Spy Who Loved Me*                | 1962 | 14   |
 | *On Her Majesty’s Secret Service*     | 1963 | 5    |
-| *You Only Live Twice*                 | 1964 | 9    |
-| *The Man with the Golden Gun*         | 1965 | 8    |
-| *Octopussy and The Living Daylights*  | 1966 | 12    |
+| *You Only Live Twice*                 | 1964 | 10   |
+| *The Man with the Golden Gun*         | 1965 | 9    |
+| *Octopussy and The Living Daylights*  | 1966 | 13   |
 
 ### Movies
 
@@ -50,15 +50,15 @@ Still, I think my ranking will generally be guided by "how did I enjoy the movie
 
 | Title                             | Bond           | Year | Rank | Notes |
 |:----------------------------------|:---------------|:-----|:-----|:------|
-| *Dr. No*                          | Sean Connery   | 1962 |  2   |       |
-| *From Russia with Love*           | Sean Connery   | 1963 |      |       |
-| *Goldfinger*                      | Sean Connery   | 1964 |  3   |       |
+| *Dr. No*                          | Sean Connery   | 1962 |  3   |       |
+| *From Russia with Love*           | Sean Connery   | 1963 |  2   |       |
+| *Goldfinger*                      | Sean Connery   | 1964 |  4   |       |
 | *Thunderball*                     | Sean Connery   | 1965 |  1   |       |
-| *You Only Live Twice*             | Sean Connery   | 1967 |  4   |       |
-| *On Her Majesty's Secret Service* | George Lazenby | 1969 |  5   |       |
-| *Diamonds Are Forever*            | Sean Connery   | 1971 |      |       |
-| *Live and Let Die*                | Roger Moore    | 1973 |      |       |
-| *The Man with the Golden Gun*     | Roger Moore    | 1974 |      |       |
+| *You Only Live Twice*             | Sean Connery   | 1967 |  7   |       |
+| *On Her Majesty's Secret Service* | George Lazenby | 1969 |  8   |       |
+| *Diamonds Are Forever*            | Sean Connery   | 1971 |  5   |       |
+| *Live and Let Die*                | Roger Moore    | 1973 |  6   |       |
+| *The Man with the Golden Gun*     | Roger Moore    | 1974 |  9   |       |
 | *The Spy Who Loved Me*            | Roger Moore    | 1977 |      |       |
 | *Moonraker*                       | Roger Moore    | 1979 |      |       |
 | *For Your Eyes Only*              | Roger Moore    | 1981 |      |       |
