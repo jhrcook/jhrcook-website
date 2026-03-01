@@ -114,7 +114,8 @@ np.random.seed(RANDOM_SEED)
 x = np.random.uniform(-3, 4, 200)
 data = diff_of_gaussians(x, (0, 0), (0.3, 1), 0.05, y_offset=10)
 
-sns.scatterplot(data=data, x="x", y="y");
+sns.scatterplot(data=data, x="x", y="y")
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_14_0.png)
@@ -202,7 +203,8 @@ single_curve_data.data.shape
 ```python
 def plot_spline_basis(model_data: ModelData) -> gg.ggplot:
     basis_df = (
-        pd.DataFrame(model_data.B)
+        pd
+        .DataFrame(model_data.B)
         .reset_index(drop=False)
         .assign(x=model_data.data.x.values)
         .pivot_longer(index=["index", "x"], names_to="basis", values_to="density")
@@ -288,7 +290,8 @@ def plot_prior(
         var_prior = prior_pred.prior[var_name].values
     var_prior = var_prior.squeeze()
     prior_df = (
-        pd.DataFrame(var_prior.T)
+        pd
+        .DataFrame(var_prior.T)
         .reset_index(drop=False)
         .assign(x=data.x)
         .pivot_longer(["index", "x"], names_to="prior_sample")
@@ -386,13 +389,15 @@ Some of the $\widehat{R}$ values are a 1.01 or 1.02, but increasing the tuning s
 
 ```python
 az.plot_trace(m1_trace, var_names=["~mu"])
-plt.tight_layout();
+plt.tight_layout()
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_45_0.png)
 
 ```python
-az.plot_parallel(m1_trace, var_names=["w"]);
+az.plot_parallel(m1_trace, var_names=["w"])
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_46_0.png)
@@ -592,7 +597,7 @@ az.summary(m1_trace, var_names=["~mu"])
 </div>
 
 ```python
-az.plot_forest(m1_trace, var_names=["a", "w"], hdi_prob=HDI_PROB);
+az.plot_forest(m1_trace, var_names=["a", "w"], hdi_prob=HDI_PROB)
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_48_0.png)
@@ -617,7 +622,8 @@ def plot_posterior_mu(
 ) -> gg.ggplot:
     """Plot posterior distirbution for `mu` alongside the raw data."""
     mu_post_df = (
-        az.summary(trace, var_names="mu", hdi_prob=HDI_PROB, kind="stats")
+        az
+        .summary(trace, var_names="mu", hdi_prob=HDI_PROB, kind="stats")
         .reset_index(drop=True)
         .merge(data.copy(), left_index=True, right_index=True)
     )
@@ -725,7 +731,8 @@ d2 = diff_of_gaussians(x2, (1, 1), (0.5, 1), 0.05, y_offset=9.5).assign(k="b")
 data = pd.concat([d1, d2]).reset_index(drop=True)
 data["k"] = pd.Categorical(data["k"], categories=["a", "b"], ordered=True)
 
-sns.scatterplot(data=data, x="x", y="y", hue="k", palette=group_pal);
+sns.scatterplot(data=data, x="x", y="y", hue="k", palette=group_pal)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_59_0.png)
@@ -778,7 +785,8 @@ This is expected because the two curves in the data are quite different from eac
 
 ```python
 az.plot_trace(m1_trace2, var_names=["~mu"])
-plt.tight_layout();
+plt.tight_layout()
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_66_0.png)
@@ -787,13 +795,15 @@ From the parallel plot below, we can see that $w_{3-6}$ had a higher level of un
 This is because this is where the two curves are most different and at odds with each other.
 
 ```python
-az.plot_parallel(m1_trace2, var_names=["w"]);
+az.plot_parallel(m1_trace2, var_names=["w"])
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_68_0.png)
 
 ```python
-az.plot_forest(m1_trace2, var_names="w", hdi_prob=HDI_PROB, combined=True);
+az.plot_forest(m1_trace2, var_names="w", hdi_prob=HDI_PROB, combined=True)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_69_0.png)
@@ -1066,7 +1076,8 @@ stacked_B = stack_splines(multi_model_data)
 stacked_data = stack_data(multi_model_data)
 
 basis_df = (
-    pd.DataFrame(stacked_B)
+    pd
+    .DataFrame(stacked_B)
     .assign(k=stacked_data.k.values, x=stacked_data.x.values)
     .pivot_longer(["k", "x"], names_to="basis", values_to="density")
     .assign(basis=lambda d: [f"{k}: {x}" for x, k in zip(d.basis, d.k)])
@@ -1169,7 +1180,8 @@ The parameters are not linked in any way (other than $\sigma$ which is the same 
 
 ```python
 az.plot_trace(m2_trace, var_names=["~mu"])
-plt.tight_layout();
+plt.tight_layout()
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_90_0.png)
@@ -1515,13 +1527,15 @@ az.summary(m2_trace, var_names=["~mu"], hdi_prob=HDI_PROB)
 We can see that the intercept $\mathbf{a}$ has done its job by acting as a group-varying intercept allowing $\mathbf{w}$ to represent deviations from there.
 
 ```python
-az.plot_forest(m2_trace, var_names=["a"], hdi_prob=HDI_PROB, combined=True);
+az.plot_forest(m2_trace, var_names=["a"], hdi_prob=HDI_PROB, combined=True)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_93_0.png)
 
 ```python
-az.plot_forest(m2_trace, var_names=["w"], hdi_prob=HDI_PROB, combined=True);
+az.plot_forest(m2_trace, var_names=["w"], hdi_prob=HDI_PROB, combined=True)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_94_0.png)
@@ -1584,7 +1598,8 @@ plot_spline_basis(m3_data)
 
 ```python
 basis_df = (
-    pd.DataFrame(m3_data.B)
+    pd
+    .DataFrame(m3_data.B)
     .assign(k=m3_data.data.k.values, x=m3_data.data.x.values)
     .pivot_longer(["k", "x"], names_to="basis", values_to="density")
     .assign(basis=lambda d: [f"{k}: {x}" for x, k in zip(d.basis, d.k)])
@@ -1688,7 +1703,7 @@ Also, this increased uncertainty had ill-effects on the posterior sampling of th
 
 ```python
 az.plot_trace(m3_trace, var_names=["~mu"])
-plt.tight_layout();
+plt.tight_layout()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_114_0.png)
@@ -2046,7 +2061,8 @@ az.summary(m3_trace, var_names=["~mu"], hdi_prob=HDI_PROB)
 The forest plot below highlights the variability of the spline parameters where they were not informed by data.
 
 ```python
-az.plot_forest(m3_trace, var_names=["w"], hdi_prob=HDI_PROB, combined=True);
+az.plot_forest(m3_trace, var_names=["w"], hdi_prob=HDI_PROB, combined=True)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_117_0.png)
@@ -2068,15 +2084,14 @@ This problem could likely be remedied by adding more knots.
 
 ```python
 compare_traces = {"separate": m2_trace, "shared": m3_trace}
-compare_mu_df = pd.concat(
-    [
-        az.summary(t, var_names="mu", hdi_prob=HDI_PROB, kind="stats")
-        .reset_index()
-        .assign(model=n)
-        .merge(m3_data.data, left_index=True, right_index=True)
-        for n, t in compare_traces.items()
-    ]
-)
+compare_mu_df = pd.concat([
+    az
+    .summary(t, var_names="mu", hdi_prob=HDI_PROB, kind="stats")
+    .reset_index()
+    .assign(model=n)
+    .merge(m3_data.data, left_index=True, right_index=True)
+    for n, t in compare_traces.items()
+])
 
 (
     gg.ggplot(compare_mu_df, gg.aes(x="x", y="mean"))
@@ -2250,7 +2265,8 @@ This is because the hierarchical model partially pooled data to inform these reg
 
 ```python
 az.plot_trace(m4_trace, var_names=["~mu"])
-plt.tight_layout();
+plt.tight_layout()
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_140_0.png)
@@ -2762,7 +2778,8 @@ az.summary(m4_trace, var_names=["~mu"], hdi_prob=HDI_PROB)
 </div>
 
 ```python
-az.plot_forest(m4_trace, var_names=["mu_w"], hdi_prob=HDI_PROB, combined=True);
+az.plot_forest(m4_trace, var_names=["mu_w"], hdi_prob=HDI_PROB, combined=True)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_142_0.png)
@@ -2774,7 +2791,8 @@ az.plot_forest(
     var_names=["w"],
     hdi_prob=HDI_PROB,
     combined=True,
-);
+)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_143_0.png)
@@ -2849,9 +2867,9 @@ with build_model4(new_m3_data):
 
 ```python
 comarisons = {"no pooling": m3_post_pred_new, "hierarchical": m4_post_pred_new}
-compare_ppc_df = pd.concat(
-    [summarize_ppc(t, new_m3_data.data).assign(model=n) for n, t in comarisons.items()]
-)
+compare_ppc_df = pd.concat([
+    summarize_ppc(t, new_m3_data.data).assign(model=n) for n, t in comarisons.items()
+])
 
 (
     gg.ggplot(compare_ppc_df, gg.aes(x="x", y="post_pred"))
@@ -3063,14 +3081,16 @@ For demonstrative purposes, though, it should suffice.
 
 ```python
 az.plot_trace(m5_s_trace, var_names=["~mu"])
-plt.tight_layout();
+plt.tight_layout()
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_171_0.png)
 
 ```python
 az.plot_trace(m5_mv_trace, var_names=["a", "w", "sigma", "chol", "chol_stds"])
-plt.tight_layout();
+plt.tight_layout()
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_172_0.png)
@@ -3084,7 +3104,8 @@ az.plot_forest(
     var_names="w",
     hdi_prob=HDI_PROB,
     combined=True,
-);
+)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_174_0.png)
@@ -3113,7 +3134,8 @@ They were fairly weak, but you can see that some of the strongest measurements w
 ```python
 def plot_chol_corr(trace: az.InferenceData) -> gg.ggplot:
     corr_post_df = (
-        az.summary(trace, var_names=["chol_corr"], hdi_prob=HDI_PROB)
+        az
+        .summary(trace, var_names=["chol_corr"], hdi_prob=HDI_PROB)
         .reset_index(drop=False)
         .rename(columns={"index": "parameter"})
         .assign(_idx=lambda d: [list(re.findall("[0-9]+", x)) for x in d.parameter])
@@ -3148,13 +3170,14 @@ plot_chol_corr(m5_mv_trace)
     <ggplot: (341381190)>
 
 ```python
-az.plot_parallel(m5_mv_trace, var_names="w");
+az.plot_parallel(m5_mv_trace, var_names="w")
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_181_0.png)
 
 ```python
-az.plot_forest(m5_mv_trace, var_names=["chol_corr"], hdi_prob=HDI_PROB, combined=True);
+az.plot_forest(m5_mv_trace, var_names=["chol_corr"], hdi_prob=HDI_PROB, combined=True)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_182_0.png)
@@ -3164,7 +3187,8 @@ Relative to the width of the 89% HDI, the differences were small, but the expect
 
 ```python
 chol_corr_post = (
-    az.summary(m5_mv_trace, var_names="chol_corr", kind="stats", hdi_prob=HDI_PROB)
+    az
+    .summary(m5_mv_trace, var_names="chol_corr", kind="stats", hdi_prob=HDI_PROB)
     .reset_index(drop=False)
     .assign(_idx=lambda d: [re.findall("[0-9]+", x) for x in d["index"]])
     .assign(
@@ -3289,7 +3313,7 @@ az.plot_trace(
     m6_trace,
     var_names=["a", "w", "delta_w", "chol_stds"],
 )
-plt.tight_layout();
+plt.tight_layout()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_195_0.png)
@@ -3304,13 +3328,15 @@ az.plot_forest(
     var_names=["a", "w"],
     hdi_prob=HDI_PROB,
     combined=True,
-);
+)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_197_0.png)
 
 ```python
-az.plot_forest(m6_trace, var_names="chol_corr", hdi_prob=HDI_PROB, combined=True);
+az.plot_forest(m6_trace, var_names="chol_corr", hdi_prob=HDI_PROB, combined=True)
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_198_0.png)
@@ -3329,7 +3355,8 @@ plot_chol_corr(m6_trace)
     <ggplot: (336864627)>
 
 ```python
-az.plot_parallel(m6_trace, var_names="w");
+az.plot_parallel(m6_trace, var_names="w")
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_201_0.png)
@@ -3478,7 +3505,8 @@ with m6_2:
 
 ```python
 az.plot_trace(m6_trace2, var_names=["a", "mu_w", "chol_stds", "w", "delta_w", "sigma"])
-plt.tight_layout();
+plt.tight_layout()
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_212_0.png)
@@ -3486,7 +3514,8 @@ plt.tight_layout();
 The parallel plot of $\mathbf{\mu_w}$ below shows that it detected the primary underlying form of the sine curves.
 
 ```python
-az.plot_parallel(m6_trace2, var_names=["mu_w"]);
+az.plot_parallel(m6_trace2, var_names=["mu_w"])
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_214_0.png)
@@ -3539,7 +3568,7 @@ axes = az.plot_forest(
 )
 for ax in axes.flatten():
     ax.axvline(0, c="g")
-plt.show();
+plt.show()
 ```
 
 ![png](assets/999_016_splines-in-pymc3_v2_219_0.png)

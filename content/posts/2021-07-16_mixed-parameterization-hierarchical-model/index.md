@@ -161,7 +161,8 @@ pprint(data)
 
 ```python
 df = pd.DataFrame({"y": data["y"], "k": data["idx"].astype(str)})
-sns.scatterplot(data=df, x="k", y="y");
+sns.scatterplot(data=df, x="k", y="y")
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_8_0.png)
@@ -262,7 +263,8 @@ az.bfmi(cp_trace)
 From the following trace plots, we can see that the posterior distributions for the population parameters were uneven, indicating problems with the sampling.
 
 ```python
-az.plot_trace(cp_trace, ["mu", "tau"], compact=False, combined=False, legend=True);
+az.plot_trace(cp_trace, ["mu", "tau"], compact=False, combined=False, legend=True)
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_15_0.png)
@@ -295,19 +297,16 @@ def get_dispersion_and_individual_posteriors_tidy(
     indiv_post = t.posterior[indiv_var].values.reshape(-1, n_indiv)
 
     return (
-        pd.concat(
-            [
-                pd.DataFrame(
-                    {
-                        disp_var: disp_post,
-                        "is_divergence": divergences,
-                        indiv_var: indiv_post[:, i],
-                        "indiv_i": i,
-                    }
-                )
-                for i in range(n_indiv)
-            ]
-        )
+        pd
+        .concat([
+            pd.DataFrame({
+                disp_var: disp_post,
+                "is_divergence": divergences,
+                indiv_var: indiv_post[:, i],
+                "indiv_i": i,
+            })
+            for i in range(n_indiv)
+        ])
         .assign(_log_disp_var=lambda d: np.log(d[disp_var]))
         .rename(columns={"_log_disp_var": f"log_{disp_var}"})
     )
@@ -508,7 +507,8 @@ az.bfmi(cp_trace), az.bfmi(ncp_trace)
 And the posteriors for the global distributions are smoother.
 
 ```python
-az.plot_trace(ncp_trace, ["mu", "tau"], compact=False, combined=False);
+az.plot_trace(ncp_trace, ["mu", "tau"], compact=False, combined=False)
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_28_0.png)
@@ -533,12 +533,10 @@ def plot_overlapping_funnels(
     centered_post: pd.DataFrame, noncentered_post: pd.DataFrame, min_y: float = -8
 ) -> None:
     sns.relplot(
-        data=pd.concat(
-            [
-                noncentered_post.assign(model="non-centered"),
-                centered_post.assign(model="centered"),
-            ]
-        ),
+        data=pd.concat([
+            noncentered_post.assign(model="non-centered"),
+            centered_post.assign(model="centered"),
+        ]),
         x="theta",
         y="log_tau",
         col="indiv_i",
@@ -549,7 +547,7 @@ def plot_overlapping_funnels(
         palette={"centered": "b", "non-centered": "r"},
     )
     plt.ylim(min_y, noncentered_post["log_tau"].max() * 1.02)
-    plt.show();
+    plt.show()
 ```
 
 This leads to a better exploration of smaller values for the population dispersion $\tau$ in the non-centered parameterization (red) than the centered parameterization (blue).
@@ -567,19 +565,17 @@ def plot_prior_against_tau_post(
     real_tau: float,
     tau_prior_sd: float = 5,
 ) -> None:
-    tau_post = pd.DataFrame(
-        {
-            "centered": cp_trace.posterior["tau"].values.flatten(),
-            "non-centered": ncp_trace.posterior["tau"].values.flatten(),
-            "prior": np.abs(
-                np.random.normal(
-                    0,
-                    tau_prior_sd,
-                    ncp_trace.posterior["tau"].values.flatten().shape[0],
-                )
-            ),
-        }
-    ).pivot_longer(names_to="model", values_to="tau")
+    tau_post = pd.DataFrame({
+        "centered": cp_trace.posterior["tau"].values.flatten(),
+        "non-centered": ncp_trace.posterior["tau"].values.flatten(),
+        "prior": np.abs(
+            np.random.normal(
+                0,
+                tau_prior_sd,
+                ncp_trace.posterior["tau"].values.flatten().shape[0],
+            )
+        ),
+    }).pivot_longer(names_to="model", values_to="tau")
 
     sns.histplot(
         data=tau_post,
@@ -612,9 +608,10 @@ def plot_comparison_ppc(
         df = df.pivot_longer(names_to="y", values_to="value").assign(model=model)
         ppc_df = pd.concat([ppc_df, df])
 
-    data_df = pd.DataFrame(
-        {"y": [f"y{i}" for i in range(data["K"])], "value": data["y"]}
-    )
+    data_df = pd.DataFrame({
+        "y": [f"y{i}" for i in range(data["K"])],
+        "value": data["y"],
+    })
 
     ax = sns.violinplot(
         data=ppc_df,
@@ -665,7 +662,8 @@ pprint(data)
 
 ```python
 df = pd.DataFrame({"y": data["y"], "k": data["idx"].astype(str)})
-sns.scatterplot(data=df, x="k", y="y");
+sns.scatterplot(data=df, x="k", y="y")
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_42_0.png)
@@ -731,7 +729,8 @@ az.bfmi(cp_trace)
 The traces look great and the posterior distributions for the population parameters are very smooth.
 
 ```python
-az.plot_trace(cp_trace, ["mu", "tau"], compact=False, combined=False);
+az.plot_trace(cp_trace, ["mu", "tau"], compact=False, combined=False)
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_48_0.png)
@@ -827,7 +826,8 @@ The trace plots for the population parameters are not as well-shaped as with the
 This is also highlighted by the increased autocorrelation in the chains of the non-centered model.
 
 ```python
-az.plot_trace(ncp_trace, ["mu", "tau"], compact=False, combined=False);
+az.plot_trace(ncp_trace, ["mu", "tau"], compact=False, combined=False)
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_58_0.png)
@@ -865,10 +865,11 @@ plot_funnels(eta_tau_post_df_ncp, x="eta", min_y=-2)
 The partial pooling pushes the posterior away from small and large values of $\tau$, preventing the chain from venturing into the funnel.
 
 ```python
-ncp_population_post = pd.DataFrame(
-    {v: ncp_trace.posterior[v].values.flatten() for v in ["mu", "tau"]}
-).assign(log_tau=lambda d: np.log(d.tau))
-sns.jointplot(data=ncp_population_post, x="mu", y="log_tau");
+ncp_population_post = pd.DataFrame({
+    v: ncp_trace.posterior[v].values.flatten() for v in ["mu", "tau"]
+}).assign(log_tau=lambda d: np.log(d.tau))
+sns.jointplot(data=ncp_population_post, x="mu", y="log_tau")
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_63_0.png)
@@ -918,7 +919,8 @@ data = generate_data(N=N, K=K, indiv_idx=indiv_idx, sigma=sigma)
 
 ```python
 df = pd.DataFrame({"idx": data["idx"], "y": data["y"]})
-sns.stripplot(data=df, x="idx", y="y", alpha=0.4, dodge=True);
+sns.stripplot(data=df, x="idx", y="y", alpha=0.4, dodge=True)
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_72_0.png)
@@ -987,7 +989,8 @@ az.bfmi(cp_trace)
 Overall, the posteriors for the population parameters look smooth, but there are some troubling divergences.
 
 ```python
-az.plot_trace(cp_trace, ["mu", "tau"], compact=False, combined=False);
+az.plot_trace(cp_trace, ["mu", "tau"], compact=False, combined=False)
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_78_0.png)
@@ -1070,7 +1073,7 @@ There are a lot of divergences here, primarily at the extremes of the population
 In particular, most of the divergences are at high values of the population dispersion $\tau$ which represents the top of the inverted funnel.
 
 ```python
-az.plot_trace(ncp_trace, ["mu", "tau"], compact=False, combined=False);
+az.plot_trace(ncp_trace, ["mu", "tau"], compact=False, combined=False)
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_86_0.png)
@@ -1092,10 +1095,11 @@ plot_funnels(eta_tau_post_df_ncp, x="eta", min_y=-2)
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_88_0.webp)
 
 ```python
-ncp_population_post = pd.DataFrame(
-    {v: ncp_trace.posterior[v].values.flatten() for v in ["mu", "tau"]}
-).assign(log_tau=lambda d: np.log(d.tau))
-sns.jointplot(data=ncp_population_post, x="mu", y="log_tau");
+ncp_population_post = pd.DataFrame({
+    v: ncp_trace.posterior[v].values.flatten() for v in ["mu", "tau"]
+}).assign(log_tau=lambda d: np.log(d.tau))
+sns.jointplot(data=ncp_population_post, x="mu", y="log_tau")
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_89_0.png)
@@ -1240,7 +1244,7 @@ az.bfmi(cp_trace), az.bfmi(ncp_trace), az.bfmi(mixp_trace)
 Also, the trace plots looks fine to me.
 
 ```python
-az.plot_trace(mixp_trace, ["mu", "tau"], compact=False, combined=False);
+az.plot_trace(mixp_trace, ["mu", "tau"], compact=False, combined=False)
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_100_0.png)
@@ -1248,9 +1252,11 @@ az.plot_trace(mixp_trace, ["mu", "tau"], compact=False, combined=False);
 Lastly, the step sizes are back to the large and fast steps of the centered parameterization.
 
 ```python
-get_avg_chain_step_size(cp_trace), get_avg_chain_step_size(
-    ncp_trace
-), get_avg_chain_step_size(mixp_trace)
+(
+    get_avg_chain_step_size(cp_trace),
+    get_avg_chain_step_size(ncp_trace),
+    get_avg_chain_step_size(mixp_trace),
+)
 ```
 
     (array([0.31539328, 0.20825967, 0.25216215, 0.25867726]),
@@ -1284,14 +1290,14 @@ plot_funnels(eta_tau_post_df_mixp, "eta_ncp", min_y=-2)
 
 ```python
 def make_population_post_df(t: az.InferenceData) -> pd.DataFrame:
-    return pd.DataFrame(
-        {v: t.posterior[v].values.flatten() for v in ["mu", "tau"]}
-    ).assign(log_tau=lambda d: np.log(d.tau))
+    return pd.DataFrame({
+        v: t.posterior[v].values.flatten() for v in ["mu", "tau"]
+    }).assign(log_tau=lambda d: np.log(d.tau))
 ```
 
 ```python
 mixp_population_post = make_population_post_df(mixp_trace)
-sns.jointplot(data=mixp_population_post, x="mu", y="log_tau");
+sns.jointplot(data=mixp_population_post, x="mu", y="log_tau")
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_108_0.png)
@@ -1300,16 +1306,15 @@ The following plot shows the relationship between the population dispersion $\ta
 We can see that the exploration of lower values of $\tau$ was more successful in the non-centered and mixed parameterizations than in the centered model.
 
 ```python
-pop_post_df = pd.concat(
-    [
-        make_population_post_df(t).assign(model=m)
-        for m, t in zip(
-            ("centered", "non-centered", "mixed"), (cp_trace, ncp_trace, mixp_trace)
-        )
-    ]
-)
+pop_post_df = pd.concat([
+    make_population_post_df(t).assign(model=m)
+    for m, t in zip(
+        ("centered", "non-centered", "mixed"), (cp_trace, ncp_trace, mixp_trace)
+    )
+])
 
-sns.relplot(data=pop_post_df, x="mu", y="log_tau", hue="model", col="model");
+sns.relplot(data=pop_post_df, x="mu", y="log_tau", hue="model", col="model")
+plt.show()
 ```
 
 ![png](assets/999_032_mixed-centered-parameterization-pymc3-model_110_0.png)

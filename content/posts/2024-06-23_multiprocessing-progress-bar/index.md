@@ -110,7 +110,7 @@ def single_process_example(inputs: Sequence[float]) -> None:
         res.append(r)
     toc = time.perf_counter()
     print(f"Result: {res}")
-    print(f"(Took {toc-tic:.3f} sec.)")
+    print(f"(Took {toc - tic:.3f} sec.)")
 
 
 def map_example(inputs: Sequence[float]) -> None:
@@ -124,7 +124,7 @@ def map_example(inputs: Sequence[float]) -> None:
 
     toc = time.perf_counter()
     print(f"Result: {res}")
-    print(f"(Took {toc-tic:.3f} sec.)")
+    print(f"(Took {toc - tic:.3f} sec.)")
 
 
 def imap_example(inputs: Sequence[float]) -> None:
@@ -138,7 +138,7 @@ def imap_example(inputs: Sequence[float]) -> None:
 
     toc = time.perf_counter()
     print(f"Result: {res}")
-    print(f"(Took {toc-tic:.3f} sec.)")
+    print(f"(Took {toc - tic:.3f} sec.)")
 
 
 def imap_unordered_example(inputs: Sequence[float]) -> None:
@@ -152,7 +152,7 @@ def imap_unordered_example(inputs: Sequence[float]) -> None:
 
     toc = time.perf_counter()
     print(f"Result: {res}")
-    print(f"(Took {toc-tic:.3f} sec.)")
+    print(f"(Took {toc - tic:.3f} sec.)")
 
 
 def main() -> None:

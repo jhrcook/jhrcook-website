@@ -42,24 +42,20 @@ T = TypeVar("T")
 
 class Mylist(list[T]):
     @overload
-    def __getitem__(self, i: SupportsIndex) -> T:
-        ...
+    def __getitem__(self, i: SupportsIndex) -> T: ...
 
     @overload
-    def __getitem__(self, i: slice) -> list[T]:
-        ...
+    def __getitem__(self, i: slice) -> list[T]: ...
 
     def __getitem__(self, i: Union[SupportsIndex, slice]) -> Union[T, list[T]]:
         # Implement your specific features here.
         return super().__getitem__(i)
 
     @overload
-    def __setitem__(self, i: SupportsIndex, o: T) -> None:
-        ...
+    def __setitem__(self, i: SupportsIndex, o: T) -> None: ...
 
     @overload
-    def __setitem__(self, s: slice, o: Iterable[T]) -> None:
-        ...
+    def __setitem__(self, s: slice, o: Iterable[T]) -> None: ...
 
     def __setitem__(self, *args: Any) -> None:
         # Implement your specific features here.
@@ -75,11 +71,11 @@ Normally, you can only use a maximum index of the length of the list (-1 for zer
 ```python
 x = ["a", "b", "c", "d"]
 x[0]
-#> 'a'
+# > 'a'
 x[100]
-#> Traceback (most recent call last):
-#>   File "<stdin>", line 1, in <module>
-#> IndexError: list index out of range
+# > Traceback (most recent call last):
+# >   File "<stdin>", line 1, in <module>
+# > IndexError: list index out of range
 ```
 
 For my program, I wanted all the normal behavior of a list, except that trying to index beyond the list's range would cause the list to automatically expand to that size and fill all of the missing values with 0.
@@ -200,24 +196,20 @@ Here is this feature implemented for my `Intcode` class:
 ```python
 class Intcode(list[int]):
     @overload
-    def __getitem__(self, i: SupportsIndex) -> int:
-        ...
+    def __getitem__(self, i: SupportsIndex) -> int: ...
 
     @overload
-    def __getitem__(self, i: slice) -> list[int]:
-        ...
+    def __getitem__(self, i: slice) -> list[int]: ...
 
     def __getitem__(self, i: Union[SupportsIndex, slice]) -> Union[int, list[int]]:
         self._extend_based_on_index(i)
         return super().__getitem__(i)
 
     @overload
-    def __setitem__(self, i: SupportsIndex, o: int) -> None:
-        ...
+    def __setitem__(self, i: SupportsIndex, o: int) -> None: ...
 
     @overload
-    def __setitem__(self, s: slice, o: Iterable[int]) -> None:
-        ...
+    def __setitem__(self, s: slice, o: Iterable[int]) -> None: ...
 
     def __setitem__(self, *args: Any) -> None:
         assert len(args) == 2
@@ -227,7 +219,7 @@ class Intcode(list[int]):
 
         super().__setitem__(*args)
         return None
-    
+
     # ... no changes below
 ```
 
