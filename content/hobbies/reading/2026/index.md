@@ -44,9 +44,11 @@ Easily one of my favorites among Fleming’s novels, I’d give it a solid 4.25 
 ## *Cod*
 
 **Mark Kurlansky** <br>
-Rating: X / 5
+Rating: 3.5 / 5
 
-(Review to come.)
+I picked up Cod expecting something in the detailed, immersive style of John McPhee, but Mark Kurlansky’s approach turned out to be a bit more high-level and informal.
+Rather than a deep scientific study, this book focuses more on the cultural and historical impact of cod on the peoples of the Atlantic.
+It’s an enjoyable read, but I found myself wishing for a bit more depth and analysis.
 
 <br>
 
