@@ -57,9 +57,11 @@ It’s an enjoyable read, but I found myself wishing for a bit more depth and an
 ## *Octopussy*
 
 **Ian Fleming** <br>
-Rating: X / 5
+Rating: 3.5 / 5
 
-(Review to come.)
+As the final installment in my read-through of Ian Fleming’s *Bond* canon, *Octopussy* was a satisfying conclusion – a collection of short stories that I genuinely enjoyed, even if I still prefer the full-length novels.
+These tales feel darker and more somber than the typical Bond adventure, though Bond's familiar confidence and suave demeanor remain intact.
+There’s a brooding quality to the writing that seems to reflect Fleming’s own declining health and personal struggles at the time, giving the collection an unusual somber depth.
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347320196l/2035753._SX98_.jpg"/></a>
 
