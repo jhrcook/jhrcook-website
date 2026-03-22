@@ -32,11 +32,12 @@ Beyond the controversial wartime connections, the book also highlights how Pius 
 ## *On Her Majesty's Secret Service*
 
 **Ian Fleming** <br>
-Rating: X / 5
+Rating: 4.25 / 5
 
-(Review to come.)
-
-<br>
+On Her Majesty’s Secret Service truly feels like a classic Bond adventure—packed with twists and turns, high-stakes excitement, an exotic setting, and a surprising thread of true love.
+Blofeld makes a terrific villain here, both menacing and memorable, with a convoluted plot that is slowly revealed as Bond explores and probes.
+Without providing and spoilers, this novel has the best – at least the most dramatic – ending in the entire series.
+Easily one of my favorites among Fleming’s novels, I’d give it a solid 4.25 out of 5.
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356452461l/64895._SX98_.jpg"/></a>
 
