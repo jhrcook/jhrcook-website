@@ -4,8 +4,8 @@ subtitle: "How to use rsync to quickly delete large files and directories."
 summary: "This is just a quick post about a way I found in graduate school to quickly delete large amounts of data."
 tags: ["Programming"]
 categories: ["Dev"]
-date: 2025-03-30T00:00:00-05:00
-lastmod: 2025-03-30T00:00:00-05:00
+date: 2026-01-28T00:00:00-08:00
+lastmod: 2026-01-28T00:00:00-08:00
 featured: false
 draft: false
 showHero: true
