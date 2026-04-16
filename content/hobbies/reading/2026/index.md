@@ -107,9 +107,11 @@ Still, it was a short read, and if nothing else, brought my attention to my atte
 ## *From Russia with Love*
 
 **Ian Fleming** <br>
-Rating: X / 5
+Rating: 4.25 / 5
 
-Text.
+Delightful addition to the *James Bond* series.
+While the fifth in the original Fleming series, this was the last one for me to read.
+This is a classic of the collection with a great movie, too!.
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388328985l/3023._SX98_.jpg"/></a>
 
