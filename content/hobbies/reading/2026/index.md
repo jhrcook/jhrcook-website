@@ -83,9 +83,13 @@ This was fun to work through as a side project, to stay sharp and learn some of 
 **Tyler Kepner** <br>
 Rating: X / 5
 
-Text.
+I grew up playing a ton fo baseball, but, after high-school, I drifted away from the sport.
+This was a fun return to a childhood passion, especially as one who always loved the art of pitching.
+Kepner demonstrated a tremendous ability to get nuanced quotes from some of the greatest players.
+It was delightful to get insight about relatively minor details of the game, illuminating these details that fascinate the true die-hards of the sport.
+This is an easy book to recommend to any lover of the game, I wish someone had given this to me when I was younger.
 
-<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442939057l/6262510._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0"  src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442939057l/6262510._SX98_.jpg"/></a>
 
 ## *Rapt*
 
