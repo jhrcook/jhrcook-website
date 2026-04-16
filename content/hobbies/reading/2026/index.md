@@ -70,7 +70,11 @@ There’s a brooding quality to the writing that seems to reflect Fleming’s ow
 **Wing-Kin Sung** <br>
 Rating: X / 5
 
-Text.
+I think this short textbook serves as a good introduction to key bioinformatic algorithms.
+At times, details were lacking and there were minor errors, but overall the content was solid.
+I would have preferred a great diversity of algorithms.
+While the types of bioinformatic data were different, the problems presented for each were similar at their core and, therefore, used very similar algorithms.
+This was fun to work through as a side project, to stay sharp and learn some of the details of pattern matching algorithms, but I don't think this would be suitable as a standalone textbook for a higher-education bioinformatics course.
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552549656l/40828954._SX98_.jpg"/></a>
 
