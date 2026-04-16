@@ -68,7 +68,7 @@ There’s a brooding quality to the writing that seems to reflect Fleming’s ow
 ## *Algorithms in Bioinformatics*
 
 **Wing-Kin Sung** <br>
-Rating: X / 5
+Rating: 3.75 / 5
 
 I think this short textbook serves as a good introduction to key bioinformatic algorithms.
 At times, details were lacking and there were minor errors, but overall the content was solid.
@@ -81,7 +81,7 @@ This was fun to work through as a side project, to stay sharp and learn some of 
 ## *K*
 
 **Tyler Kepner** <br>
-Rating: X / 5
+Rating: 4 / 5
 
 I grew up playing a ton fo baseball, but, after high-school, I drifted away from the sport.
 This was a fun return to a childhood passion, especially as one who always loved the art of pitching.
@@ -94,9 +94,13 @@ This is an easy book to recommend to any lover of the game, I wish someone had g
 ## *Rapt*
 
 **Winifred Gallagher** <br>
-Rating: X / 5
+Rating: 3.25 / 5
 
-Text.
+This was, in general, a thought-provoking book, though often lacked in detail and became fairly repetitive.
+I appreciated the number and variety of angles at which Gallagher approach hed the topic of attention.
+There are other related books that I would recommend ahead of this one, but I wouldn't dissuade someone from pick up *Rapt*, either.
+As I said, the book eventually became highly repetitive, almost as if the author didn't have much else to add but needed length.
+Still, it was a short read, and if nothing else, brought my attention to my attention – I find it helpful to pick up a book on this topic every now and then to realign my focus on my focus.
 
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440169210l/3764._SX98_.jpg"/></a>
 
