@@ -118,7 +118,7 @@ This is a classic of the collection with a great movie, too!.
 ## *Basic Economics*
 
 **Thomas Sowell** <br>
-Rating: X / 5
+Rating: 5 / 5
 
 Quite the opus, but well worth the time.
 This is an exemplar of Sowell's tremendous clarity of thought.
@@ -127,6 +127,18 @@ Sowell's ability to lead a reader through logic is so effortless and clean, noth
 This should be required reading for most people as a primer to the key aspects of modern economies.
 The number of fallacies that are still pervasive decades after the publication of this book, is astounding and disappointing.
 Sowell is one of the greatest thinkers of the modern era and this book encapsulates many of his key economic teachings.
+
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309210694l/270008._SX98_.jpg"/></a>
+
+## *Marriage, a History*
+
+**Stephanie Coontz** <br>
+Rating: 2 / 5
+
+The title is very misleading: this is really about the modern history of marriage in the West, primarily the USA, with a particular focus on feminism's effect on marriage from the mid-1800's to later 1900s.
+I was hoping for a true history on marriage, so this was rather disappointing.
+To be fair, the book started off with a couple of chapters on the believed origin of marriage across the planet, but afterwards, most of history and the globe was ignored.
+In the end, this is more a book on feminism in marriage in the USA in the 1900's than a broader history of marriage.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
@@ -141,6 +153,6 @@ Text. -->
 
 **Currently reading:**
 
-1. *K* by Tyler Kepner
-1. *Rapt* by Winifred Gallagher
-1. *Algorithms in Bioinformatics* by Wing-Kin Sung
+1. *Rogue Heroes* by Ben Macintyre
+2. *A Concise Introduction To Pure Mathematics* by Martin W. Liebeck
+3. *Standing in a River Waving a Stick* by John Gierach
