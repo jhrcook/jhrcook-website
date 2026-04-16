@@ -120,7 +120,13 @@ This is a classic of the collection with a great movie, too!.
 **Thomas Sowell** <br>
 Rating: X / 5
 
-Text.
+Quite the opus, but well worth the time.
+This is an exemplar of Sowell's tremendous clarity of thought.
+It reads as if conversational, but not at all dumbed-down or amateurish.
+Sowell's ability to lead a reader through logic is so effortless and clean, nothing is extraneous, nothing is missing.
+This should be required reading for most people as a primer to the key aspects of modern economies.
+The number of fallacies that are still pervasive decades after the publication of this book, is astounding and disappointing.
+Sowell is one of the greatest thinkers of the modern era and this book encapsulates many of his key economic teachings.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
