@@ -1,7 +1,7 @@
 ---
 title: "DeepAgents: Getting Started"
 subtitle: "Getting started with the DeepAgents library to run LLM agents locally.."
-summary: "..."
+summary: "This is the beginning of what I hope will be a series of posts about using the DeepAgents library to build powerful AI agents. This posts describes how to get started running a simple research agent locally on a MacBook."
 tags: ["Programming", "ML/AI"]
 categories: ["Dev"]
 date: 2026-04-20T00:00:00-08:00
@@ -188,7 +188,7 @@ The technology was announced at Illumina's ASHG 2025 showcase, with presentation
 
 I'm very excited to see what I can build with the DeepAgents library.
 
-The obvious next step is to continue reading the docuemntation to familialize myself with this capabilities.
+The obvious next step is to continue reading the documentation to familiarize myself with this capabilities.
 Namely, I want to better understand the steps of the agent as I think optimizing and enhancing this process will open the door to more powerful features.
 
 Otherwise, as I noted in a few places in this post, researching the broader environment of tools will be necessary.
