@@ -1,6 +1,6 @@
 ---
 title: "DeepAgents: Getting Started"
-subtitle: "Getting started with the DeepAgents library to run LLM agents locally.."
+subtitle: "Getting started with the DeepAgents library to run LLM agents locally."
 summary: "This is the beginning of what I hope will be a series of posts about using the DeepAgents library to build powerful AI agents. This posts describes how to get started running a simple research agent locally on a MacBook."
 tags: ["Programming", "ML/AI"]
 categories: ["Dev"]
