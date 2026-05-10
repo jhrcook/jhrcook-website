@@ -188,12 +188,27 @@ The toe box is a good width for me – I usually order the wide version of the G
 As with the Brooks, the current MSRP is a not cheap at $140, but I can find them on sale or previous versions for closer to $100.
 For instance, I picked up another pair of version 16 for $70 in a closeout sale on Brooks' website.
 
-### Watch: [Apple Watch Series 8](https://amzn.to/4ehyOax)
+### Watch: [Coros Pace Pro](https://coros.com/pacepro)
 
-I started with the Series 3 and when that had battery issues and its CPU was out-matched by watchOS, I upgraded to the Series 8.
-Overall, both have been great with the Series 8 bringing many enhancements and an improved user experience.
-There are many great features of the Apple Watch that I won't enumerate here because they are covered well elsewhere.
-I will say that I'm not wed to this device; it has short comings that, when the time comes, will cause me to conduct a survey of the smart watch and fitness tracker market.
+My first and second smart watches were Apple Watches.
+While a good entry level running watch and a good smart watch for more general use, it is lacking in a few ways.
+As I've been running longer and longer distances, I began to hit the limit of the battery of the Apple Watch.
+Even running with the always-on screen off, I was finishing runs with 10% or so percent left of the battery.
+Also, I only use the smart watch for exercise and sleeping, otherwise wearing a [traditional watch]({{< ref "/hobbies/watches" >}}), so all of the other smart watch features were useless distractions to me.
+
+Thus, I decided to upgrade to a more running-focused watch.
+After much research, I decided on the Coros Pace Pro.
+There are many great features, but here are the handful that swayed my decision:
+
+1. Stellar battery life
+2. Maps and navigation
+3. High-accuracy GPS
+4. No bloat from unwanted smart watch features (e.g., notifications, social media)
+5. Bright, high-resolution, responsive AMOLED screen
+
+In the end, the price-to-useful-features ratio was perfect for me.
+Many of the other offerings from Garmin, etc. are great products, but this fit my needs perfectly and at a much lower price.
+I've been running with the Coros Pace Pro for several months now and love it.
 
 ### Pack: [Solomon ADV Skin 5](https://amzn.to/4c07Oux)
 
@@ -222,11 +237,14 @@ These glasses are great because they are relatively cheap, light, polarized, and
 The main selling feature over other cheap glasses is that they don't bounce when I run.
 My go-to style is the OG style in [Ginger's Soul](https://amzn.to/3RtJA3x) black.
 
-### Energy gels: [Huma Gels Plus](https://amzn.to/3RvhqFj)
+### Energy gels: [Huma Gels Plus](https://amzn.to/3RvhqFj) and [Gu Energy Gels](https://www.rei.com/product/610028/gu-energy-gel)
 
-I have experimented with a few different options, but don't have enough experience to provide strong recommendations on energy gels.
-I will say, though, that having these energy gels makes a massive difference on longer runs (anything over an hour).
-Having one or two of these on a 14-mile run makes a massive difference in pushing at the end[^2].
-I highlight the Huma Plus gels here though because they provide electrolytes while most other gels provide only energy and caffeine.
+I have experimented with a few different options, and have found them all to be more-or-less the same.
+I haven't found huge differences in how they make me *feel* during or after a run.
+The primary exception would be the Huma Gels Plus since they have electrolytes – these make a large difference on longer, hotter runs.
+In general, these all contain a tons of simple carbs that our body can easily use with minimal digestion.
+From there, they vary on flavor and consistency, so it's work experimenting and seeing what you enjoy and your stomach tolerates.
 
-[^2]: Assuming you've remained hydrated, of course.
+More recently, I will carry a couple of Gu Energy Gels, but predominately rely on candy for simple carbs (I love jelly beans and gummy bears), bring salt tablets for my electrolytes, then other foods if I need more sustenance (e.g., granola bars, banana bread, nuts).
+I buy the candy in bulk and weigh out some into zip-lock baggies for individual runs.
+Overall, this is far cheaper than using gels and, on longer runs that can get monotonous at times, more enjoyable (I love candy, so this may be biased).
