@@ -32,7 +32,7 @@ To start, I opened the webpage in Web Inspector mode as shown in the image below
 
 <img src="./assets/web-inspector-menu.jpg" alt="Menu for opening the Web Inspector.">
 
-From there, I looked for something in the code of the page that I could use as an indiciator for if the net is out-of- or in-stock.
+From there, I looked for something in the code of the page that I could use as an indicator for if the net is out-of- or in-stock.
 I tried a few options, but found that the `price--sold-out` tag on the price section of the page to be sufficient.
 
 <img src="./assets/web-inspector.jpg" alt="Web Inspector panel on the Thorofare webpage.">
@@ -41,7 +41,7 @@ Ideally, I could confirm that this tag is absent in an in-stock item, but at the
 The best I could do instead was to delete this tag in the Inspector pane to show that the page would then render showing the net was in-stock.
 It's not perfect, but it was enough for this project.
 
-For the code (full module available [here]((https://github.com/jhrcook/colter/blob/ebc4c087df32e2f2dc927881e1600561495bfdfd/src/colter/scraper.py))[^1]), I started with the main function `is_thorofare_net_soldout()` that just returns `True` or `False` to answer that question.
+For the code (full module available [here](https://github.com/jhrcook/colter/blob/ebc4c087df32e2f2dc927881e1600561495bfdfd/src/colter/scraper.py)[^1]), I started with the main function `is_thorofare_net_soldout()` that just returns `True` or `False` to answer that question.
 
 [^1]: The only other function in the module, `_extract_price_badge_data()`, just contains the code for an earlier implementation. It isn't used in the program, simply there to hold code for future reference.
 

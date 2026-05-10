@@ -27,12 +27,12 @@ Below, I discuss both of these tools and how I used them.
 1. 'distill' makes it easy to publish a data analysis as a website.
 2. I particularly like how customizable and feature rich it is, while remaining simple and out-of-the-way.
 
-As [described]([https://rstudio.github.io/distill/) by its creators, "distill for R Markdown is a web publishing format optimized for scientific and technical communication."
-To this end, it inlcudes powerful formatting options of tables and figures, interactive visualizations, and code and math formatting.
+As [described](https://rstudio.github.io/distill/) by its creators, "distill for R Markdown is a web publishing format optimized for scientific and technical communication."
+To this end, it includes powerful formatting options of tables and figures, interactive visualizations, and code and math formatting.
 Thankfully, the [documentation](https://rstudio.github.io/distill/) matches the expansive feature set — it is incredibly descriptive and well organized.
 I highly recommend looking through the various documentation pages before getting started on a new site.
 
-I really enjoyed using 'distill' for this analysis project because it uses the the familliar R Markdown format, but adds many additional features compared to rendering as a markdown or HTML file.
+I really enjoyed using 'distill' for this analysis project because it uses the the familiar R Markdown format, but adds many additional features compared to rendering as a markdown or HTML file.
 Importantly, however, it does not noticeably increase the rendering time when building the site.
 This analysis was primarily constituted by a ~1,000 line R Markdown file, but the entire site could be built within two minutes (with some caching of long running computations discussed in the following section).
 

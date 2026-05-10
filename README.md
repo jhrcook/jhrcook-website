@@ -50,5 +50,5 @@ Finally, set the desired version of Hugo in the [netlify.toml](./netlify.toml) a
 
 Last performed:
 
-- January 30, 2024
-- Hugo version: 1.142.0
+- May 10, 2026
+- Hugo version: 0.160.1

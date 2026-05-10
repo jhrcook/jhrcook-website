@@ -20,7 +20,7 @@ This was an experimental iOS app explaining how to make a custom interactive tra
 
 ### Resources
 
-I used the [SnapKit library]((http://snapkit.io)) to make the contraints on my views.
+I used the [SnapKit library](http://snapkit.io) to make the constraints on my views.
 
 This [GitHub repository](https://github.com/masamichiueta/FluidPhoto) (and my [fork](https://github.com/jhrcook/FluidPhoto)) and its paired [Medium article](https://medium.com/@masamichiueta/create-transition-and-interaction-like-ios-photos-app-2b9f16313d3) were used as a guide. It has the transition that I wanted to replicate, but also a lot of other stuff in-between. Unfortunately, the accompanying article was not too helpful, so I tried to be more comprehensive and explanatory, here.
 
