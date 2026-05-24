@@ -153,7 +153,7 @@ More so, the creation of the SAS was the origin of the modern warfare tactic to 
 This book is written in the classic Macintyre style of a novel-esque narrative mixing in memoirs and biographies of the key players.
 I always finish his books thinking, "I need to read more Macintyre," and *Rogue Heroes* was no different.
 
-<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481673039l/649361._SX98_.jpg"/></a>
 
 ## *Farewell to Manzanar*
 
@@ -180,7 +180,7 @@ Rating: 4 / 5
 
 A collection of fly fishing stories that served as a sufficient substitute for days when I was unable to get out on the local stream.
 
-<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388201196l/32289._SX98_.jpg"/></a>
 
 ## *A Primate's Memoir*
 
