@@ -177,6 +177,24 @@ She documents the conditions of the camp and how it effected the different perso
 Importantly, she tries to disentangle the consequences of their actions to understand how much was driven by their character versus their condition as prisoners.
 *Farewell to Manzanar*, thought-provoking and insightful, was a good entrypoint into this difficult part of American history that I plan to investigate further.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347943519l/612410._SX98_.jpg"/></a>
+
+## *Standing in a River Waving a Stick*
+
+**John Gierach** <br>
+Rating: 4 / 5
+
+A collection of fly fishing stories that served as a sufficient substitute for days when I was unable to get out on the local stream.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *A Primate's Memoir*
+
+**Author** <br>
+Rating: X / 5
+
+Text. -->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
