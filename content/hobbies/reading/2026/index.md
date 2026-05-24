@@ -140,6 +140,25 @@ I was hoping for a true history on marriage, so this was rather disappointing.
 To be fair, the book started off with a couple of chapters on the believed origin of marriage across the planet, but afterwards, most of history and the globe was ignored.
 In the end, this is more a book on feminism in marriage in the USA in the 1900's than a broader history of marriage.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460626650l/28503837._SX98_.jpg"/></a>
+
+## *Rogue Heroes*
+
+**Ben Macintyre** <br>
+Rating: 4.5 / 5
+
+Another exemplary book about WWII espionage from Ben Macintyre.
+This time, Macintyre illustrates the birth and early years of the Special Air Services in the British army.
+More so, the creation of the SAS was the origin of the modern warfare tactic to fight with small, elite units behind enemy lines.
+This book is written in the classic Macintyre style of a novel-esque narrative mixing in memoirs and biographies of the key players.
+I always finish his books thinking, "I need to read more Macintyre," and *Rogue Heroes* was no different.
+
+<!-- Farewell to Manzanar
+
+Standing in a River Waving a Stick
+
+A Primate's Memoir -->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
@@ -153,6 +172,5 @@ Text. -->
 
 **Currently reading:**
 
-1. *Rogue Heroes* by Ben Macintyre
+1. *The Story of Birds* by Steve Brusatte
 2. *A Concise Introduction To Pure Mathematics* by Martin W. Liebeck
-3. *Standing in a River Waving a Stick* by John Gierach
