@@ -153,12 +153,6 @@ More so, the creation of the SAS was the origin of the modern warfare tactic to 
 This book is written in the classic Macintyre style of a novel-esque narrative mixing in memoirs and biographies of the key players.
 I always finish his books thinking, "I need to read more Macintyre," and *Rogue Heroes* was no different.
 
-<!-- Farewell to Manzanar
-
-Standing in a River Waving a Stick
-
-A Primate's Memoir -->
-
 <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Farewell to Manzanar*
@@ -171,7 +165,7 @@ Otherwise, growing up in Los Angeles in the early 2000's, I never learned much a
 Thus, I didn't have much background on these camps going into this book.
 What immediately struck me was that *Farewell to Manzanar* was far more generous in it's description of the internment camp than I expected.
 While Houston was far from declaring it a wonderful part of her childhood, she also did not universally blame all the ills of her life, both during and after Manzanar, on this experience.
-I feel that were this written in today's political climage, it would be a larger condemnation of America's institutions and Americans, finishing with grand declarations about the woes of the oppressed.
+I feel that were this written in today's political climate, it would be a larger condemnation of America's institutions and Americans, finishing with grand declarations about the woes of the oppressed.
 Instead, she gave a clear-eyed view of her childhood with the perspective that years of hindsight affords.
 She documents the conditions of the camp and how it effected the different personalities in her family.
 Importantly, she tries to disentangle the consequences of their actions to understand how much was driven by their character versus their condition as prisoners.
@@ -186,14 +180,18 @@ Rating: 4 / 5
 
 A collection of fly fishing stories that served as a sufficient substitute for days when I was unable to get out on the local stream.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *A Primate's Memoir*
 
-**Author** <br>
-Rating: X / 5
+**Robert M. Sapolsky** <br>
+Rating: 4 / 5
 
-Text. -->
+My first, but definitely not my last, Sapolsky book.
+I came into this book not knowing much of Sapolsky or what to expect – rather, I expected something more akin to a story of a particular biological phenomenon a la Stephen J. Gould.
+Instead, I was treated to an enthralling tale of the author's early scientific career.
+Along with thrilling stories of adventure and cultural confusions, Sapolsky has a great writing style and sense of humor.
+I look forward to finding more of his books.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
