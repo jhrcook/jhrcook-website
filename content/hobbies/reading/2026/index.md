@@ -159,6 +159,24 @@ Standing in a River Waving a Stick
 
 A Primate's Memoir -->
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *Farewell to Manzanar*
+
+**Jeanne Wakatsuki Houston, James D. Houston** <br>
+Rating: 4 / 5
+
+I hadn't, but many of my friends read *Farewell to Manzanar* at some point in an English class at school.
+Otherwise, growing up in Los Angeles in the early 2000's, I never learned much about the internment of the Japanese during WWII.
+Thus, I didn't have much background on these camps going into this book.
+What immediately struck me was that *Farewell to Manzanar* was far more generous in it's description of the internment camp than I expected.
+While Houston was far from declaring it a wonderful part of her childhood, she also did not universally blame all the ills of her life, both during and after Manzanar, on this experience.
+I feel that were this written in today's political climage, it would be a larger condemnation of America's institutions and Americans, finishing with grand declarations about the woes of the oppressed.
+Instead, she gave a clear-eyed view of her childhood with the perspective that years of hindsight affords.
+She documents the conditions of the camp and how it effected the different personalities in her family.
+Importantly, she tries to disentangle the consequences of their actions to understand how much was driven by their character versus their condition as prisoners.
+*Farewell to Manzanar*, thought-provoking and insightful, was a good entrypoint into this difficult part of American history that I plan to investigate further.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
