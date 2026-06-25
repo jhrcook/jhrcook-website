@@ -67,7 +67,7 @@ I provide computational and analytic support to multiple gene editing therapy pr
 
 2025 - Current <br>
 
-I support internal teams and external clients in their use and development of Illumina's data analysis software.
+I support internal teams and external clients in their development and use of Illumina's genomic sequencing software, <a href="https://www.illumina.com/products/by-type/informatics-products/dragen-secondary-analysis.html">DRAGEN</a>.
 
 {{< /timelineItem >}}
 
@@ -87,7 +87,7 @@ I am currently learning Rust and have experience with Swift for iOS, macOS, and 
 {{< /alert >}}
 
 In graduate school, I discovered a passion for Bayesian statistics.
-Below is a project page I put together collating as many of my Bayesian analyses as I could.
+Below is a project page I compiled many of the Bayesian analyses I performed.
 Currently, my job does not directly utilize this specific skill set, but Bayesian statistics still influences my reasoning process.
 
 {{< article link="/jhrcook-website/projects/bayesian-data-analysis/" >}}
