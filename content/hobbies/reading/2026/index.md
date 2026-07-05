@@ -208,14 +208,24 @@ It's certainly possible that this distinction is on me, perhaps I was in a diffe
 Regardless, the book was still tremendously interesting, providing both the high-level view of the evolution of birds from dinosaurs while digging into fine details where warranted.
 I sincerely hope this series continues, there are still plenty of evolutionary branches he has yet to touch – he still has all of invertebrates!
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924766l/26348._SX98_.jpg"/></a>
 
-## *Title*
+## *Paris 1919*
 
-**Author** <br>
-Rating: X / 5
+**Margaret MacMillan** <br>
+Rating: 4.0 / 5
 
-Text. -->
+To start, a fair review of this books is difficult as I don't believe I was the intended audience for this book.
+This book is most appropriate perhaps for someone well versed in European and Asian history pre-WWII than me.
+As a relative novice, so much of the people and topics were new to me, that I am sure I missed important details.
+Yet, I learned a tremendous amount and feel that this single source provided a satiating amount of information on this topic.
+If you want to learn about the year or so during the creation of the Treaty of Versailles, this would be a fantastic place to start.
+It is incredibly well-researched, providing thorough coverage of every aspect leading to the signing of the treaty, and adding some insight into the aftermath.
+It also discuss the turmoil and restlessness in the various regions impacted by the treaty – this was powerful context to the decisions made by the World Powers in the crafting of the document.
+Prior to reading this book, I felt that my knowledge of WWI was lacking (though I have read a handful of related books already this year).
+My understanding of it's implications for the couple of decades preceding WWII were insufficient.
+While long and highly detailed, MacMillan provides a comprehensive description and discussion of the closure to WWI.
+Though it's a slower read, the effort was rewarded.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
