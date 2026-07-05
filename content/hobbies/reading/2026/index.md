@@ -193,6 +193,30 @@ Instead, I was treated to an enthralling tale of the author's early scientific c
 Along with thrilling stories of adventure and cultural confusions, Sapolsky has a great writing style and sense of humor.
 I look forward to finding more of his books.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761745244l/239744739._SX98_.jpg"/></a>
+
+## *The Story of Birds*
+
+**Steve Brusatte** <br>
+Rating: 4 / 5
+
+After having loved his previous two editions in this natural history trilogy – *The Rise and Fall of the Dinosaurs* and *The Rise and Reign of the Mammals* – I instantly picked this one up from the famous [Powell's Bookstore](https://www.powells.com) in Portland, OR.
+While not as enchanting as his previous two, this detailed story of the evolution of birds was still plenty informative.
+I found that the *Dinosaurs* and *Mammals* books had a certain fizz about this, for lack of a better term.
+They lit an excitement in me that was missing in this one.
+It's certainly possible that this distinction is on me, perhaps I was in a different frame of mind when reading the previous two compared to this one.
+Regardless, the book was still tremendously interesting, providing both the high-level view of the evolution of birds from dinosaurs while digging into fine details where warranted.
+I sincerely hope this series continues, there are still plenty of evolutionary branches he has yet to touch – he still has all of invertebrates!
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *Title*
+
+**Author** <br>
+Rating: X / 5
+
+Text. -->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
