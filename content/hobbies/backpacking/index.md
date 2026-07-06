@@ -15,12 +15,12 @@ It was difficult, but I had a great time.
 I specifically recall leaving on the third day with a feeling of incredible mental clarity – the noise and background hum that had me feeling "congested" had finally been cleared.
 I was hooked.
 
-Since then, I have gone on a few more trips to the White Mountains and done some simple camping at the local [Wompatuck State Park](https://www.mass.gov/locations/wompatuck-state-park).
+Since then, I have gone on a few more trips to the [White Mountains](https://en.wikipedia.org/wiki/White_Mountains_(New_England)) and done some simple camping at the local [Wompatuck State Park](https://www.mass.gov/locations/wompatuck-state-park).
 When I visit my parents in Phoenix, AZ, I often will spend a few nights in the nearby [Tonto National Forest](https://www.fs.usda.gov/tonto/) and I have plans to explore the other nearby public lands.
 More than anything, I have developed a better appreciation for just being outside for extended periods of time.
 Going on longer hikes, longer runs, staying out fishing for the entire afternoon, etc.
 
-Below are some photos from my backpacking trips followed by a list of my favorite pieces of gear for those interested.
+Below are some photos from my backpacking trips followed by a collection of backpacking-related blog posts and  a list of my favorite pieces of gear for those interested.
 
 {{< gallery >}}
   <img src="gallery/IMG_7361.jpeg" class="grid-w33" />
@@ -33,6 +33,10 @@ Below are some photos from my backpacking trips followed by a list of my favorit
   <img src="gallery/IMG_6369.jpeg" class="grid-w33" />
   <img src="gallery/IMG_8614.jpeg" class="grid-w33" />
 {{< /gallery >}}
+
+## Blog Posts
+
+{{< article link="/jhrcook-website/posts/2026-07-02_golden-trout-wilderness/" showSummary=true compactSummary=true >}}
 
 ## Gear
 
