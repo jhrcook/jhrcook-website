@@ -240,5 +240,5 @@ Text. -->
 
 **Currently reading:**
 
-1. *The Story of Birds* by Steve Brusatte
-2. *A Concise Introduction To Pure Mathematics* by Martin W. Liebeck
+1. *Exploring Calvin and Hobbes* by Bill Watterson and Robb Jenny
+2. *If There Is No God* by Dennis Prager
