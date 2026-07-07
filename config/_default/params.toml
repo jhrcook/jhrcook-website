@@ -16,6 +16,7 @@ enableCodeCopy = true
 # robots = ""
 
 disableImageOptimization = false
+disableImageZoom = false
 disableTextInHeader = false
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
@@ -24,6 +25,7 @@ disableTextInHeader = false
 highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
+
 
 [header]
 layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur

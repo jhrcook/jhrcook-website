@@ -22,7 +22,7 @@ The weather and bugs cooperated, and this turned out to be an incredible trip.
 
 The [Golden Trout Wilderness](https://en.wikipedia.org/wiki/Golden_Trout_Wilderness) (GTW) is a federally designated parcel of land that overlaps [Inyo National Forest](https://www.fs.usda.gov/r05/inyo) and [Sequoia National Forest](https://www.fs.usda.gov/r05/sequoia), separated by the Kern River.
 
-![Map of the GTW.]()
+![Map of the GTW.](./images/golden-trout-map.jpg)
 
 As the name suggests, it is home to the golden trout.
 There are three species of golden trout: the [California golden trout](https://wildlife.ca.gov/Fishing/Inland/California-Golden-Trout), the [Kern River rainbow trout](https://wildlife.ca.gov/Fishing/Inland/Kern-River-Rainbow-Trout), and the [Little Kern golden trout](https://wildlife.ca.gov/Fishing/Inland/Little-Kern-Golden-Trout).
@@ -31,7 +31,7 @@ This stunning fish, designated the California state freshwater fish in 1947, is 
 It is endemic to this region, occurring only in a few small rivers on the Kern Plateau, namely the Golden Trout Creek and the South Fork of the Kern; it is separated from the main stem of the Kern by a series of waterfalls.
 Otherwise, the Kern River rainbow trout is found in the main stem of the Kern River, and the Little Kern golden trout is found in the Little Kern River on the western portion of the GTW.
 
-![Photos of california golden trout.]()
+![Photos of california golden trout.](./images/IMG_4891.jpeg)
 
 Genetically, the golden trout are highly related to the coastal rainbow trout (or steelhead) found along the Pacific coast.
 After millions of years of separation by the steep slopes of the Sierra Nevada, these three species have developed their own unique colors and patterns.
@@ -44,6 +44,8 @@ The other two species, while more visually similar to rainbow trout, still have 
 
 We started from Cottonwood Pass Trailhead, and traveled west over Cottonwood Pass, continuing down along Golden Trout Creek, making camp on a hill of decomposed granite for the first night.
 We made camp in the middle of the afternoon, which allowed us a few hours of fishing on the Golden Trout Creek.
+
+![A marmot overlooking his domain before we traverse Cottonwood Pass.](./images/IMG_4876.jpeg)
 
 Fishing in Big Whitney Meadow was like something out of a movie.
 The scenery was stunning in this meadow surrounded by gorgeous mountain peaks.
@@ -59,7 +61,14 @@ After one of the most incredible afternoons of fishing in my life, both due to t
 
 [^1]: Jacob doesn't fish and hardly tried to learn to fly cast. Even still, he was able to catch a handful of California golden trout by just high-sticking through the water.
 
-![Photos of Golden Trout Creek in Big Whitney Meadow.]()
+{{< gallery >}}
+  <img src="./images/IMG_4877.jpeg" class="grid-w100" />
+  <img src="./images/IMG_4881.jpeg" class="grid-w50" />
+  <img src="./images/IMG_7682.jpeg" class="grid-w50" />
+  <img src="./images/IMG_4882.jpeg" class="grid-w100" />
+  <img src="./images/IMG_4892.jpeg" class="grid-w50" />
+  <img src="./images/IMG_4895.jpeg" class="grid-w50" />
+{{< /gallery >}}
 
 ### Day Two
 
@@ -77,7 +86,14 @@ While I was fishing for the afternoon, Jacob went and climbed up to get a nice v
 I was surprised by the amount of feces at the top, presumably from a medium-sized rodent.
 In the morning that was confirmed as we saw two marmots looking out over their domain.
 
-![Photo of flowers and the pile of rocks.]()
+{{< gallery >}}
+  <img src="./images/IMG_4914.jpeg" class="grid-w100" />
+  <img src="./images/IMG_4917.jpeg" class="grid-w50" />
+  <img src="./images/IMG_4918.jpeg" class="grid-w50" />
+  <img src="./images/IMG_4937.jpeg" class="grid-w100" />
+  <img src="./images/IMG_4947.jpeg" class="grid-w100" />
+  <img src="./images/IMG_4934.jpeg" class="grid-w100" />
+{{< /gallery >}}
 
 ### Day Three
 
@@ -88,7 +104,12 @@ Overall, I was amazed by the grandeur of the Sierra Nevada.
 The landscape was incredibly unique: shifting abruptly from alpine zones to wooded forests, barren beaches of decomposed granite butting up against lush meadows with peaceful meandering streams.
 At every moment there was something beautiful to look at.
 
-![Photo of the Sierras.]()
+{{< gallery >}}
+  <img src="./images/IMG_4968.jpeg" class="grid-w50" />
+  <img src="./images/IMG_4960.jpeg" class="grid-w50" />
+  <img src="./images/IMG_4971.jpeg" class="grid-w100" />
+  <img src="./images/IMG_4970.jpeg" class="grid-w100" />
+{{< /gallery >}}
 
 As a final note, I want to comment on the surprisingly few mosquitoes we encountered.
 Before the trip, I was a bit concerned that we would constantly be surrounded by mosquitoes.
@@ -108,23 +129,21 @@ Below are some notes on things I would change for similar backpacking trips.
 In general, our route was great, but after seeing how much ground we could comfortably cover and still do some fishing, I think I would aim to follow down Golden Trout Creek and then up the South Fork of the Kern.
 One slight detour would maybe be down to a meadow where Johnson Creek joins the Golden Trout Creek.
 
-![Our track from OnX.]()
+![Our track from OnX.](./images/onx-track.jpeg)
 
 I had seen some photos and watched videos but didn't really understand what the meadows would be like.
 In places such as Big Whitney Meadow the creek was surprisingly accessible.
-But the stretch of the South Fork of the Kern that we were on was surrounded by alders and difficult to access.
+But the stretch of the South Fork of the Kern that we were on was surrounded by willows and difficult to access.
 What I found after doing *ad hoc* inspections of the satellite images is that you can actually see where these trees are and aren't along the rivers in the meadows.
 Were I to do this again, I would spend more time before the trip locating meadows and specific stretches of each river that have good stream access.
 
-![Examples on a satalite image of where the water is accessible.]()
+![Examples on a satellite image of where the water is accessible.](./images/willow-access-demo.jpeg)
 
 ### Gear
 
 To start, here were some things that with hindsight I could change, but I don't regret doing.
 For instance I was hoping to use my tarp, but because of the bug pressure, I figured I'd bring my full tent.
 In the end, I probably would have been fine with the tarp, but I think brining the fully enclosed tent was the prudent choice.
-
-![Photo of our campsite on the second night.]()
 
 The following are some gear changes and tweaks that I would make for the next trip:
 
@@ -146,4 +165,4 @@ I don't currently own one of these little stoves, so that will be something I sh
 
 [^2]: From my reading of the campfire prohibition at the time of our trip, I think *technically* a small wood-stove would have been illegal. While I think it was still permissible in the intent of the law if not the letter, I would have to weigh the risk of bringing it on this trip were it an option.
 
-![A final view of the meadows encolsed within the Sierras as we traversed back over Trail Pass.]()
+![One last look at a beautiful GTW meadow.](./images/IMG_4912.jpeg)
