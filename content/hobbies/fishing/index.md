@@ -61,11 +61,16 @@ Though it was raining here or there, we were on fish, and I caught a monster rai
 
 ### The Western Native Trout Challenge
 
-I have begun the [Western Native Trout Challenge](https://westernnativetroutchallenge.org/) (unofficially as I have yet to register, though I will likely do so in the future). I have kicked it off with the Gila Trout caught in Dude Creek along the Mogollon Rim in Payson, AZ.
-Next, I think, are the three subspecies of Golden Trout in the southern Sierras of California.
+I have begun the [Western Native Trout Challenge](https://westernnativetroutchallenge.org/) (unofficially as I have yet to register, though I will likely do so in the future).
+In 2025, I kicked it off with the Gila Trout caught in Dude Creek along the Mogollon Rim in Payson, AZ, and in 2026, I continued with the California Golden Trout.
+Next, I think, are the remaining two subspecies of Golden Trout in the southern Sierras of California.
 
 {{< gallery >}}
     <img src="assets/gila-01.jpeg" class="grid-w100" />
     <img src="assets/gila-02.jpeg" class="grid-w50" />
     <img src="assets/gila-03.jpeg" class="grid-w50" />
 {{< /gallery >}}
+
+<br>
+
+{{< article link="/jhrcook-website/posts/2026-07-02_golden-trout-wilderness/" showSummary=true compactSummary=true >}}
