@@ -9,6 +9,8 @@ lastmod: 2024-12-29T07:00:00-05:00
 featured: false
 draft: false
 showHero: true
+series: ["Book Retrospectives"]
+series_order: 3
 ---
 
 I successfully replaced less valuable uses of my free time with reading in 2024 resulting in the enjoyment (for the most part) of thirty eight books.

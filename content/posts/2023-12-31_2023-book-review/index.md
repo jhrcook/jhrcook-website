@@ -8,6 +8,8 @@ date: 2023-12-31T00:00:00-00:00
 lastmod: 2023-12-04T13:50:08-04:00
 featured: false
 draft: false
+series: ["Book Retrospectives"]
+series_order: 2
 ---
 
 This year, I made a cognizant push to read more frequently and consistently.
