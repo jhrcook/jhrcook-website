@@ -239,6 +239,21 @@ This book was a refreshing reminder of his key teachings.
 His humor and genuine desire to engage with the audience come through well in this documentation of a dialog he had with high school students.
 An easy read – a few pages before bed was a very pleasant way to end the day.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400929248l/22151695._SX98_.jpg"/></a>
+
+## *Exploring Calvin and Hobbes*
+
+**Robb Jenny & Bill Watterson** <br>
+Rating: 4.5 / 5
+
+I came across an article recently discussing Bill Watterson's protection of the *Calvin and Hobbes* Intellectual Property and Likeness.
+For whatever reason, it reignited the nostalgia of reading these comics as a child.
+I flipped through a few of the books I had that are compilations of the strips, recalling enjoying them as a child.
+I decided to look for books that provide more detail on the history and creation of *Calvin and Hobbes* and came across *Exploring Calvin and Hobbes*, a companion to the exhibition at Billy Ireland Cartoon Library & Museum at Ohio State University from 2014.
+While it's a short book, the interview for the first half of the book with Bill Watterson and the curator of the exhibition was enjoyable.
+The second half of the book discussed some of the themes and motifs of *Calvin and Hobbes*.
+I think this is just the start to a series of books where I'll learn more about *Calvin and Hobbes*.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
