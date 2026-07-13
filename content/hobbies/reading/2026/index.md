@@ -227,6 +227,18 @@ My understanding of it's implications for the couple of decades preceding WWII w
 While long and highly detailed, MacMillan provides a comprehensive description and discussion of the closure to WWI.
 Though it's a slower read, the effort was rewarded.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1767958614l/240751804._SX98_.jpg"/></a>
+
+## *If There Is No God*
+
+**Dennis Prager** <br>
+Rating: 4.5 / 5
+
+Growing up, we would listen to Denis Prager on the radio and go to his services for the Jewish High Holy Days of Yom Kippur and Rosh Hashanah.
+This book was a refreshing reminder of his key teachings.
+His humor and genuine desire to engage with the audience come through well in this documentation of a dialog he had with high school students.
+An easy read – a few pages before bed was a very pleasant way to end the day.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
@@ -240,5 +252,4 @@ Text. -->
 
 **Currently reading:**
 
-1. *Exploring Calvin and Hobbes* by Bill Watterson and Robb Jenny
-2. *If There Is No God* by Dennis Prager
+1. *Schindler's List* by Thomas Keneally
