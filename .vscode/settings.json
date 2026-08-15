@@ -8,4 +8,7 @@
         "mypy",
         "Tesseract"
     ],
+    "todo-tree.filtering.excludeGlobs": [
+        "**/themes/blowfish/"
+    ]
 }
