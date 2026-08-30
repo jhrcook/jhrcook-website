@@ -295,14 +295,20 @@ It covers a large spectrum of fly fishing, though it predominately focused on tr
 It's fun to flick through an learn little tidbits from experienced, respected anglers.
 I expect to revisit sections of this book as I continue in this hobby.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458497075l/28693693._SX98_.jpg"/></a>
 
 ## *Israel*
 
 **Daniel Gordis** <br>
-Rating: X / 5
+Rating: 4.5 / 5
 
-Text. -->
+After a brief overview of ancient Judaism and Israel, this book focusses predominately on Israel from mid-1800s to the modern day.
+To start, it's very well written and relatively easy to read; it covers a lot of ground without dwelling on topics for too long.
+Therefore, rather than a comprehensive text on the history of modern Israel, Gordis provides the facts of key moments and insight into the general story of the region and its peoples.
+It is also clear that this book was written with an eye on the current issues that Israel faces, both domestically and abroad.
+Gordis does not shy away from the controversies that Israel still battles today, not does he cast Israel and some evil colonial force.
+In my opinion, he does a great job at portraying the key themes of the Israel's history, the beautiful and the ugly.
+This would be an easy starting place to recommend for anyone seeking a better understanding of the current conflicts in Israel.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
@@ -317,4 +323,4 @@ Text. -->
 
 **Currently reading:**
 
-1. *Schindler's List* by Thomas Keneally
+1. *The Double Helix* by James Watson
