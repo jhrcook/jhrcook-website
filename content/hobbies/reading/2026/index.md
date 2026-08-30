@@ -283,14 +283,17 @@ That said, my opinions may be influenced by the sense that nihilism is overplaye
 If *Fight Club* was at the beginning or forefront of this movement in media, then my criticisms are unwarranted.
 Still, I can only provide my view, which as such, was underwhelmed.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348440517l/2854945._SX98_.jpg"/></a>
 
 ## *1001 Fly Fishing Tips*
 
 **Jay Nichols** <br>
-Rating: X / 5
+Rating: 3.75 / 5
 
-Text. -->
+I picked this up from a (non-fly fisherman) friend's "free library."
+It covers a large spectrum of fly fishing, though it predominately focused on trout fishing.
+It's fun to flick through an learn little tidbits from experienced, respected anglers.
+I expect to revisit sections of this book as I continue in this hobby.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
