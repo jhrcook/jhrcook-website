@@ -254,6 +254,46 @@ While it's a short book, the interview for the first half of the book with Bill 
 The second half of the book discussed some of the themes and motifs of *Calvin and Hobbes*.
 I think this is just the start to a series of books where I'll learn more about *Calvin and Hobbes*.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722260788l/375013._SX98_.jpg"/></a>
+
+## *Schindler's List*
+
+**Thomas Keneally** <br>
+Rating: 4.25 / 5
+
+This novel tells the heroic story of Oskar Schindler's attempt to save as many Jews as possible from the fate of the Final Solution during the Holocaust from inside the Reich.
+Simultaneously, while recounting Schindler's journey, it documents first-hand accounts of the horrors of every stage of the Nazi's attempted extermination of the European Jewery.
+The individual acts of evil described are difficult to believe in the modern era, only the more reason that they recorded and taught to future generations.
+The unbelievable situation of the Holocaust also forced difficult moral decisions of life and death, decisions that Schindler had to deal with constantly.
+*Schindler's List* brings the reader through the horrors, the impossible decisions, the moral ambiguity, and the tenuous hope of Oskar Schindler and Schindler's Jews.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *Fight Club*
+
+**Chuck Palahniuk** <br>
+Rating: X / 5
+
+Text. -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *1001 Fly Fishing Tips*
+
+**Jay Nichols** <br>
+Rating: X / 5
+
+Text. -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *Israel*
+
+**Daniel Gordis** <br>
+Rating: X / 5
+
+Text. -->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
