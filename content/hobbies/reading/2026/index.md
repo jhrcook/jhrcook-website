@@ -267,14 +267,21 @@ The individual acts of evil described are difficult to believe in the modern era
 The unbelievable situation of the Holocaust also forced difficult moral decisions of life and death, decisions that Schindler had to deal with constantly.
 *Schindler's List* brings the reader through the horrors, the impossible decisions, the moral ambiguity, and the tenuous hope of Oskar Schindler and Schindler's Jews.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558216416l/36236124._SX98_.jpg"/></a>
 
 ## *Fight Club*
 
 **Chuck Palahniuk** <br>
-Rating: X / 5
+Rating: 2.75 / 5
 
-Text. -->
+I think it is perhaps a generational thing, but this book just did not appeal to me like I think it did when originally published.
+It was dark and nihilistic with a general feeling feeling of cynicism.
+Because it was so far away from how I generally approach life, it just did not connect.
+The characters it came off as immature and resentful rather than the clever, determined "freedom fighters" that I think I was supposed to view them as.
+The novel is well written and has some interesting moments, I just couldn't get past my disdain for the grimy, loser lead characters.
+That said, my opinions may be influenced by the sense that nihilism is overplayed and cliche in the modern era of art.
+If *Fight Club* was at the beginning or forefront of this movement in media, then my criticisms are unwarranted.
+Still, I can only provide my view, which as such, was underwhelmed.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
