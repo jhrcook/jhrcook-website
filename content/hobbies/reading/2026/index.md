@@ -310,6 +310,49 @@ Gordis does not shy away from the controversies that Israel still battles today,
 In my opinion, he does a great job at portraying the key themes of the Israel's history, the beautiful and the ugly.
 This would be an easy starting place to recommend for anyone seeking a better understanding of the current conflicts in Israel.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384152213l/126061._SX98_.jpg"/></a>
+
+## *The Double Helix*
+
+**James D. Watson** <br>
+Rating: 4 / 5
+
+This was a nice, short memoir recounting one of the most important scientific discoveries of the twentieth century.
+Many of the critiques of this book are about disagreements about the actual fact patterns or perceptions of the interactions between the key scientists, namely with Rosalind Franklin.
+Yet, I think this book is intended as a telling of the story from the perspective of one of the characters.
+Plenty of other books about the discovery of the structure of DNA include other perspectives and evidence from the time to portray a more factual or well-rounded picture, but I don't think it reduces the importance of this one.
+I also enjoyed the miscellaneous, tangential stories that Watson shares.
+Some may find them (correctly) unnecessary or irrelevant to nucleic acid research, but they often involve other prominent contemporary scientists, fun tie-ins of history that I enjoyed.
+In general, they also illustrate a realistic story of discovery by including the other aspects of a scientist's life, rather than painting a straight line through the critical insights.
+Overall, this is a short read that should be included in any young biologist's reading list.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *In Our Time*
+
+**Ernest Hemingway** <br>
+Rating: X / 5
+
+Text. -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *Fossil Men*
+
+**Kermit Pattison** <br>
+Rating: X / 5
+
+Text. -->
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *Assembling California*
+
+**John McPhee** <br>
+Rating: X / 5
+
+Text. -->
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
@@ -323,4 +366,4 @@ Text. -->
 
 **Currently reading:**
 
-1. *The Double Helix* by James Watson
+1. *Marie Curie* by Susan Quinn
