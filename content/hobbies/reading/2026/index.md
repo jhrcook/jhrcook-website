@@ -349,11 +349,25 @@ In primary school, I had learned about Lucy the *Australopithecus*, but not much
 This book fills in the next couple of decades of consensus around the early evolution of man.
 I thoroughly enjoyed *Fossil Men* and would recommend it to anyone who generally enjoys Stephen J. Gould or other in-depth discussions of biology.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388306591l/19898._SX98_.jpg"/></a>
 
 ## *Assembling California*
 
 **John McPhee** <br>
+Rating: 3.5 / 5
+
+I really enjoyed most of this book, but I feel like the ending dragged on a bit and it also strayed away from a focus California.
+The first half of the book is very interesting and covers a lot of the natural and human history of California.
+From there, though, it diverged towards general geology and tectonic plate theory.
+A lot of the sections were incredibly intricate, naming highly specific types of rocks and describing the shifting of plates in particular regions.
+As I read it I knew I would instantly forget it.
+So, while I generally enjoy McPhee's works, this one was a little difficult to get through.
+
+<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+
+## *Marie Curie*
+
+**Susan Quinn** <br>
 Rating: X / 5
 
 Text. -->
