@@ -363,14 +363,17 @@ A lot of the sections were incredibly intricate, naming highly specific types of
 As I read it I knew I would instantly forget it.
 So, while I generally enjoy McPhee's works, this one was a little difficult to get through.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172784661l/216561._SX98_.jpg"/></a>
 
 ## *Marie Curie*
 
 **Susan Quinn** <br>
-Rating: X / 5
+Rating: 4.5 / 5
 
-Text. -->
+Quinn does a great job recounting the life of one of the greatest scientists of the modern era.
+She discusses every angle including the childhood and familial background, scientific career, and life with Pierre.
+It is a relatively long book, but never dry nor boring.
+Marie Curie's life was full of remarkable events and a joy to learn about.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
@@ -385,4 +388,4 @@ Text. -->
 
 **Currently reading:**
 
-1. *Marie Curie* by Susan Quinn
+1. *Atlantis Found* by Clive Cussler
