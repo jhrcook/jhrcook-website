@@ -326,14 +326,15 @@ Some may find them (correctly) unnecessary or irrelevant to nucleic acid researc
 In general, they also illustrate a realistic story of discovery by including the other aspects of a scientist's life, rather than painting a straight line through the critical insights.
 Overall, this is a short read that should be included in any young biologist's reading list.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369859426l/4652._SX98_.jpg"/></a>
 
 ## *In Our Time*
 
 **Ernest Hemingway** <br>
-Rating: X / 5
+Rating: 3.5 / 5
 
-Text. -->
+I enjoyed some of the short stories, but none of them really connected with me like some of this other works have.
+I always appreciate Hemingway's style, so still a good evening read.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
