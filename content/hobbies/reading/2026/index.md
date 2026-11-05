@@ -336,14 +336,18 @@ Rating: 3.5 / 5
 I enjoyed some of the short stories, but none of them really connected with me like some of this other works have.
 I always appreciate Hemingway's style, so still a good evening read.
 
-<!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597760117l/30653582._SX98_.jpg"/></a>
 
 ## *Fossil Men*
 
 **Kermit Pattison** <br>
-Rating: X / 5
+Rating: 4.25 / 5
 
-Text. -->
+*Fossil Men* is an adventurous tale of discovery, science, and humanity.
+This book has the twists and turns of an adventure novel, but is also brilliantly informative about our understanding of early hominid.
+In primary school, I had learned about Lucy the *Australopithecus*, but not much since then.
+This book fills in the next couple of decades of consensus around the early evolution of man.
+I thoroughly enjoyed *Fossil Men* and would recommend it to anyone who generally enjoys Stephen J. Gould or other in-depth discussions of biology.
 
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
