@@ -375,6 +375,22 @@ She discusses every angle including the childhood and familial background, scien
 It is a relatively long book, but never dry nor boring.
 Marie Curie's life was full of remarkable events and a joy to learn about.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389418438l/41707._SX98_.jpg"/></a>
+
+## *Atlantis Found*
+
+**Clive Cussler** <br>
+Rating: 2 / 5
+
+I had high hopes for this series.
+I had been seeking out one of the top-rated novels of the Dirk Pitt series for some time and was excited when I finally found *Atlantis Found* for a couple of bucks from a sale at my local library.
+Unfortunately, this style of adventure novel is just not for me.
+The plot was just too outlandish and fantastical for my taste.
+It's not a science fiction novel by any means - it appears to be set on our planet - but it stretches too far from reality to be believable.
+That is my primary point of contention with the book, but I also thought the writing was poor in areas - overly verbose and unnatural.
+There were many scenes that sounded like they were made for early 2000's film; to be fair though, what seems like cliche in the modern era may have been novel back then.
+In the end, I'm glad I gave the series a chance, but it just isn't for me.
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
@@ -388,4 +404,4 @@ Text. -->
 
 **Currently reading:**
 
-1. *Atlantis Found* by Clive Cussler
+1. *Determined* by
