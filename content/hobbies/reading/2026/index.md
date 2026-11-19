@@ -391,6 +391,22 @@ That is my primary point of contention with the book, but I also thought the wri
 There were many scenes that sounded like they were made for early 2000's film; to be fair though, what seems like cliche in the modern era may have been novel back then.
 In the end, I'm glad I gave the series a chance, but it just isn't for me.
 
+<a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350965l/83817782._SX98_.jpg"/></a>
+
+## *Determined*
+
+**Robert Sapolsky** <br>
+Rating: 1.5 / 5
+
+What started off as an interesting scientific and philosophic investigation of free will devolved into standard Leftist Nihilistic social justice reform.
+I finish this book rather disappointed: at the beginning I was very engaged and challenged, but then feel let down by the uninteresting, political ending.
+If you can borrow this book from the library, it's worth reading and thinking about the first half, but you can safely ignore the second half without missing anything of substance.
+My low review is for the bait-and-switch I feel was perpetrated (from interesting scientific lecture to far-Left political rally) and the bad taste it left in my mouth as I finished.
+Regarding the though-provoking first half, my biggest issue is with the dismissive description - rather than a detailed definition - of "consciousness" and "free will."
+Without this definition of terms, it was difficult to fully engage with the material as I was unsure of precisely what was being discussed.
+My suspicion is that were I to re-read the book more carefully, I could pull out a few different definitions of free will that Sapolsky employed.
+In the end, if you have free will, it is an interesting half of a book; if you don’t, why bother?
+
 <!-- <a style="float: left; padding-right: 15px"><img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460910417l/28260588._SX98_.jpg"/></a>
 
 ## *Title*
@@ -404,4 +420,4 @@ Text. -->
 
 **Currently reading:**
 
-1. *Determined* by
+1. *Watership Down* by Richard Adams
