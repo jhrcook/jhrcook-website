@@ -66,8 +66,8 @@ I don't claim to have undergone this experience, but I appreciated this novel an
 
 {{< article link="/posts/2024-12-29_2024-book-review/" >}}
 <br>
-{{< article link="/jhrcook-website/posts/2023-12-31_2023-book-review/" >}}
+{{< article link="/posts/2023-12-31_2023-book-review/" >}}
 <br>
-{{< article link="/jhrcook-website/posts/2022-12-31_2022-book-review/" >}}
+{{< article link="/posts/2022-12-31_2022-book-review/" >}}
 
 ## All Book Reviews

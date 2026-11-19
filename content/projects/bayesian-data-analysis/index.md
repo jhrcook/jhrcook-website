@@ -117,7 +117,7 @@ I wrote a [**post**]({{< ref "posts/2020-07-05_uncanny-x-men-bayesian-analysis" 
 She used a bootstrapping method to build confidence intervals for an estimate of some feature of the comic books (more details are in my original post).
 My analysis was focussed on how this was similar to using a Bayesian technique, while also highlighting how a fit Bayesian model is more easily interpreted than 95% confidence intervals from a permutation test.
 
-{{< article link="/jhrcook-website/posts/2020-07-05_uncanny-x-men-bayesian-analysis/" >}}
+{{< article link="/posts/2020-07-05_uncanny-x-men-bayesian-analysis/" >}}
 
 #### Splines
 
@@ -126,9 +126,9 @@ The [first]({{<ref "posts/2020-11-14_pymc3-spline">}}) is a more detailed introd
 The [second]({{<ref "posts/2022-02-27_pymc-multilevel-spline">}}) is a more exploratory comparison of different structures for multi-level and hierarchical spline regressions.
 These models are more problematic to fit, so I experimented with different forms of spline bases and hierarchical prior distributions.
 
-{{< article link="/jhrcook-website/posts/2020-11-14_pymc3-spline/" >}}
+{{< article link="/posts/2020-11-14_pymc3-spline/" >}}
 <br>
-{{< article link="/jhrcook-website/posts/2022-02-27_pymc-multilevel-spline/" >}}
+{{< article link="/posts/2022-02-27_pymc-multilevel-spline/" >}}
 
 #### Understanding the "funnel of doom"
 
@@ -136,18 +136,18 @@ Another [**post**]({{< ref "posts/2021-07-16_mixed-parameterization-hierarchical
 The main point was to increase my own understanding of the theory Betancourt explained and the diagnostics he demonstrated.
 Also, this served as an opportunity to create a model in PyMC3 with a mixture of centered and non-centered parameterizations, a technique I may need in my own work.
 
-{{< article link="/jhrcook-website/posts/2021-07-16_mixed-parameterization-hierarchical-model/" >}}
+{{< article link="/posts/2021-07-16_mixed-parameterization-hierarchical-model/" >}}
 
 #### Non-linear modeling of serial dilutions
 
 This was a [**post**]({{< ref "posts/2022-01-22_stan-serial-dilution" >}}) following the model for serial dilutions in the *Bayesian Data Analysis* book by Gelman *et al.*
 I built the model with Stan and sampling from the posterior with MCMC then conducted some standard analyses of the posterior distributions and predictions.
 
-{{< article link="/jhrcook-website/posts/2022-01-22_stan-serial-dilution/" >}}
+{{< article link="/posts/2022-01-22_stan-serial-dilution/" >}}
 
 #### Comparing MCMC runtimes
 
 I did a brief analysis of the [runtimes of MCMC sampling]({{< ref "posts/2022-02-11_theano-blas-warning" >}}) from a very large (several thousand parameters) hierarchical negative binomial model under several conditions.
 Unexpectedly, this drove me to update my graduate project to version 4 of PyMC for the gain in sampling speed.
 
-{{< article link="/jhrcook-website/posts/2022-02-11_theano-blas-warning/" >}}
+{{< article link="/posts/2022-02-11_theano-blas-warning/" >}}

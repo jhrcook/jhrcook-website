@@ -51,4 +51,4 @@ This was part of an incredible backpacking trip with my good friend, Jacob, thro
 The adventure to catch this beautiful fish in the stunning Sierra Nevada scenery is one I will never forget.
 I recount the trip in greater detail in the blog post below.
 
-{{< article link="/jhrcook-website/posts/2026-07-02_golden-trout-wilderness/" >}}
+{{< article link="/posts/2026-07-02_golden-trout-wilderness/" >}}

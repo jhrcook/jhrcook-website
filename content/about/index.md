@@ -90,7 +90,7 @@ In graduate school, I discovered a passion for Bayesian statistics.
 Below is a project page I compiled many of the Bayesian analyses I performed.
 Currently, my job does not directly utilize this specific skill set, but Bayesian statistics still influences my reasoning process.
 
-{{< article link="/jhrcook-website/projects/bayesian-data-analysis/" >}}
+{{< article link="/projects/bayesian-data-analysis/" >}}
 
 <br>
 

@@ -73,4 +73,4 @@ Next, I think, are the remaining two subspecies of Golden Trout in the southern 
 
 <br>
 
-{{< article link="/jhrcook-website/posts/2026-07-02_golden-trout-wilderness/" showSummary=true compactSummary=true >}}
+{{< article link="/posts/2026-07-02_golden-trout-wilderness/" showSummary=true compactSummary=true >}}
